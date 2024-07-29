@@ -1,14 +1,12 @@
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="🏆2024奥运会🏆",咪咕奥运会 4K
+
+
+#EXTINF:-1 tvg-id="400216157" tvg-name="✦●✦| OLYMPIC |✦●✦" tvg-logo="https://lo1.in/olym/oly.png" group-title="🏆2024奥运会🏆",咪咕奥运会 4K
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="400216157" tvg-name="✦●✦| OLYMPIC |✦●✦" tvg-logo="https://lo1.in/olym/oly.png" group-title="🏆2024奥运会🏆",CCTV4K 需将UA改成'okhttp/3'
+#EXTINF:-1 tvg-id="400216157" tvg-name="✦●✦| OLYMPIC |✦●✦" tvg-logo="https://lo1.in/olym/oly.png" group-title="🏆2024奥运会🏆",CCTV4K 超高清
 http://148.135.93.213:81/live.php?id=CCTV4K
-#EXTINF:-1 tvg-id="400216157" tvg-name="✦●✦| OLYMPIC |✦●✦" tvg-logo="https://lo1.in/olym/oly.png" group-title="🏆2024奥运会🏆",CCTV16-4K 需将UA改成'okhttp/3'
-http://148.135.93.213:81/live.php?id=CCTV16-4K
-#EXTINF:-1 tvg-id="400216157" tvg-name="✦●✦| OLYMPIC |✦●✦" tvg-logo="https://lo1.in/olym/oly.png" group-title="🏆2024奥运会🏆",CCTV1-4K 需将UA改成'okhttp/3'
-http://148.135.93.213:81/live.php?id=CCTV1-4K
-#EXTINF:-1 tvg-id="400216157" tvg-name="✦●✦| OLYMPIC |✦●✦" tvg-logo="https://lo1.in/olym/oly.png" group-title="🏆2024奥运会🏆",CCTV5-4K 需将UA改成'okhttp/3'
-http://148.135.93.213:81/live.php?id=CCTV5-4K
-#EXTINF:-1 tvg-id="400216157" tvg-name="✦●✦| OLYMPIC |✦●✦" tvg-logo="https://lo1.in/olym/oly.png" group-title="🏆2024奥运会🏆",CCTV16 奥林匹克 (ipv4)
+#EXTINF:-1 tvg-id="400216157" tvg-name="✦●✦| OLYMPIC |✦●✦" tvg-logo="https://lo1.in/olym/oly.png" group-title="🏆2024奥运会🏆",CCTV5 体育
+http://148.135.93.213:81/live.php?id=CCTV5
+#EXTINF:-1 tvg-id="400216157" tvg-name="✦●✦| OLYMPIC |✦●✦" tvg-logo="https://lo1.in/olym/oly.png" group-title="🏆2024奥运会🏆",CCTV16 奥林匹克
 http://148.135.93.213:81/live.php?id=CCTV16
 #EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="🏆2024奥运会🏆",ELTA奥运1台
 http://cdn.1678520.xyz/xsj.php?id=elta-oly1
@@ -2005,8 +2003,7 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="🐉4K-8K频道",Clarity-4K
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1 group-title="🐉4K-8K频道",👉此处以下频道需要魔法👈
-https://7692.kstore.space/4.mp4
+
 #EXTINF:-1 group-title="🐉4K-8K频道",ESPN 1 ⁴ᵏ
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/301371.m3u8
 #EXTINF:-1 group-title="🐉4K-8K频道",ESPN 3 ⁴ᵏ
@@ -2030,13 +2027,6 @@ http://apptv.xyz:80/alia4remz/rrynDeBGS/86269
 #EXTINF:-1 group-title="🐉4K-8K频道",Hub Premier 2 ⁴ᵏ
 http://apptv.xyz:80/alia4remz/rrynDeBGS/86270
 
-
-#EXTINF:-1 group-title="🐉国内体育",CCTV-5+
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 group-title="🐉国内体育",CCTV-5
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 group-title="🐉国内体育",风云足球
-https://live.goodiptv.club/api/yqgd.php?id=fyzq
 
 
 #EXTINF:-1 tvg-logo="https://tv.iill.top/logo/咪咕.png" group-title="🐉咪咕体育「全网」",咪咕直播4K Ⅰ
@@ -2288,6 +2278,149 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv.iill.top/logo/咪咕.png" group-title="🐉咪咕体育「移动」",咪咕体育29
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 
+
+#EXTINF:-1 group-title="🐉电影频道🎥",CHC高清电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",CHC家庭影院
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",CHC动作电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",CHC家庭影院
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",超级电影
+http://39.134.65.164/PLTV/88888888/224/3221225644/1.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",动作电影
+http://39.134.65.164/PLTV/88888888/224/3221225555/1.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",黑莓电影
+http://39.134.67.226/PLTV/88888888/224/3221225681/index.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",黑莓电影
+http://39.134.65.208/PLTV/88888888/224/3221225681/index.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",黑莓电影
+http://39.135.32.236:6610/PLTV/77777777/224/3221225740/index.m3u8?
+#EXTINF:-1 group-title="🐉电影频道🎥",CCTV-6电影
+http://39.134.65.175/PLTV/88888888/224/3221225814/index.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",CCTV-6电影
+http://39.135.32.27:6610/000000001000/1000000001000001737/index.m3u8?i
+#EXTINF:-1 group-title="🐉电影频道🎥",NewTV超级电影
+http://39.134.65.162/PLTV/88888888/224/3221225644/1.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",NewTV超级电影
+http://39.134.65.175/PLTV/88888888/224/3221225644/1.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",NewTV超级电影
+http://39.134.65.179/PLTV/88888888/224/3221225644/1.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",NewTV超级电影
+http://39.134.65.173/PLTV/88888888/224/3221225644/1.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",NewTV超级电影
+http://39.134.65.208/PLTV/88888888/224/3221225644/index.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",NewTV超级电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",NewTV超级电影 (1080p)
+http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",NewTV动作电影
+http://39.134.65.166/PLTV/88888888/224/3221225555/1.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",NewTV动作电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",NewTV动作电影
+http://111.12.101.22:6610/PLTV/77777777/224/3221225703/index.m3u8?%24
+#EXTINF:-1 group-title="🐉电影频道🎥",南京影院频道
+http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",平泉影院频道
+https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",绍兴影院频道
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",新昌休闲影院
+http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",神乐影院-1台
+https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",神乐影院-2台
+https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",万州影视
+http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",万州影视
+http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",河北影视
+https://jwplay.hebyun.com.cn:443/live/hbystv/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",溧水影视
+http://live.lsrmw.cn/ysyl/sd/live.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",吉林影视
+http://stream1.jlntv.cn/yspd/sd/live.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",滨海影视
+http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",烟台影视
+http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",北京影视
+https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv4_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 group-title="🐉电影频道🎥",新泰影视
+http://111.17.214.4:1935/live/xtys/playlist.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",石河子影视文体
+http://124.88.144.73:1935/live/jjsh/HasBahCa.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",隆化影视
+http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",吉林影视
+http://stream1.jlntv.cn/yspd/sd/live.m3u8?_upt=f6b685651648171016
+#EXTINF:-1 group-title="🐉电影频道🎥",隆化影视
+http://hblh.chinashadt.com:2036/live/stream:lh2.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",烟台影视
+http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",影视频道
+http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",美丽中国说
+http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",长城精品
+http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",中国气象
+http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",溧水影视
+https://live.lsrmw.cn/ysyl/sd/live.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",柳林影视
+http://pili-live-hls.212.i2863.com/i2863-212/live_212_316579.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",菏泽影视
+http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",定州国学影视
+https://jwcdnqx.hebyun.com.cn/live/yspd/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",新泰影视
+http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",平泉影视频道
+http://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",山西影视
+http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
+#EXTINF:-1 group-title="🐉电影频道🎥",CGTN Espa?ol
+http://livees.cgtn.com/500e/prog_index.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",新昌影视
+https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",CGTN France
+http://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",石首影视
+http://p8.vzan.com/slowlive/798787236084269922/live.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",淮安影视
+http://live1.habctv.com/ysylsl/playlist.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",上虞影视
+http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",苏州4K
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?blog.ntnas.top
+#EXTINF:-1 group-title="🐉电影频道🎥",CGTN Arabic
+http://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",永清影视
+http://60.10.203.69:8000/4.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",安徽影视
+http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd
+#EXTINF:-1 group-title="🐉电影频道🎥",石河子影视
+http://124.88.144.73:1935/live/jjsh/playlist.m3u8?
+#EXTINF:-1 group-title="🐉电影频道🎥",江苏影视
+https://cntv.dfkj.live/jstv.php?id=jsys
+#EXTINF:-1 group-title="🐉电影频道🎥",利辛影视
+https://live.fst1994.net/hls/lixinys/index.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",拉萨影视
+http://220.182.45.198:20088/tsfile/live/1003_1.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",句容影视
+http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",定州国学影视
+https://jwliveqxzb.hebyun.com.cn/yspd/yspd.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",一号影厅
+http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+#EXTINF:-1 group-title="🐉电影频道🎥",二号影厅
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",三号影厅
+http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉上海频道",五星体育「组播」
 http://www.17888.fun:10000/udp/239.45.3.210:5140
