@@ -3,6 +3,14 @@
 
 #EXTINF:-1 tvg-id="400216157" tvg-name="✦●✦| OLYMPIC |✦●✦" tvg-logo="https://lo1.in/olym/oly.png" group-title="🏆2024奥运会-①🏆",咪咕奥运会 4K
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="ba30c5bb4558a98772f857040179339b" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/CCTV5.png\" group-title="🏆2024奥运会-①🏆",CCTV-5
+https://iptv.doyoulinkwantyousee.top:2672/stream/channelid/1002778810?profile=pass
+#EXTINF:-1 tvg-id="2c6a006ab2bfc8a8693035a4016d02c9" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/CCTV5plus.png" group-title="🏆2024奥运会-①🏆",CCTV-5+
+https://iptv.doyoulinkwantyousee.top:2672/stream/channelid/1778412076?profile=pass
+#EXTINF:-1 tvg-id="ba28add2909c9c235a82ca3a43d5bb17" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/CCTV16.png" group-title="🏆2024奥运会-①🏆",CCTV-16
+https://iptv.doyoulinkwantyousee.top:2672/stream/channelid/1387079866?profile=pass
+#EXTINF:-1 tvg-id="881b9407ce2015d885f71375209449da" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/CCTV16.png" group-title="🏆2024奥运会-①🏆",CCTV-16 4K
+https://iptv.doyoulinkwantyousee.top:2672/stream/channelid/127146888?profile=pass
 #EXTINF:-1 tvg-id="400216157" tvg-name="✦●✦| OLYMPIC |✦●✦" tvg-logo="https://lo1.in/olym/oly.png" group-title="🏆2024奥运会-①🏆",CCTV4K 超高清
 http://148.135.93.213:81/live.php?id=CCTV4K
 #EXTINF:-1 tvg-id="400216157" tvg-name="✦●✦| OLYMPIC |✦●✦" tvg-logo="https://lo1.in/olym/oly.png" group-title="🏆2024奥运会-①🏆",CCTV16-4K (ipv6)
@@ -61,279 +69,6 @@ https://tvb.mytvsuper.us.kg/stream/tvb/816/master.m3u8?u=btjson&p=213f2541f159ac
 https://tvb.mytvsuper.us.kg/stream/tvb/null-34/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 https://api.btbt.im/live?id=mytvsuper-oly817
 
-
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「铁人三项」13:50 🏅🇨🇳女子个人赛 林鑫瑜出战 解说
-https://tv.iill.top/OG/43
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「铁人三项」13:50 🏅🇨🇳女子个人赛 林鑫瑜出战 原声
-https://tv.iill.top/OG/44
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「羽毛球」14:00 🇨🇳小组赛 石宇奇剑指八强 1号场地（鸿昆、鲍春来）
-https://tv.iill.top/OG/45
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「羽毛球」14:00 🇨🇳小组赛 石宇奇剑指八强 2号场地（周顺）
-https://tv.iill.top/OG/46
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「羽毛球」14:00 🇨🇳小组赛 石宇奇剑指八强 3号场地（蔡凯臣）
-https://tv.iill.top/OG/47
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「羽毛球」14:00 🇨🇳小组赛 石宇奇剑指八强 1号场地（AVS3)（鸿昆、鲍春来）
-https://tv.iill.top/OG/48
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「羽毛球」14:00 🇨🇳小组赛 石宇奇剑指八强 1号球场（原声）
-https://tv.iill.top/OG/49
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「羽毛球」14:00 🇨🇳小组赛 石宇奇剑指八强 2号球场（原声）
-https://tv.iill.top/OG/50
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「羽毛球」14:00 🇨🇳小组赛 石宇奇剑指八强 3号球场（原声）
-https://tv.iill.top/OG/51
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「手球」14:50 男子预赛B组：挪威 VS 匈牙利 2024奥运会：男子预赛B组 挪威VS匈牙利（远程高校）（黄泽宇）
-https://tv.iill.top/OG/52
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「手球」14:50 男子预赛B组：挪威 VS 匈牙利 2024奥运会： 男子预赛B组 挪威VS匈牙利 赛场原声
-https://tv.iill.top/OG/53
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「排球」14:50 男子预赛B组：波兰 VS 巴西 解说：景荣 景荣
-https://tv.iill.top/OG/54
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「排球」14:50 男子预赛B组：波兰 VS 巴西 清流
-https://tv.iill.top/OG/55
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「沙滩排球」14:50 小组赛第5比赛日早场 崔佳
-https://tv.iill.top/OG/56
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「沙滩排球」14:50 小组赛第5比赛日早场 清流
-https://tv.iill.top/OG/57
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「赛艇」15:25 🏅🇨🇳女子四人双桨等多项半决赛、决赛 陈文博
-https://tv.iill.top/OG/58
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「赛艇」15:25 🏅🇨🇳女子四人双桨等多项半决赛、决赛 清流DX16
-https://tv.iill.top/OG/59
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「曲棍球」15:50 女子分组循环赛B组：阿根廷 VS 西班牙 曲可乐/远程高校
-https://tv.iill.top/OG/60
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「曲棍球」15:50 女子分组循环赛B组：阿根廷 VS 西班牙 清流DX40
-https://tv.iill.top/OG/61
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「马术」15:55 盛装舞步团体大奖赛、个人预赛第2天 解说：尹少坤 尹少坤
-https://tv.iill.top/OG/62
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「马术」15:55 盛装舞步团体大奖赛、个人预赛第2天 清流
-https://tv.iill.top/OG/63
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「柔道」15:55 女子70公斤级、男子90公斤级预赛 1垫张凌宇 张凌宇
-https://tv.iill.top/OG/64
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「柔道」15:55 女子70公斤级、男子90公斤级预赛 2垫陈瑞阳 陈瑞阳
-https://tv.iill.top/OG/65
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「柔道」15:55 女子70公斤级、男子90公斤级预赛 1垫清流
-https://tv.iill.top/OG/66
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「柔道」15:55 女子70公斤级、男子90公斤级预赛 2垫清流
-https://tv.iill.top/OG/67
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「乒乓球」15:55 🇨🇳男女单打1/16决赛：王楚钦、樊振东出战 1号台周泽昊 周泽昊
-https://tv.iill.top/OG/68
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「乒乓球」15:55 🇨🇳男女单打1/16决赛：王楚钦、樊振东出战 2号台周轩逸 周轩逸
-https://tv.iill.top/OG/69
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「乒乓球」15:55 🇨🇳男女单打1/16决赛：王楚钦、樊振东出战 3号台李宏德 李宏德
-https://tv.iill.top/OG/70
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「乒乓球」15:55 🇨🇳男女单打1/16决赛：王楚钦、樊振东出战 4号台傅悦修 傅悦修
-https://tv.iill.top/OG/71
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「乒乓球」15:55 🇨🇳男女单打1/16决赛：王楚钦、樊振东出战 1号台清流
-https://tv.iill.top/OG/72
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「乒乓球」15:55 🇨🇳男女单打1/16决赛：王楚钦、樊振东出战 2号台清流
-https://tv.iill.top/OG/73
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「乒乓球」15:55 🇨🇳男女单打1/16决赛：王楚钦、樊振东出战 3号台清流
-https://tv.iill.top/OG/74
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「乒乓球」15:55 🇨🇳男女单打1/16决赛：王楚钦、樊振东出战 4号台清流
-https://tv.iill.top/OG/75
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「曲棍球」16:20 女子分组循环赛B组：南非 VS 英国 奉俊良/远程高校
-https://tv.iill.top/OG/76
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「曲棍球」16:20 女子分组循环赛B组：南非 VS 英国 清流DX41
-https://tv.iill.top/OG/77
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「跳水」16:30 🏅🇨🇳女子双人10米跳台 钟宇峰，张家齐 解说
-https://tv.iill.top/OG/78
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「跳水」16:30 🏅🇨🇳女子双人10米跳台 赛场原声
-https://tv.iill.top/OG/79
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「铁人三项」16:45 🏅男子个人赛
-https://tv.iill.top/OG/80
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「篮球」16:50 女子小组赛A组：波多黎各 VS 西班牙 解说
-https://tv.iill.top/OG/81
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「篮球」16:50 女子小组赛A组：波多黎各 VS 西班牙 清流DX36
-https://tv.iill.top/OG/82
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「手球」16:50 男子预赛A组：克罗地亚 VS 德国 2024奥运会：男子预赛A组 克罗地亚VS德国（远程高校）（黄泽宇）
-https://tv.iill.top/OG/83
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「手球」16:50 男子预赛A组：克罗地亚 VS 德国 2024奥运会： 男子预赛A组 克罗地亚VS德国
-https://tv.iill.top/OG/84
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「拳击」16:55 女子60公斤级等多项1/8及1/4决赛 李威蓄
-https://tv.iill.top/OG/85
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「拳击」16:55 女子60公斤级等多项1/8及1/4决赛 王琰博
-https://tv.iill.top/OG/86
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「拳击」16:55 女子60公斤级等多项1/8及1/4决赛 清流
-https://tv.iill.top/OG/87
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「游泳」16:55 🇨🇳男子200仰&女子200蛙、蝶预赛 柳亚鹏 解说
-https://tv.iill.top/OG/88
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「游泳」16:55 🇨🇳男子200仰&女子200蛙、蝶预赛 清流DX05
-https://tv.iill.top/OG/89
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「射箭」17:55 🇨🇳个人1/32、1/16淘汰赛早场 周澈 解说
-https://tv.iill.top/OG/90
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「射箭」17:55 🇨🇳个人1/32、1/16淘汰赛早场 清流DX01
-https://tv.iill.top/OG/91
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「网球」17:55 🇨🇳第5比赛日日场 詹俊、郑洁 解说
-https://tv.iill.top/OG/92
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「网球」17:55 🇨🇳第5比赛日日场 苏珊·朗格伦球场（远程解说）
-https://tv.iill.top/OG/93
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「网球」17:55 🇨🇳第5比赛日日场 西蒙娜·马蒂厄球场（远程解说）
-https://tv.iill.top/OG/94
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「网球」17:55 🇨🇳第5比赛日日场 7号球场（远程解说）
-https://tv.iill.top/OG/95
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「网球」17:55 🇨🇳第5比赛日日场 14号球场（远程解说）
-https://tv.iill.top/OG/96
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「网球」17:55 🇨🇳第5比赛日日场 中央球场
-https://tv.iill.top/OG/97
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「网球」17:55 🇨🇳第5比赛日日场 苏珊·朗格伦球场
-https://tv.iill.top/OG/98
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「网球」17:55 🇨🇳第5比赛日日场 西蒙娜·马修球场
-https://tv.iill.top/OG/99
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「网球」17:55 🇨🇳第5比赛日日场 14号球场
-https://tv.iill.top/OG/100
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「网球」17:55 🇨🇳第5比赛日日场 7号球场
-https://tv.iill.top/OG/101
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「帆船」18:00 🇨🇳第4比赛日 中国军团出战 解说
-https://tv.iill.top/OG/102
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「帆船」18:00 🇨🇳第4比赛日 中国军团出战 赛场原声
-https://tv.iill.top/OG/103
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「曲棍球」18:35 女子分组循环赛A组：法国 VS 德国 柳昱帆/远程高校
-https://tv.iill.top/OG/104
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「曲棍球」18:35 女子分组循环赛A组：法国 VS 德国 清流DX40
-https://tv.iill.top/OG/105
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「排球」18:50 男子预赛C组：日本 VS 阿根廷 解说：樊宇良 樊宇良
-https://tv.iill.top/OG/106
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「排球」18:50 男子预赛C组：日本 VS 阿根廷 清流
-https://tv.iill.top/OG/107
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「自由式小轮车」18:55 🏅🇨🇳男、女公园赛决赛 解说
-https://tv.iill.top/OG/108
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「自由式小轮车」18:55 🏅🇨🇳男、女公园赛决赛 原声
-https://tv.iill.top/OG/109
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「篮球」19:00 🇨🇳女子小组赛A组：中国 VS 塞尔维亚 解说
-https://tv.iill.top/OG/110
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「篮球」19:00 🇨🇳女子小组赛A组：中国 VS 塞尔维亚 闽南语
-https://tv.iill.top/OG/111
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「篮球」19:00 🇨🇳女子小组赛A组：中国 VS 塞尔维亚 AVS3
-https://tv.iill.top/OG/112
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「篮球」19:00 🇨🇳女子小组赛A组：中国 VS 塞尔维亚 清流DX36
-https://tv.iill.top/OG/113
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「曲棍球」19:05 女子分组循环赛B组：澳大利亚 VS 美国 张嘉仪/远程高校
-https://tv.iill.top/OG/114
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「曲棍球」19:05 女子分组循环赛B组：澳大利亚 VS 美国 清流DX41
-https://tv.iill.top/OG/115
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「击剑」19:25 男子团体佩剑 8强赛至半决赛 绿色剑道姜帆 姜帆
-https://tv.iill.top/OG/116
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「击剑」19:25 男子团体佩剑 8强赛至半决赛 蓝色剑道底逸凡 底逸凡
-https://tv.iill.top/OG/117
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「击剑」19:25 男子团体佩剑 8强赛至半决赛 黄色剑道谢钰杰 谢钰杰
-https://tv.iill.top/OG/118
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「击剑」19:25 男子团体佩剑 8强赛至半决赛 红色剑道刘凡绫 刘凡绫
-https://tv.iill.top/OG/119
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「击剑」19:25 男子团体佩剑 8强赛至半决赛 绿色剑道原声
-https://tv.iill.top/OG/120
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「击剑」19:25 男子团体佩剑 8强赛至半决赛 蓝色剑道原声
-https://tv.iill.top/OG/121
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「击剑」19:25 男子团体佩剑 8强赛至半决赛 黄色剑道原声
-https://tv.iill.top/OG/122
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「击剑」19:25 男子团体佩剑 8强赛至半决赛 红色剑道原声
-https://tv.iill.top/OG/123
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「手球」19:50 男子预赛A组：西班牙 VS 日本 2024奥运会：男子预赛A组 西班牙VS日本（远程高校）（杨淏淞）
-https://tv.iill.top/OG/124
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「手球」19:50 男子预赛A组：西班牙 VS 日本 2024奥运会： 男子预赛A组 西班牙VS日本
-https://tv.iill.top/OG/125
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「水球」19:50 女子预赛A组：荷兰 VS 澳大利亚 叶蕾
-https://tv.iill.top/OG/126
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「水球」19:50 女子预赛A组：荷兰 VS 澳大利亚 清流DX44
-https://tv.iill.top/OG/127
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「羽毛球」19:55 🇨🇳小组赛 图欧组合出线生死战 2号场地（甘轲晗）
-https://tv.iill.top/OG/128
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「羽毛球」19:55 🇨🇳小组赛 图欧组合出线生死战 1号场地（杨弋非）
-https://tv.iill.top/OG/129
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「羽毛球」19:55 🇨🇳小组赛 图欧组合出线生死战 3号场地（李嘉滢）
-https://tv.iill.top/OG/130
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「羽毛球」19:55 🇨🇳小组赛 图欧组合出线生死战 2号场地（AVS3)（甘轲晗）
-https://tv.iill.top/OG/131
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「羽毛球」19:55 🇨🇳小组赛 图欧组合出线生死战 1号球场（原声）
-https://tv.iill.top/OG/132
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「羽毛球」19:55 🇨🇳小组赛 图欧组合出线生死战 2号球场（原声）
-https://tv.iill.top/OG/133
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「羽毛球」19:55 🇨🇳小组赛 图欧组合出线生死战 3号球场（原声）
-https://tv.iill.top/OG/134
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「沙滩排球」20:50 小组赛第5比赛日午场 陈博媛
-https://tv.iill.top/OG/135
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「沙滩排球」20:50 小组赛第5比赛日午场 清流
-https://tv.iill.top/OG/136
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「乒乓球」20:55 男女单打1/8决赛：卫冕冠军陈梦冲八强 1号台周冠达 周冠达
-https://tv.iill.top/OG/137
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「乒乓球」20:55 男女单打1/8决赛：卫冕冠军陈梦冲八强 2号台李静月 李静月
-https://tv.iill.top/OG/138
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「乒乓球」20:55 男女单打1/8决赛：卫冕冠军陈梦冲八强 3号台周泽昊 周泽昊
-https://tv.iill.top/OG/139
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「乒乓球」20:55 男女单打1/8决赛：卫冕冠军陈梦冲八强 4号台傅悦修 傅悦修
-https://tv.iill.top/OG/140
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「乒乓球」20:55 男女单打1/8决赛：卫冕冠军陈梦冲八强 1号台清流
-https://tv.iill.top/OG/141
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「乒乓球」20:55 男女单打1/8决赛：卫冕冠军陈梦冲八强 2号台清流
-https://tv.iill.top/OG/142
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「乒乓球」20:55 男女单打1/8决赛：卫冕冠军陈梦冲八强 3号台清流
-https://tv.iill.top/OG/143
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「乒乓球」20:55 男女单打1/8决赛：卫冕冠军陈梦冲八强 4号台清流
-https://tv.iill.top/OG/144
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「射击」21:20 🏅🇨🇳女子多向飞碟决赛 解说
-https://tv.iill.top/OG/145
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「射击」21:20 🏅🇨🇳女子多向飞碟决赛 原声
-https://tv.iill.top/OG/146
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「皮划艇激流回旋」21:25 🏅🇨🇳第5比赛日 解说：陈文博 陈文博
-https://tv.iill.top/OG/147
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「皮划艇激流回旋」21:25 🏅🇨🇳第5比赛日 清流
-https://tv.iill.top/OG/148
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「水球」21:25 🇨🇳女子预赛A组：加拿大 VS 中国 叶蕾
-https://tv.iill.top/OG/149
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「水球」21:25 🇨🇳女子预赛A组：加拿大 VS 中国 清流DX44
-https://tv.iill.top/OG/150
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「手球」21:50 男子预赛A组：斯洛文尼亚 VS 瑞典 2024奥运会：男子预赛A组 斯洛文尼亚VS瑞典（远程高校）（杨淏淞）
-https://tv.iill.top/OG/151
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「手球」21:50 男子预赛A组：斯洛文尼亚 VS 瑞典 2024奥运会： 男子预赛A组 斯洛文尼亚VS瑞典
-https://tv.iill.top/OG/152
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「柔道」21:55 🏅女子70公斤级、男子90公斤级决赛 王腾霄
-https://tv.iill.top/OG/153
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「柔道」21:55 🏅女子70公斤级、男子90公斤级决赛 清流
-https://tv.iill.top/OG/154
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「排球」22:50 女子预赛A组：美国 VS 塞尔维亚 解说：朱羿卫 朱羿卫
-https://tv.iill.top/OG/155
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「排球」22:50 女子预赛A组：美国 VS 塞尔维亚 清流
-https://tv.iill.top/OG/156
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「曲棍球」22:50 女子分组循环赛A组：比利时 VS 日本 王译仟/远程高校
-https://tv.iill.top/OG/157
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「曲棍球」22:50 女子分组循环赛A组：比利时 VS 日本 清流DX40
-https://tv.iill.top/OG/158
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「足球」22:50 女子C组：巴西 VS 西班牙 梁祥宇 解说
-https://tv.iill.top/OG/159
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「足球」22:50 女子C组：巴西 VS 西班牙 清流DX34
-https://tv.iill.top/OG/160
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「足球」22:50 女子C组：日本 VS 尼日利亚 张学洋 解说
-https://tv.iill.top/OG/161
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「足球」22:50 女子C组：日本 VS 尼日利亚 清流DX14
-https://tv.iill.top/OG/162
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「竞技体操」23:00 🏅🇨🇳男子全能决赛 钟宇峰、杨威、杨云
-https://tv.iill.top/OG/163
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「竞技体操」23:00 🏅🇨🇳男子全能决赛 清流
-https://tv.iill.top/OG/164
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「竞技体操」23:00 🏅🇨🇳男子全能决赛 自由体操
-https://tv.iill.top/OG/165
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「竞技体操」23:00 🏅🇨🇳男子全能决赛 鞍马
-https://tv.iill.top/OG/166
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「竞技体操」23:00 🏅🇨🇳男子全能决赛 吊环
-https://tv.iill.top/OG/167
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「竞技体操」23:00 🏅🇨🇳男子全能决赛 跳马
-https://tv.iill.top/OG/168
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「竞技体操」23:00 🏅🇨🇳男子全能决赛 双杠
-https://tv.iill.top/OG/169
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「竞技体操」23:00 🏅🇨🇳男子全能决赛 单杠
-https://tv.iill.top/OG/170
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「篮球」23:05 男子小组赛C组：波多黎各 VS 塞尔维亚 蔡凯臣季孟年
-https://tv.iill.top/OG/171
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「篮球」23:05 男子小组赛C组：波多黎各 VS 塞尔维亚 原声
-https://tv.iill.top/OG/172
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「曲棍球」23:20 男子分组循环赛A组：德国 VS 荷兰 岳珂帆/远程高校
-https://tv.iill.top/OG/173
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「曲棍球」23:20 男子分组循环赛A组：德国 VS 荷兰 清流DX41
-https://tv.iill.top/OG/174
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「三人篮球」23:25 🇨🇳分组循环赛 中国男、女篮出战 解说
-https://tv.iill.top/OG/175
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「三人篮球」23:25 🇨🇳分组循环赛 中国男、女篮出战 赛场原声
-https://tv.iill.top/OG/176
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「射箭」23:40 个人1/32、1/16淘汰赛晚场 周澈 解说
-https://tv.iill.top/OG/177
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「射箭」23:40 个人1/32、1/16淘汰赛晚场 清流DX01
-https://tv.iill.top/OG/178
 
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="🐉高码率线路-①💥",CCTV1
@@ -621,135 +356,247 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="🐉高码率线路-③💥",CGTN纪录
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225602/index.m3u8
 
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="🐉高码率线路-④💥",CCTV1
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000501/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="🐉高码率线路-④💥",CCTV2
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000502/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="🐉高码率线路-④💥",CCTV3
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000003/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="🐉高码率线路-④💥",CCTV4
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000503/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="🐉高码率线路-④💥",CCTV5
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000005/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="🐉高码率线路-④💥",CCTV5+
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000507/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="🐉高码率线路-④💥",CCTV6
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000006/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="🐉高码率线路-④💥",CCTV7
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000504/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="🐉高码率线路-④💥",CCTV8
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000008/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="🐉高码率线路-④💥",CCTV9
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000505/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="🐉高码率线路-④💥",CCTV10
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000506/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="🐉高码率线路-④💥",CCTV11
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000508/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="🐉高码率线路-④💥",CCTV12
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000509/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="🐉高码率线路-④💥",CCTV13
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000510/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="🐉高码率线路-④💥",CCTV14
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000511/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="🐉高码率线路-④💥",CCTV15
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000512/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="🐉高码率线路-④💥",CCTV16
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000016/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="🐉高码率线路-④💥",CCTV17
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000513/index.m3u8?
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="🐉高码率线路-④💥",北京卫视
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000516/index.m3u8?
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="🐉高码率线路-④💥",湖南卫视
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000523/index.m3u8?
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="🐉高码率线路-④💥",东方卫视
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000518/index.m3u8?
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="🐉高码率线路-④💥",江苏卫视
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000524/index.m3u8?
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="🐉高码率线路-④💥",广东卫视
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000520/index.m3u8?
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="🐉高码率线路-④💥",深圳卫视
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000529/index.m3u8?
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="🐉高码率线路-④💥",天津卫视
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000530/index.m3u8?
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="🐉高码率线路-④💥",湖北卫视
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000522/index.m3u8?
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="🐉高码率线路-④💥",辽宁卫视
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000526/index.m3u8?
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="🐉高码率线路-④💥",安徽卫视
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000514/index.m3u8?
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="🐉高码率线路-④💥",浙江卫视
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000531/index.m3u8?
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="🐉高码率线路-④💥",山东卫视
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000527/index.m3u8?
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="🐉高码率线路-④💥",黑龙江卫视
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000521/index.m3u8?
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="🐉高码率线路-④💥",重庆卫视
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000517/index.m3u8?
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="🐉高码率线路-④💥",四川卫视
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000025/index.m3u8?
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="🐉高码率线路-④💥",贵州卫视
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000036/index.m3u8?
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="🐉高码率线路-④💥",云南卫视
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000035/index.m3u8?
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="🐉高码率线路-④💥",江西卫视
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000525/index.m3u8?
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="🐉高码率线路-④💥",东南卫视
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000519/index.m3u8?
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="🐉高码率线路-④💥",海南卫视
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000037/index.m3u8?
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="🐉高码率线路-④💥",吉林卫视
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000030/index.m3u8?
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="🐉高码率线路-④💥",甘肃卫视
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000023/index.m3u8?
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="🐉高码率线路-④💥",河南卫视
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000027/index.m3u8?
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="🐉高码率线路-④💥",广西卫视
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000034/index.m3u8?
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="🐉高码率线路-④💥",青海卫视
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000042/index.m3u8?
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="🐉高码率线路-④💥",内蒙古卫视
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000044/index.m3u8?
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="🐉高码率线路-④💥",西藏卫视
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000043/index.m3u8?
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="🐉高码率线路-④💥",新疆卫视
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000045/index.m3u8?
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="🐉高码率线路-④💥",宁夏卫视
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000047/index.m3u8?
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="🐉高码率线路-④💥",山西卫视
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000053/index.m3u8?
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="🐉高码率线路-④💥",河北卫视
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000057/index.m3u8?
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="🐉高码率线路-④💥",厦门卫视
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000058/index.m3u8?
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://live.fanmingming.com/tv/农林卫视.png" group-title="🐉高码率线路-④💥",农林卫视
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000060/index.m3u8?
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="🐉高码率线路-④💥",兵团卫视
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000059/index.m3u8?
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="🐉高码率线路-④💥",嘉佳卡通
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000061/index.m3u8?
+#EXTINF:-1 tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/北京纪实.png" group-title="🐉高码率线路-④💥",北京纪实
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000515/index.m3u8?
+#EXTINF:-1 tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/上海纪实.png" group-title="🐉高码率线路-④💥",上海纪实
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000528/index.m3u8?
 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="🐉高码率线路-④💥",CCTV1
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="🐉高码率线路-⑤💥",CCTV1
 http://[2409:8087:2801:22:100::7d]/wh7f454c46tw3073776522_1064749656/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236222/index.m3u8?icpid=88888888&RTS=1717809603&from=5&ocs=2_2409:8087:2801:22:100::74_80&hms_devid=323&online=1717809603&vqe=3
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="🐉高码率线路-④💥",CCTV2
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="🐉高码率线路-⑤💥",CCTV2
 http://[2409:8087:2801:22:100::62]/wh7f454c46tw3120981737_1855966134/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236393/index.m3u8?icpid=88888888&RTS=1717809650&from=5&ocs=2_2409:8087:2801:22:100::7e_80&hms_devid=314&online=1717809650&vqe=3
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="🐉高码率线路-④💥",CCTV3
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="🐉高码率线路-⑤💥",CCTV3
 http://[2409:8087:2801:22:100::3e]/wh7f454c46tw3152345576_-602673138/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236244/index.m3u8?icpid=88888888&RTS=1717809682&from=5&ocs=2_2409:8087:2801:22:100::41_80&hms_devid=1641&online=1717809682&vqe=3
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="🐉高码率线路-④💥",CCTV4
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="🐉高码率线路-⑤💥",CCTV4
 http://[2409:8087:2801:22:100::48]/wh7f454c46tw3193074050_-1824934134/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236442/index.m3u8?icpid=88888888&RTS=1717809722&from=5&ocs=2_2409:8087:2801:22:100::7e_80&hms_devid=1641&online=1717809722&vqe=3
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="🐉高码率线路-④💥",CCTV5
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="🐉高码率线路-⑤💥",CCTV5
 http://[2409:8087:2801:22:100::46]/wh7f454c46tw3324526922_-149553726/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236444/index.m3u8?icpid=88888888&RTS=1717809854&from=5&hms_devid=1638&online=1717809854&vqe=3
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="🐉高码率线路-④💥",CCTV5+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="🐉高码率线路-⑤💥",CCTV5+
 http://[2409:8087:2801:22:100::48]/wh7f454c46tw3359668796_-828118494/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236306/index.m3u8?icpid=88888888&RTS=1717809889&from=5&hms_devid=1641&online=1717809889&vqe=3
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="🐉高码率线路-④💥",CCTV6
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="🐉高码率线路-⑤💥",CCTV6
 http://[2409:8087:2801:22:100::74]/wh7f454c46tw3403289436_1022848072/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236294/index.m3u8?icpid=88888888&RTS=1717809933&from=5&hms_devid=325&online=1717809933&vqe=3
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="🐉高码率线路-④💥",CCTV7
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="🐉高码率线路-⑤💥",CCTV7
 http://[2409:8087:2801:22:100::5f]/wh7f454c46tw3499711507_480476039/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236219/index.m3u8?icpid=88888888&RTS=1717810029&from=5&ocs=2_2409:8087:2801:22:100::3b_80&hms_devid=319&online=1717810029&vqe=3
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="🐉高码率线路-④💥",CCTV8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="🐉高码率线路-⑤💥",CCTV8
 http://[2409:8087:2801:22:100::77]/wh7f454c46tw3533077704_631162374/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236211/index.m3u8?icpid=88888888&RTS=1717810062&from=5&ocs=2_2409:8087:2801:20:100::50_80&hms_devid=312&online=1717810062&vqe=3
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="🐉高码率线路-④💥",CCTV9
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="🐉高码率线路-⑤💥",CCTV9
 http://[2409:8087:2801:22:100::3d]/wh7f454c46tw3564675919_-556789007/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236246/index.m3u8?icpid=88888888&RTS=1717810094&from=5&ocs=2_2409:8087:2801:22:100::6f_80&hms_devid=1654&online=1717810094&vqe=3
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="🐉高码率线路-④💥",CCTV10
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="🐉高码率线路-⑤💥",CCTV10
 http://[2409:8087:2801:22:100::60]/wh7f454c46tw3588201656_-1677451648/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236238/index.m3u8?icpid=88888888&RTS=1717810117&from=5&ocs=2_2409:8087:2801:22:100::50_80&hms_devid=329&online=1717810117&vqe=3
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="🐉高码率线路-④💥",CCTV11
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="🐉高码率线路-⑤💥",CCTV11
 http://[2409:8087:2801:22:100::5d]/wh7f454c46tw3616768975_1704285983/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236216/index.m3u8?icpid=88888888&RTS=1717810146&from=5&ocs=2_2409:8087:2801:22:100::3b_80&hms_devid=312&online=1717810146&vqe=3
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="🐉高码率线路-④💥",CCTV12
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="🐉高码率线路-⑤💥",CCTV12
 http://[2409:8087:2801:22:100::46]/wh7f454c46tw3644616930_-1425276969/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236203/index.m3u8?icpid=88888888&RTS=1717810174&from=5&hms_devid=1638&online=1717810174&vqe=3
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="🐉高码率线路-④💥",CCTV13
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="🐉高码率线路-⑤💥",CCTV13
 http://[2409:8087:2801:22:100::5f]/wh7f454c46tw3678339897_1131487458/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236169/index.m3u8?icpid=88888888&RTS=1717810208&from=5&ocs=2_2409:8087:2801:22:100::57_80&hms_devid=319&online=1717810208&vqe=3
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="🐉高码率线路-④💥",CCTV14
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="🐉高码率线路-⑤💥",CCTV14
 http://[2409:8087:2801:22:100::73]/wh7f454c46tw3721006907_-1495891580/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236317/index.m3u8?icpid=88888888&RTS=1717810250&from=5&ocs=2_2409:8087:2801:22:100::3f_80&hms_devid=324&online=1717810250&vqe=3
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="🐉高码率线路-④💥",CCTV15
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="🐉高码率线路-⑤💥",CCTV15
 http://[2409:8087:2801:22:100::70]/wh7f454c46tw3751229697_-297000496/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236165/index.m3u8?icpid=88888888&RTS=1717810280&from=5&hms_devid=328&online=1717810280&vqe=3
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="🐉高码率线路-④💥",CCTV16
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="🐉高码率线路-⑤💥",CCTV16
 http://[2409:8087:2801:22:100::6f]/wh7f454c46tw3782520035_-70439993/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236181/index.m3u8?icpid=88888888&RTS=1717810312&from=5&ocs=2_2409:8087:2801:22:100::5d_80&hms_devid=309&online=1717810312&vqe=3
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="🐉高码率线路-④💥",CCTV17
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="🐉高码率线路-⑤💥",CCTV17
 http://[2409:8087:2801:22:100::7a]/wh7f454c46tw3815286566_414700278/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236200/index.m3u8?icpid=88888888&RTS=1717810345&from=5&ocs=2_2409:8087:2801:22:100::6e_80&hms_devid=329&online=1717810345&vqe=3
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="🐉高码率线路-④💥",CCTV4K
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="🐉高码率线路-⑤💥",CCTV4K
 http://[2409:8087:2801:22:100::48]/wh7f454c46tw3853113344_884900799/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717810382&from=5&ocs=2_2409:8087:2801:22:100::36_80&hms_devid=1641&online=1717810382&vqe=3
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="🐉高码率线路-④💥",CCTV4欧洲
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="🐉高码率线路-⑤💥",CCTV4欧洲
 http://[2409:8087:2801:22:100::42]/wh7f454c46tw3242271071_-384879779/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236378/index.m3u8?icpid=88888888&RTS=1717809772&from=5&hms_devid=1643&online=1717809772&vqe=3
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="🐉高码率线路-④💥",CCTV4美洲
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="🐉高码率线路-⑤💥",CCTV4美洲
 http://[2409:8087:2801:22:100::59]/wh7f454c46tw3276424687_-177399836/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236335/index.m3u8?icpid=88888888&RTS=1717809806&from=5&ocs=2_2409:8087:2801:22:100::3a_80&hms_devid=324&online=1717809806&vqe=3
-#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="🐉高码率线路-④💥",重温经典
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="🐉高码率线路-⑤💥",重温经典
 http://[2409:8087:2801:22:100::76]/wh7f454c46tw1394075491_-2119906554/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717812218&from=5&hms_devid=330&online=1717812218&vqe=3
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="🐉高码率线路-④💥",凤凰中文
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="🐉高码率线路-⑤💥",凤凰中文
 http://[2409:8087:2801:22:100::45]/wh7f454c46tw14778710_346869978/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8?icpid=88888888&RTS=1717810839&from=5&hms_devid=1640&online=1717810839&vqe=3
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="🐉高码率线路-④💥",凤凰资讯
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="🐉高码率线路-⑤💥",凤凰资讯
 http://[2409:8087:2801:20:100::50]/wh7f454c46tw54228331_-952106546/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8?icpid=88888888&RTS=1717810878&from=5&hms_devid=374&online=1717810878&vqe=3
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="🐉高码率线路-④💥",湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="🐉高码率线路-⑤💥",湖南卫视
 http://[2409:8087:2801:22:100::3a]/wh7f454c46tw250485425_-772655827/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236225/index.m3u8?icpid=88888888&RTS=1717811075&from=5&ocs=2_2409:8087:2801:22:100::70_80&hms_devid=1644&online=1717811075&vqe=3
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="🐉高码率线路-④💥",北京卫视
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="🐉高码率线路-⑤💥",北京卫视
 http://[2409:8087:2801:22:100::54]/wh7f454c46tw85438509_-1903089732/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236241/index.m3u8?icpid=88888888&RTS=1717810910&from=5&hms_devid=308&online=1717810910&vqe=3
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="🐉高码率线路-④💥",东方卫视
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="🐉高码率线路-⑤💥",东方卫视
 http://[2409:8087:2801:22:100::80]/wh7f454c46tw159519910_-1687148693/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236227/index.m3u8?icpid=88888888&RTS=1717810984&from=5&hms_devid=307&online=1717810984&vqe=3
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="🐉高码率线路-④💥",深圳卫视
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="🐉高码率线路-⑤💥",深圳卫视
 http://[2409:8087:2801:20:100::50]/wh7f454c46tw189359618_-626406875/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236251/index.m3u8?icpid=88888888&RTS=1717811014&from=5&hms_devid=374&online=1717811014&vqe=3
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="🐉高码率线路-④💥",浙江卫视
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="🐉高码率线路-⑤💥",浙江卫视
 http://[2409:8087:2801:22:100::37]/wh7f454c46tw220326352_-39381451/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236171/index.m3u8?icpid=88888888&RTS=1717811045&from=5&hms_devid=1647&online=1717811045&vqe=3
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="🐉高码率线路-④💥",天津卫视
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="🐉高码率线路-⑤💥",天津卫视
 http://[2409:8087:2801:22:100::80]/wh7f454c46tw284848982_12353340/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236217/index.m3u8?icpid=88888888&RTS=1717811109&from=5&hms_devid=307&online=1717811109&vqe=3
-#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="🐉高码率线路-④💥",河北卫视
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="🐉高码率线路-⑤💥",河北卫视
 http://[2409:8087:2801:22:100::72]/wh7f454c46tw315725170_1190988799/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236242/index.m3u8?icpid=88888888&RTS=1717811140&from=5&ocs=2_2409:8087:2801:22:100::74_80&hms_devid=316&online=1717811140&vqe=3
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="🐉高码率线路-④💥",江苏卫视
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="🐉高码率线路-⑤💥",江苏卫视
 http://[2409:8087:2801:22:100::70]/wh7f454c46tw345007028_-611228602/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236221/index.m3u8?icpid=88888888&RTS=1717811169&from=5&ocs=2_2409:8087:2801:22:100::7d_80&hms_devid=328&online=1717811169&vqe=3
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="🐉高码率线路-④💥",山东卫视
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="🐉高码率线路-⑤💥",山东卫视
 http://[2409:8087:2801:22:100::66]/wh7f454c46tw381882336_1185517940/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236159/index.m3u8?icpid=88888888&RTS=1717811206&from=5&hms_devid=307&online=1717811206&vqe=3
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="🐉高码率线路-④💥",安徽卫视
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="🐉高码率线路-⑤💥",安徽卫视
 http://[2409:8087:2801:22:100::68]/wh7f454c46tw432189656_-465765051/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236177/index.m3u8?icpid=88888888&RTS=1717811256&from=5&ocs=2_2409:8087:2801:22:100::1a_80&hms_devid=313&online=1717811256&vqe=3
-#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="🐉高码率线路-④💥",河南卫视
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="🐉高码率线路-⑤💥",河南卫视
 http://[2409:8087:2801:20:100::40]/wh7f454c46tw466641367_-964597049/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236218/index.m3u8?icpid=88888888&RTS=1717811291&from=5&hms_devid=1648&online=1717811291&vqe=3
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="🐉高码率线路-④💥",湖北卫视
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="🐉高码率线路-⑤💥",湖北卫视
 http://[2409:8087:2801:22:100::7d]/wh7f454c46tw489256578_215429786/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236271/index.m3u8?icpid=88888888&RTS=1717811313&from=5&hms_devid=323&online=1717811313&vqe=3
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="🐉高码率线路-④💥",黑龙江卫视
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="🐉高码率线路-⑤💥",黑龙江卫视
 http://[2409:8087:2801:22:100::74]/wh7f454c46tw523735924_-140900976/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236226/index.m3u8?icpid=88888888&RTS=1717811348&from=5&hms_devid=325&online=1717811348&vqe=3
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="🐉高码率线路-④💥",辽宁卫视
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="🐉高码率线路-⑤💥",辽宁卫视
 http://[2409:8087:2801:22:100::48]/wh7f454c46tw554783711_1783861917/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236161/index.m3u8?icpid=88888888&RTS=1717811379&from=5&hms_devid=1641&online=1717811379&vqe=3
-#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="🐉高码率线路-④💥",吉林卫视
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="🐉高码率线路-⑤💥",吉林卫视
 http://[2409:8087:2801:20:100::4d]/wh7f454c46tw583022601_-773652480/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236268/index.m3u8?icpid=88888888&RTS=1717811407&from=5&hms_devid=375&online=1717811407&vqe=3
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="🐉高码率线路-④💥",重庆卫视
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="🐉高码率线路-⑤💥",重庆卫视
 http://[2409:8087:2801:22:100::55]/wh7f454c46tw612321759_401901404/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236292/index.m3u8?icpid=88888888&RTS=1717811437&from=5&hms_devid=309&online=1717811437&vqe=3
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="🐉高码率线路-④💥",四川卫视
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="🐉高码率线路-⑤💥",四川卫视
 http://[2409:8087:2801:22:100::79]/wh7f454c46tw636977605_-1734631873/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236255/index.m3u8?icpid=88888888&RTS=1717811461&from=5&ocs=2_2409:8087:2801:22:100::5a_80&hms_devid=319&online=1717811461&vqe=3
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="🐉高码率线路-④💥",广东卫视
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="🐉高码率线路-⑤💥",广东卫视
 http://[2409:8087:2801:22:100::48]/wh7f454c46tw673860866_1500281518/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236262/index.m3u8?icpid=88888888&RTS=1717811498&from=5&ocs=2_2409:8087:2801:22:100::80_80&hms_devid=1641&online=1717811498&vqe=3
-#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="🐉高码率线路-④💥",广西卫视
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="🐉高码率线路-⑤💥",广西卫视
 http://[2409:8087:2801:22:100::6f]/wh7f454c46tw704899143_954158397/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236263/index.m3u8?icpid=88888888&RTS=1717811529&from=5&hms_devid=309&online=1717811529&vqe=3
-#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="🐉高码率线路-④💥",江西卫视
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="🐉高码率线路-⑤💥",江西卫视
 http://[2409:8087:2801:22:100::5b]/wh7f454c46tw728578282_701998798/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236212/index.m3u8?icpid=88888888&RTS=1717811553&from=5&ocs=2_2409:8087:2801:22:100::40_80&hms_devid=322&online=1717811553&vqe=3
-#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="🐉高码率线路-④💥",海南卫视
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="🐉高码率线路-⑤💥",海南卫视
 http://[2409:8087:2801:22:100::1b]/wh7f454c46tw749217990_-1011970999/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236232/index.m3u8?icpid=88888888&RTS=1717811573&from=5&hms_devid=1639&online=1717811573&vqe=3
-#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="🐉高码率线路-④💥",甘肃卫视
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="🐉高码率线路-⑤💥",甘肃卫视
 http://[2409:8087:2801:22:100::42]/wh7f454c46tw776519881_426790369/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236201/index.m3u8?icpid=88888888&RTS=1717811601&from=5&hms_devid=1643&online=1717811601&vqe=3
-#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="🐉高码率线路-④💥",陕西卫视
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="🐉高码率线路-⑤💥",陕西卫视
 http://[2409:8087:2801:22:100::5f]/wh7f454c46tw819721924_-1060422627/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236201/index.m3u8?icpid=88888888&RTS=1717811644&from=5&ocs=2_2409:8087:2801:22:100::42_80&hms_devid=319&online=1717811644&vqe=3
-#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="🐉高码率线路-④💥",云南卫视
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="🐉高码率线路-⑤💥",云南卫视
 http://[2409:8087:2801:22:100::41]/wh7f454c46tw865868828_298976728/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236234/index.m3u8?icpid=88888888&RTS=1717811690&from=5&hms_devid=1647&online=1717811690&vqe=3
-#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="🐉高码率线路-④💥",贵州卫视
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="🐉高码率线路-⑤💥",贵州卫视
 http://[2409:8087:2801:22:100::7a]/wh7f454c46tw901531657_-1550720295/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236236/index.m3u8?icpid=88888888&RTS=1717811726&from=5&ocs=2_2409:8087:2801:20:100::46_80&hms_devid=329&online=1717811726&vqe=3
-#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="🐉高码率线路-④💥",青海卫视
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="🐉高码率线路-⑤💥",青海卫视
 http://[2409:8087:2801:22:100::40]/wh7f454c46tw926030471_-750114966/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236252/index.m3u8?icpid=88888888&RTS=1717811750&from=5&hms_devid=1642&online=1717811750&vqe=3
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="🐉高码率线路-④💥",东南卫视
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="🐉高码率线路-⑤💥",东南卫视
 http://[2409:8087:2801:22:100::3c]/wh7f454c46tw951747192_1236934090/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236151/index.m3u8?icpid=88888888&RTS=1717811776&from=5&hms_devid=1638&online=1717811776&vqe=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉高码率线路-④💥",海峡卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉高码率线路-⑤💥",海峡卫视
 http://[2409:8087:2801:20:100::41]/wh7f454c46tw980985231_658488392/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236416/index.m3u8?icpid=88888888&RTS=1717811805&from=5&hms_devid=371&online=1717811805&vqe=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉高码率线路-④💥",大湾区卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉高码率线路-⑤💥",大湾区卫视
 http://[2409:8087:2801:22:100::4f]/wh7f454c46tw1007731023_-1337288569/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236327/index.m3u8?icpid=88888888&RTS=1717811832&from=5&ocs=2_2409:8087:2801:22:100::6f_80&hms_devid=327&online=1717811832&vqe=3
-#EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="🐉高码率线路-④💥",延边卫视
+#EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="🐉高码率线路-⑤💥",延边卫视
 http://[2409:8087:2801:20:100::51]/wh7f454c46tw1040851875_-1798974461/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236229/index.m3u8?icpid=88888888&RTS=1717811865&from=5&hms_devid=372&online=1717811865&vqe=3
-#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="🐉高码率线路-④💥",兵团卫视
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="🐉高码率线路-⑤💥",兵团卫视
 http://[2409:8087:2801:20:100::51]/wh7f454c46tw1075638963_-1652382279/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236191/index.m3u8?icpid=88888888&RTS=1717811900&from=5&hms_devid=372&online=1717811900&vqe=3
-#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="🐉高码率线路-④💥",宁夏卫视
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="🐉高码率线路-⑤💥",宁夏卫视
 http://[2409:8087:2801:22:100::3c]/wh7f454c46tw1099331580_-1113491187/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236209/index.m3u8?icpid=88888888&RTS=1717811924&from=5&hms_devid=1638&online=1717811924&vqe=3
-#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="🐉高码率线路-④💥",山西卫视
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="🐉高码率线路-⑤💥",山西卫视
 http://[2409:8087:2801:22:100::7a]/wh7f454c46tw1129766802_295271756/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236264/index.m3u8?icpid=88888888&RTS=1717811954&from=5&ocs=2_2409:8087:2801:20:100::52_80&hms_devid=329&online=1717811954&vqe=3
-#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="🐉高码率线路-④💥",厦门卫视
+#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="🐉高码率线路-⑤💥",厦门卫视
 http://[2409:8087:2801:22:100::75]/wh7f454c46tw1155677277_-1526295585/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236231/index.m3u8?icpid=88888888&RTS=1717811980&from=5&ocs=2_2409:8087:2801:22:100::46_80&hms_devid=322&online=1717811980&vqe=3
-#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="🐉高码率线路-④💥",西藏卫视
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="🐉高码率线路-⑤💥",西藏卫视
 http://[2409:8087:2801:22:100::5c]/wh7f454c46tw1177876487_1023276284/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236274/index.m3u8?icpid=88888888&RTS=1717812002&from=5&hms_devid=330&online=1717812002&vqe=3
-#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="🐉高码率线路-④💥",新疆卫视
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="🐉高码率线路-⑤💥",新疆卫视
 http://[2409:8087:2801:22:100::3a]/wh7f454c46tw1205680645_-999422284/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236215/index.m3u8?icpid=88888888&RTS=1717812030&from=5&hms_devid=1644&online=1717812030&vqe=3
-#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="🐉高码率线路-④💥",内蒙古卫视
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="🐉高码率线路-⑤💥",内蒙古卫视
 http://[2409:8087:2801:22:100::63]/wh7f454c46tw1231286604_319042437/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236270/index.m3u8?icpid=88888888&RTS=1717812056&from=5&hms_devid=323&online=1717812056&vqe=3
-#EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" group-title="🐉高码率线路-④💥",康巴卫视
+#EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" group-title="🐉高码率线路-⑤💥",康巴卫视
 http://[2409:8087:2801:22:100::45]/wh7f454c46tw1269819384_-1961375632/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236185/index.m3u8?icpid=88888888&RTS=1717812094&from=5&hms_devid=1640&online=1717812094&vqe=3
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="🐉高码率线路-④💥",CETV1
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="🐉高码率线路-⑤💥",CETV1
 http://[2409:8087:2801:22:100::3f]/wh7f454c46tw1296912505_1503762332/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236243/index.m3u8?icpid=88888888&RTS=1717812121&from=5&hms_devid=1646&online=1717812121&vqe=3
-#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="🐉高码率线路-④💥",CETV4
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="🐉高码率线路-⑤💥",CETV4
 http://[2409:8087:2801:20:100::4b]/wh7f454c46tw1340921187_509424522/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235543/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717812165&from=5&ocs=2_2409:8087:2801:22:100::43_80&hms_devid=371&online=1717812165&vqe=3
+
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="🐉电信线路-①🦀",CCTV1
 http://116.9.6.73:4000/rtp/239.81.0.102:4056
@@ -1564,6 +1411,7 @@ http://apptv.xyz:80/alia4remz/rrynDeBGS/86269
 http://apptv.xyz:80/alia4remz/rrynDeBGS/86270
 
 
+
 #EXTINF:-1 group-title="🐉国内体育",JJ斗地主
 http://openhls-tct.douyucdn2.cn:80/dyliveflv1a/488743rAHScWyyII_2000.m3u8
 #EXTINF:-1 group-title="🐉国内体育",JJ斗地主
@@ -1657,11 +1505,8 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉国内体育",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
 
-
-
-
-
-
+https://cloud.wujiyan.cc/f/mw2sQ/1.mp4#EXTINF:-1 group-title="🐉海外体育",Supersports 1
+http://fm1077.serv00.net/Smart.php?id=Assp1
 #EXTINF:-1 group-title="🐉海外体育",Supersports 1(備用)
 http://fm1077.serv00.net/Smart.php?id=go_assp1
 #EXTINF:-1 group-title="🐉海外体育",Supersportq 1(備用2)
@@ -3812,228 +3657,80 @@ http://stream8.jlntv.cn/jytv/sd/live.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",KBC NEWS
-https://fm1077.serv00.net/anbo/index.php?id=3219
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",TBS
-https://fm1077.serv00.net/anbo/index.php?id=2917
-#EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="🐉日本频道🦮",NHK World
-https://fm1077.serv00.net/anbo/index.php?id=2918
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BS-富士
-https://fm1077.serv00.net/anbo/index.php?id=2919
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",フジテレビ富士
-https://fm1077.serv00.net/anbo/index.php?id=2920
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",テレビ朝日
-https://fm1077.serv00.net/anbo/index.php?id=2921
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",テレビ东京
-https://fm1077.serv00.net/anbo/index.php?id=2922
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",日本テレビ
-https://fm1077.serv00.net/anbo/index.php?id=2923
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",スター・チャンネル
-https://fm1077.serv00.net/anbo/index.php?id=3210
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BSジャパン
-https://fm1077.serv00.net/anbo/index.php?id=3211
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BS朝日
-https://fm1077.serv00.net/anbo/index.php?id=3213
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BS-TBS
-https://fm1077.serv00.net/anbo/index.php?id=3214
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JapaNews24
-https://fm1077.serv00.net/anbo/index.php?id=425
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",NHKBSP-4K
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",スカイA
-https://fm1077.serv00.net/anbo/index.php?id=2433
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",日テレニュース24
-https://fm1077.serv00.net/anbo/index.php?id=292
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",フジone
-https://fm1077.serv00.net/anbo/index.php?id=2300
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",フジ two
-https://fm1077.serv00.net/anbo/index.php?id=2301
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",フジ next
-https://fm1077.serv00.net/anbo/index.php?id=2750
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",KANSAI News24
-https://fm1077.serv00.net/anbo/index.php?id=247
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",メ~テレNEWS
-https://fm1077.serv00.net/anbo/index.php?id=245
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",広岛ニュース
-https://fm1077.serv00.net/anbo/index.php?id=1095
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",TBS NEWS
-https://fm1077.serv00.net/anbo/index.php?id=1096
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",RKB NEWS 24
-https://fm1077.serv00.net/anbo/index.php?id=1043
-#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="🐉日本频道🦮",STV NEWS
-https://fm1077.serv00.net/anbo/index.php?id=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",テレ朝チャンネル1
-https://fm1077.serv00.net/anbo/index.php?id=2271
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",テレ朝チャンネル2
-https://fm1077.serv00.net/anbo/index.php?id=2344
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",スポーツライブ+
-https://fm1077.serv00.net/anbo/index.php?id=2343
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",読売テレビ
-https://fm1077.serv00.net/anbo/index.php?id=198
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",関西テレビ
-https://fm1077.serv00.net/anbo/index.php?id=235
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BS日テレ
-https://fm1077.serv00.net/anbo/index.php?id=240
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BS朝日
-https://fm1077.serv00.net/anbo/index.php?id=241
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BS-TBS
-https://fm1077.serv00.net/anbo/index.php?id=242
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BSテレビ东京
-https://fm1077.serv00.net/anbo/index.php?id=243
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",SATVニュース
-https://fm1077.serv00.net/anbo/index.php?id=1594
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BSフジ
-https://fm1077.serv00.net/anbo/index.php?id=244
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",旅チャンネル
-https://fm1077.serv00.net/anbo/index.php?id=2304
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",RCC NEWS
-https://fm1077.serv00.net/anbo/index.php?id=421
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",TOKYO MX 1
-https://fm1077.serv00.net/anbo/index.php?id=2204
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",TOKYO MX 2
-https://fm1077.serv00.net/anbo/index.php?id=2205
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",朝日放送テレビ
-https://fm1077.serv00.net/anbo/index.php?id=237
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",时代剧専门チャンネル
-https://fm1077.serv00.net/anbo/index.php?id=287
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",TV Tokyo
-https://fm1077.serv00.net/anbo/index.php?id=123
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",J SPORTS 1
-https://fm1077.serv00.net/anbo/index.php?id=129
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",J SPORTS 2
-https://fm1077.serv00.net/anbo/index.php?id=130
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",J SPORTS 3
-https://fm1077.serv00.net/anbo/index.php?id=131
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",J SPORTS 4
-https://fm1077.serv00.net/anbo/index.php?id=132
-#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="🐉日本频道🦮",ABC朝日
-https://fm1077.serv00.net/anbo/index.php?id=127
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",FU JI
-https://fm1077.serv00.net/anbo/index.php?id=122
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",テレビ东京
-https://fm1077.serv00.net/anbo/index.php?id=2202
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",フジテレビ
-https://fm1077.serv00.net/anbo/index.php?id=2203
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cu8?cid=gd02&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",ディスカバリー
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",テレビ大坂
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",テレビ朝日
-https://fm1077.serv00.net/anbo/index.php?id=125
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",大坂TV
-https://fm1077.serv00.net/anbo/index.php?id=126
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",WOWOWプライム
-https://fm1077.serv00.net/anbo/index.php?id=133
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",WOWOWライブ
-https://fm1077.serv00.net/anbo/index.php?id=134
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",WOWOWシネマ
-https://fm1077.serv00.net/anbo/index.php?id=135
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",テレビ东京
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",スターチャンネル1
-https://fm1077.serv00.net/anbo/index.php?id=136
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",スターチャンネル2
-https://fm1077.serv00.net/anbo/index.php?id=137
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",スターチャンネル3
-https://fm1077.serv00.net/anbo/index.php?id=138
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",日本テレビ
-https://fm1077.serv00.net/anbo/index.php?id=119
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",毎日放送
-https://fm1077.serv00.net/anbo/index.php?id=199
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",ヒストリーチャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",フジテレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",ホームドラマチャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",ミュージック?ジャパン
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",旅チャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="🐉日本频道🦮",ABCテレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BS-TBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BSアニマックス
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BSテレ东
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BSフジ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BS日テレ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BS朝日
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",J Sports 1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",J Sports 2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",J Sports 3
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",J Sports 4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",MBS毎日放送
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",NHK BS1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",NHK BSプレミアム
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",NHK Eテレ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",NHK 総合
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",NHK大坂 総合
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",TBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",TOKYO MX
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",WOWOW シネマ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",WOWOW プライム
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",WOWOW ライブ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",キッズステ   ション
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",ゴルフネットワーク
-https://fm1077.serv00.net/anbo/index.php?id=249
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",HTB北海道
-https://fm1077.serv00.net/anbo/index.php?id=39
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",日テレG+
-https://fm1077.serv00.net/anbo/index.php?id=2298
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",GAORA SPORTS
-https://fm1077.serv00.net/anbo/index.php?id=296
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",TBS
-https://fm1077.serv00.net/anbo/index.php?id=124
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",TBS
-https://fm1077.serv00.net/anbo/index.php?id=2201
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",アニマックス
-https://fm1077.serv00.net/anbo/index.php?id=139
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",グリーンチャンネル
-https://fm1077.serv00.net/anbo/index.php?id=140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",キッズステーション
-https://fm1077.serv00.net/anbo/index.php?id=289
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",静冈ニュース
-https://fm1077.serv00.net/anbo/index.php?id=297
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",MUSIC ON! TV
-https://fm1077.serv00.net/anbo/index.php?id=288
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BS日本映画専门Ch
-https://fm1077.serv00.net/anbo/index.php?id=2219
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",Disney チャンネル
-https://fm1077.serv00.net/anbo/index.php?id=290
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",卫星剧场
-https://fm1077.serv00.net/anbo/index.php?id=2345
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",日テレG+
-https://fm1077.serv00.net/anbo/index.php?id=2434
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",兵库県の最新
-https://fm1077.serv00.net/anbo/index.php?id=1142
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",鹿児岛ニュース24
-https://fm1077.serv00.net/anbo/index.php?id=1562
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| QVC JAPAN
-http://extraott.com/7921751389/6097373662/191041
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| SHOP CHANNEL
-http://extraott.com/7921751389/6097373662/191047
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| テレ朝チャンネル1
-http://extraott.com/7921751389/6097373662/37659
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| テレ朝チャンネル2
-http://extraott.com/7921751389/6097373662/37658
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| フジテレビONE
-http://extraott.com/7921751389/6097373662/37661
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| フジテレビTWO
-http://extraott.com/7921751389/6097373662/37660
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| フジテレビNEXT
-http://extraott.com/7921751389/6097373662/37662
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| MONDOTV
-http://extraott.com/7921751389/6097373662/37663
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| アイドル専门チャンネル
-http://extraott.com/7921751389/6097373662/37664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| TBSチャンネル1
-http://extraott.com/7921751389/6097373662/37666
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| TBSチャンネル2
-http://extraott.com/7921751389/6097373662/37665
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| ミュージック・ジャパンTV
-http://extraott.com/7921751389/6097373662/37667
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| スペースシャワーTVプラス
-http://extraott.com/7921751389/6097373662/37668
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| ミュージック・エア
-http://extraott.com/7921751389/6097373662/37669
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| スペースシャワーTV
-http://extraott.com/7921751389/6097373662/37670
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| スポーツライブ+
-http://extraott.com/7921751389/6097373662/37671
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| FIGHTING TV サムライ
-http://extraott.com/7921751389/6097373662/37672
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| ザ・シネマ
-http://extraott.com/7921751389/6097373662/37673
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| BSJapanext
-http://extraott.com/7921751389/6097373662/37674
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| KBS京都
-http://extraott.com/7921751389/6097373662/37675
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| BSよしもと
-http://extraott.com/7921751389/6097373662/37676
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| BS松竹东急
-http://extraott.com/7921751389/6097373662/37677
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| BS11
-http://extraott.com/7921751389/6097373662/37679
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| BS12
-http://extraott.com/7921751389/6097373662/37678
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| 旅チャンネル
-http://extraott.com/7921751389/6097373662/37680
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| 鉄道チャンネル
-http://extraott.com/7921751389/6097373662/37681
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| ヒストリーチャンネル
-http://extraott.com/7921751389/6097373662/37682
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| NHK BS4K
-http://extraott.com/7921751389/6097373662/37683
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| QVC
-http://extraott.com/7921751389/6097373662/37684
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| ショップチャンネル
-http://extraott.com/7921751389/6097373662/37685
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| ダンスチャンネル
-http://extraott.com/7921751389/6097373662/37686
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| エンタメ~テレ
-http://extraott.com/7921751389/6097373662/37687
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| タカラヅカスカイステージ
-http://extraott.com/7921751389/6097373662/37688
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| 日テレプラス
-http://extraott.com/7921751389/6097373662/37689
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",迪士尼(日本)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",NHK BS1
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",NHK教育
@@ -4118,80 +3815,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",Music ON TV!
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",NHKBSP-4K
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",スカイA
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cu8?cid=gd02&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",ディスカバリー
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",テレビ大坂
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",テレビ朝日
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",テレビ东京
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",スターチャンネル1
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",ヒストリーチャンネル
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",フジテレビ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",ホームドラマチャンネル
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",ミュージック?ジャパン
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",旅チャンネル
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="🐉日本频道🦮",ABCテレビ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BS-TBS
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BSアニマックス
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BSテレ东
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BSフジ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BS日テレ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BS朝日
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",J Sports 1
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",J Sports 2
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",J Sports 3
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",J Sports 4
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",MBS毎日放送
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",NHK BS1
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",NHK BSプレミアム
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",NHK Eテレ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",NHK 総合
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",NHK大坂 総合
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",TBS
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",TOKYO MX
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",WOWOW シネマ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",WOWOW プライム
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",WOWOW ライブ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",キッズステ   ション
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",ゴルフネットワーク
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",迪士尼(日本)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",NEWS 24H
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",QVC
@@ -4202,12 +3825,6 @@ http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 https://cdn1.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",NHK世界
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",Nippon
-https://ntv4.mov3.co/hls/ntv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",NHKG
-https://nhk4.mov3.co/hls/nhk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",TBS
-https://tbs4.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",Shop Channel
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",ホームドラマチャンネル
@@ -4331,116 +3948,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",JTBC골프
-https://fm1077.serv00.net/anbo/index.php?id=268
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",JTBC
-https://fm1077.serv00.net/anbo/index.php?id=253
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",KBS KOREA
-https://fm1077.serv00.net/anbo/index.php?id=1040
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",KBS1
-https://fm1077.serv00.net/anbo/index.php?id=2752
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",KBS2
-https://fm1077.serv00.net/anbo/index.php?id=2753
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",MBC
-https://fm1077.serv00.net/anbo/index.php?id=251
-#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="🐉韩国频道🦆",TVN
-https://fm1077.serv00.net/anbo/index.php?id=295
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",런닝맨
-https://fm1077.serv00.net/anbo/index.php?id=2347
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",KBS드라마1
-https://fm1077.serv00.net/anbo/index.php?id=2348
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",MBC드라마넷
-https://fm1077.serv00.net/anbo/index.php?id=2349
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",I.NET
-https://fm1077.serv00.net/anbo/index.php?id=2351
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",SkySports
-https://fm1077.serv00.net/anbo/index.php?id=2352
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",KBSN Sports
-https://fm1077.serv00.net/anbo/index.php?id=2353
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",SBS Sports
-https://fm1077.serv00.net/anbo/index.php?id=2354
-#EXTINF:-1 tvg-id="701" tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="🐉韩国频道🦆",FTV
-https://fm1077.serv00.net/anbo/index.php?id=2355
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",바둑TV
-https://fm1077.serv00.net/anbo/index.php?id=2356
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",OCN Thrills
-https://fm1077.serv00.net/anbo/index.php?id=2357
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",OBS
-https://fm1077.serv00.net/anbo/index.php?id=2358
-#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="🐉韩国频道🦆",Discovery
-https://fm1077.serv00.net/anbo/index.php?id=2359
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",투니버스Tooniverse 39
-https://fm1077.serv00.net/anbo/index.php?id=2360
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",연변위성
-https://fm1077.serv00.net/anbo/index.php?id=2361
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",연합뉴스TV
-https://fm1077.serv00.net/anbo/index.php?id=1039
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",YTN2
-https://fm1077.serv00.net/anbo/index.php?id=1058
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",YTN
-https://fm1077.serv00.net/anbo/index.php?id=1061
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",SBS
-https://fm1077.serv00.net/anbo/index.php?id=252
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",MBN
-https://fm1077.serv00.net/anbo/index.php?id=257
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",MBC스포츠
-https://fm1077.serv00.net/anbo/index.php?id=265
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",OCN
-https://fm1077.serv00.net/anbo/index.php?id=488
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",iNet
-https://fm1077.serv00.net/anbo/index.php?id=490
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",CTS
-https://fm1077.serv00.net/anbo/index.php?id=491
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",Spotv
-https://fm1077.serv00.net/anbo/index.php?id=266
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",Spotv2
-https://fm1077.serv00.net/anbo/index.php?id=267
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",THE K-POP
-https://fm1077.serv00.net/anbo/index.php?id=493
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",SBS골프
-https://fm1077.serv00.net/anbo/index.php?id=486
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",한국경제
-https://fm1077.serv00.net/anbo/index.php?id=1064
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",매일경제TV
-https://fm1077.serv00.net/anbo/index.php?id=1065
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",YTN dmb
-https://fm1077.serv00.net/anbo/index.php?id=492
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",YTN 사이언스
-https://fm1077.serv00.net/anbo/index.php?id=1605
-#EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="🐉韩国频道🦆",Arirang TV
-https://fm1077.serv00.net/anbo/index.php?id=256
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",TV CHOSUN
-https://fm1077.serv00.net/anbo/index.php?id=2333
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",SBS Sports
-https://fm1077.serv00.net/anbo/index.php?id=487
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",Mnet
-https://fm1077.serv00.net/anbo/index.php?id=1136
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",MBCevery1
-https://fm1077.serv00.net/anbo/index.php?id=476
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",Tconvers
-https://fm1077.serv00.net/anbo/index.php?id=1134
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",채널A
-https://fm1077.serv00.net/anbo/index.php?id=1092
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",KBC
-https://fm1077.serv00.net/anbo/index.php?id=1307
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",MTN
-https://fm1077.serv00.net/anbo/index.php?id=1504
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",토마토TV
-https://fm1077.serv00.net/anbo/index.php?id=1544
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",이데일리TV
-https://fm1077.serv00.net/anbo/index.php?id=1554
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",EBS1
-https://fm1077.serv00.net/anbo/index.php?id=2439
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",EBS2
-https://fm1077.serv00.net/anbo/index.php?id=3006
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",EBS KIDS
-https://fm1077.serv00.net/anbo/index.php?id=3007
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",EBS PLUS1
-https://fm1077.serv00.net/anbo/index.php?id=3008
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",EBS PLUS2
-https://fm1077.serv00.net/anbo/index.php?id=3009
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",EBSe
-https://fm1077.serv00.net/anbo/index.php?id=3010
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",JTBC 뭉쳐야 뜬다1
 https://jmp2.uk/SamsungTVPlus/KR400006MW.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",JTBC 뭉쳐야 찬다3
@@ -4751,10 +4258,6 @@ http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3
 http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",「韩国」EBSe
 http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",「韩国」KBC | SBS
-http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",「韩国」JTBC
-https://everylive.space/live/jtbc/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",「韩国」CJB | SBS
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",「韩国」MBC UHD
@@ -4779,8 +4282,6 @@ https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?
 #EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="🐉韩国频道🦆",「韩国」tvN asia
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
-#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="🐉韩国频道🦆",「韩国」tvN1线
-https://everylive.space/live/tvn/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",KBS世界
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",KBS世界
@@ -4793,12 +4294,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
 http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",JTV
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_58.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",JTV
-http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",Korea TV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",KBC TV
-https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",KCTV
 http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",CJBSBS
@@ -4811,18 +4308,10 @@ https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b25
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",국방TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",MBC
-http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="🐉韩国频道🦆",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",C
 http://112.175.51.214:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",JEJUMBC
-https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",KBC SBS
-http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",UBC SBS
-http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",MBC
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",BBSTV(불교)
@@ -4855,8 +4344,6 @@ http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="🐉韩国频道🦆",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",DUBAI ONE
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",CJB(5G专线)
 http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 
@@ -5912,6 +5399,7 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 
 
+
 #EXTINF:-1 group-title="🐉游戏赛事🐸",「B站」CS 2
 http://live.iill.top/bilibili.php?id=21622811
 #EXTINF:-1 group-title="🐉游戏赛事🐸",「B站」英雄联盟
@@ -6133,6 +5621,7 @@ http://live.iill.top/huya.php?id=23865171
 http://live.iill.top/huya.php?id=23734256
 #EXTINF:-1 group-title="🐉埋堆堆🙉",埋堆堆 𝟚𝟞
 http://live.iill.top/huya.php?id=23749083
+
 
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/945159&douyu&logo" group-title="🐉斗鱼轮播🦈",叫我老陈就好了
 http://live.iill.top/douyu.php?id=74960
@@ -6932,6 +6421,7 @@ https://www.goodiptv.club/douyu/11980632
 https://www.goodiptv.club/douyu/11988070
 #EXTINF:-1 group-title="🐉斗鱼轮播🦈",保修期内不保修
 https://www.goodiptv.club/douyu/12016395
+
 
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/585800&huya&logo" group-title="🐉虎牙轮播🐯", 大熊小清新
 http://live.iill.top/huya.php?id=585800
@@ -10796,6 +10286,12 @@ http://php.jdshipin.com:8880/iptv.php?id=hnyl
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉湖南频道",湖南国际
 http://php.jdshipin.com:8880/iptv.php?id=hngj
 
+#EXTINF:-1 group-title="🐉各地方频道",「湖北」湖北经视
+http://220.249.114.102:9901/tsfile/live/1007_1.m3u8
+#EXTINF:-1 group-title="🐉各地方频道",「湖北」湖北经视
+http://59.173.243.210:9901/tsfile/live/1019_1.m3u8
+#EXTINF:-1 group-title="🐉各地方频道",「湖北」湖北经视
+http://59.174.224.32:8880/rtp/239.69.1.41:9886
 #EXTINF:-1 group-title="🐉各地方频道",「黑龙江」黑龙江文体
 http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
 #EXTINF:-1 group-title="🐉各地方频道",「黑龙江」黑龙江农业科教
@@ -10820,14 +10316,6 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226532/index.m3u8
 #EXTINF:-1 group-title="🐉各地方频道",「黑龙江」双鸭山综合
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
-#EXTINF:-1 group-title="🐉各地方频道",「湖北」湖北生活
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072c62e405/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKJPodw5BcDirSOw7egztI5bUvJjqPzSNAhrA37GrbRBIAjGQpzP0QmgsmuHnQyd2c
-#EXTINF:-1 group-title="🐉各地方频道",「湖北」湖北公共
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKgjpyhD%2FJd6SZjkcHAKXbsjwotAY57dianC4%2ByY7artm7J7F4GFO6G99D0bYMJRxI
-#EXTINF:-1 group-title="🐉各地方频道",「湖北」湖北经视
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807203543e3/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLVCQ3pDe4nBySab%2B3xPL123aTSCRugzF2ABe36IIJw2evZbYdWUo0ffUw53bflDgU
-#EXTINF:-1 group-title="🐉各地方频道",「湖北」湖北垄上
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072463c333/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNL%2Be1h4FfA5QqwJ7IPOz3p2qIS7djSxm17Htd%2FckZkm%2FVqsKHEJFJt26ju9iibzMEo
 #EXTINF:-1 group-title="🐉各地方频道",「海南」海南自贸
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?IAS
 #EXTINF:-1 group-title="🐉各地方频道",「海南」海南新闻
@@ -11662,329 +11150,3 @@ https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/cad939a2eb714f4b9d3
 #EXTINF:-1 group-title="🐉纪录片频道",狮群的荣耀
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/84b850056589475f80528cf28b9b840a/1200.m3u8
 
-
-#EXTINF:-1 group-title="🐉全国景区直播",直播中国
-https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="🐉全国景区直播",直播中国精编直播
-https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",湖南张家界水绕四门
-https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",湖南张家界将军列队
-https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",湖南张家界阿凡达悬浮山
-https://gcalic.v.myalicdn.com/gc/zjjafdxfs_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",湖南张家界迷魂台
-https://gcalic.v.myalicdn.com/gc/zjjmht_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",湖南张家界宝峰湖
-https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",湖南张家界御笔峰
-https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",四川峨眉山云海日出
-https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",四川峨眉山远眺贡嘎雪山
-https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",四川峨眉山普贤菩萨铜像
-https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",四川峨眉山远眺万佛顶
-https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",浙江杭州云栖小镇
-https://gcalic.v.myalicdn.com/gc/wygjt2_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",浙江杭州云栖小镇
-https://gcalic.v.myalicdn.com/gc/wygjt2_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",重庆石柱华溪村
-https://gcalic.v.myalicdn.com/gc/jsh02_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",安徽金寨大湾村
-https://gcalic.v.myalicdn.com/gc/szgk01_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",山西苛岚宋家沟新村
-https://gcalic.v.myalicdn.com/gc/wysdhpcy_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",河北张北德胜村
-https://gcalic.v.myalicdn.com/gc/pygc01_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",河北张北德胜村
-https://gcalic.v.myalicdn.com/gc/pygc01_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",新疆天山(海西平台)
-https://gcalic.v.myalicdn.com/gc/xjtchxpt_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",新疆天山(定海神针)
-https://gcalic.v.myalicdn.com/gc/xjtcdhsz_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",新疆天山(定海神针)
-https://gcalic.v.myalicdn.com/gc/xjtcdhsz_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",新疆天山(马牙山)
-https://gcalic.v.myalicdn.com/gc/xjtcmys_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",新疆天山(灯杆山)
-https://gcalic.v.myalicdn.com/gc/xjtcdgs_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",湖南张家界天门山西线玻璃栈道
-https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",湖南张家界天门山天门洞
-https://gcalic.v.myalicdn.com/gc/tmstmd01_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",湖南张家界天门山天空步道
-https://gcalic.v.myalicdn.com/gc/tms02_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",湖南张家界天门山天空步道
-https://gcalic.v.myalicdn.com/gc/tms02_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",湖南张家界天门山云梦仙顶
-https://gcalic.v.myalicdn.com/gc/tms04_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",厦门鼓浪屿
-https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",厦门鼓浪屿
-https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",广西玉林大容山莲花山顶
-https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",八里沟风景区桃花湾瀑布
-https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",八里沟风景区天界山玻璃栈道
-https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",汶川映秀新城
-https://gcalic.v.myalicdn.com/gc/wcyxxc01_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",十八洞村
-https://gcalic.v.myalicdn.com/gc/sbd01_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",趵突泉
-https://gcalic.v.myalicdn.com/gc/btq01_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",安徽池州九华山风景区拜经台
-https://gcalic.v.myalicdn.com/gc/jhs02_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",安徽池州九华山风景区九华山
-https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",安徽池州九华山风景区九华山
-https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",安徽池州九华山风景区花台
-https://gcalic.v.myalicdn.com/gc/jhs01_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",江苏徐州云龙湖风景区云龙山观景台西
-https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",江苏徐州云龙湖风景区云龙山观景台南
-https://gcalic.v.myalicdn.com/gc/ylh03_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",浙江杭州千岛湖
-https://gcalic.v.myalicdn.com/gc/caqdh_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",浙江杭州千岛湖
-https://gcalic.v.myalicdn.com/gc/caqdh_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",南京玄武湖公园
-https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",云南丽江玉龙雪山
-https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",云南丽江玉液湖
-https://gcalic.v.myalicdn.com/gc/hkylxs02_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",云南丽江蓝月谷
-https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",云南白沙远眺玉龙雪山
-https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",云南丽江一滴水过丽江
-https://gcalic.v.myalicdn.com/gc/hkylxs04_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",云南丽江玉龙雪山草甸
-https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",云南丽江白水台
-https://gcalic.v.myalicdn.com/gc/hkylxs07_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",云南丽江蓝月谷中游湖面
-https://gcalic.v.myalicdn.com/gc/hkylxs08_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",云南丽江高尔夫
-https://gcalic.v.myalicdn.com/gc/hkylxs09_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",云南丽江冰川
-https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",云南丽江印象实景
-https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",江苏南京牛首山
-https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",福建漳州六鳌翡翠湾
-https://gcalic.v.myalicdn.com/gc/fcw01_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",福建漳州醉美沙滩翡翠湾
-https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",天津之眼
-https://gcalic.v.myalicdn.com/gc/tjhh01_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",天津之眼
-https://gcalic.v.myalicdn.com/gc/tjhh01_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",四川西昌邛海景区
-https://gcalic.v.myalicdn.com/gc/xcqh01_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",普陀山
-https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",浙江舟山东极岛
-https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",河南郑东新区千玺广场
-https://gcalic.v.myalicdn.com/gc/zdxq01_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",四川四姑娘山幺妹峰
-https://gcalic.v.myalicdn.com/gc/sgns01_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",四川四姑娘山隆珠措
-https://gcalic.v.myalicdn.com/gc/sgns02_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",宁夏沙坡头长河落日
-https://gcalic.v.myalicdn.com/gc/nxsptdmgychlr_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",宁夏沙坡头大漠孤烟
-https://gcalic.v.myalicdn.com/gc/nxsptdmgy_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",丽江古城大研花巷观景
-https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",丽江古城大研花巷观景
-https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",丽江古城大水车
-https://gcalic.v.myalicdn.com/gc/ljgcdsc_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",丽江古城万古楼遥望玉龙雪山
-https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",狮子山鸟瞰丽江古城
-https://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",云台山小寨沟
-https://gcalic.v.myalicdn.com/gc/ytsxzg_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",云台山百家岩
-https://gcalic.v.myalicdn.com/gc/ytsbjy_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",云台山红石峡
-https://gcalic.v.myalicdn.com/gc/ytshsx_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",云台山茱萸峰
-https://gcalic.v.myalicdn.com/gc/ytszyf_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",云台山茱萸峰
-https://gcalic.v.myalicdn.com/gc/ytszyf_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",雪乡梦幻家园
-https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",雪乡梦幻家园观景台
-https://gcalic.v.myalicdn.com/gc/mdjxxmhjygjt_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",雪乡梦幻家园观景台
-https://gcalic.v.myalicdn.com/gc/mdjxxmhjygjt_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",雪乡大石碑
-https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",乌镇蓝印花布
-https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",乌镇西市河
-https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",乌镇西市河
-https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",乌镇龙形田
-https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",乌镇全景
-https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",凤凰古城南华山
-https://gcalic.v.myalicdn.com/gc/fhgcdnhs_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",凤凰古城东关门
-https://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8
-
-#EXTINF:-1 group-title="🐉广播剧场🎙",中国之声
-https://fanmingming.com/fm?id=639
-#EXTINF:-1 group-title="🐉广播剧场🎙",经济之声
-https://fanmingming.com/fm?id=640
-#EXTINF:-1 group-title="🐉广播剧场🎙",环球资讯广播
-https://fanmingming.com/fm?id=692
-#EXTINF:-1 group-title="🐉广播剧场🎙",音乐之声
-https://fanmingming.com/fm?id=641
-#EXTINF:-1 group-title="🐉广播剧场🎙",中国交通广播
-https://fanmingming.com/fm?id=653
-#EXTINF:-1 group-title="🐉广播剧场🎙",文艺之声
-https://fanmingming.com/fm?id=648
-#EXTINF:-1 group-title="🐉广播剧场🎙",大湾区之声
-https://fanmingming.com/fm?id=645
-#EXTINF:-1 group-title="🐉广播剧场🎙",经典音乐广播
-https://fanmingming.com/fm?id=642
-#EXTINF:-1 group-title="🐉广播剧场🎙",台海之声
-https://fanmingming.com/fm?id=643
-#EXTINF:-1 group-title="🐉广播剧场🎙",神州之声
-https://fanmingming.com/fm?id=644
-#EXTINF:-1 group-title="🐉广播剧场🎙",香港之声
-https://fanmingming.com/fm?id=646
-#EXTINF:-1 group-title="🐉广播剧场🎙",民族之声
-https://fanmingming.com/fm?id=647
-#EXTINF:-1 group-title="🐉广播剧场🎙",老年之声
-https://fanmingming.com/fm?id=649
-#EXTINF:-1 group-title="🐉广播剧场🎙",藏语广播
-https://fanmingming.com/fm?id=650
-#EXTINF:-1 group-title="🐉广播剧场🎙",维吾尔语广播
-https://fanmingming.com/fm?id=651
-#EXTINF:-1 group-title="🐉广播剧场🎙",阅读之声
-https://fanmingming.com/fm?id=652
-#EXTINF:-1 group-title="🐉广播剧场🎙",中国乡村之声
-https://fanmingming.com/fm?id=654
-#EXTINF:-1 group-title="🐉广播剧场🎙",哈萨克语广播
-https://fanmingming.com/fm?id=655
-#EXTINF:-1 group-title="🐉广播剧场🎙",HITFM劲曲调频
-https://fanmingming.com/fm?id=662
-#EXTINF:-1 group-title="🐉广播剧场🎙",轻松调频
-https://fanmingming.com/fm?id=689
-#EXTINF:-1 group-title="🐉广播剧场🎙",南海之声
-https://fanmingming.com/fm?id=664
-#EXTINF:-1 group-title="🐉广播剧场🎙",英语资讯广播
-https://fanmingming.com/fm?id=734
-#EXTINF:-1 group-title="🐉广播剧场🎙",北京新闻广播
-https://fanmingming.com/fm?id=353
-#EXTINF:-1 group-title="🐉广播剧场🎙",北京交通广播
-https://fanmingming.com/fm?id=354
-#EXTINF:-1 group-title="🐉广播剧场🎙",北京文艺广播
-https://fanmingming.com/fm?id=355
-#EXTINF:-1 group-title="🐉广播剧场🎙",北京音乐广播
-https://fanmingming.com/fm?id=356
-#EXTINF:-1 group-title="🐉广播剧场🎙",北京城市广播
-https://fanmingming.com/fm?id=357
-#EXTINF:-1 group-title="🐉广播剧场🎙",北京体育广播
-https://fanmingming.com/fm?id=359
-#EXTINF:-1 group-title="🐉广播剧场🎙",京津冀之声
-https://fanmingming.com/fm?id=687
-#EXTINF:-1 group-title="🐉广播剧场🎙",北京969经典调频
-https://fanmingming.com/fm?id=1254
-#EXTINF:-1 group-title="🐉广播剧场🎙",BCC中广音乐
-http://n07.rcs.revma.com/ks4vsmg3qtzuv
-#EXTINF:-1 group-title="🐉广播剧场🎙",CityFM台南知音
-http://fm971.cityfm.tw:8080/971.mp3
-#EXTINF:-1 group-title="🐉广播剧场🎙",美国之音
-http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
-#EXTINF:-1 group-title="🐉广播剧场🎙",One FM
-http://mediaprima.rastream.com/mediaprima-onefm
-#EXTINF:-1 group-title="🐉广播剧场🎙",BCC中广新闻
-http://n12.rcs.revma.com/78fm9wyy2tzuv
-#EXTINF:-1 group-title="🐉广播剧场🎙",Gold FM
-http://22903.live.streamtheworld.com:3690/GOLD905_PREM.aac
-#EXTINF:-1 group-title="🐉广播剧场🎙",Money FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac
-#EXTINF:-1 group-title="🐉广播剧场🎙",Yes FM
-https://22393.live.streamtheworld.com/YES933_PREM.aac
-#EXTINF:-1 group-title="🐉广播剧场🎙",Kiss FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92AAC.aac
-#EXTINF:-1 group-title="🐉广播剧场🎙",Love FM
-https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
-#EXTINF:-1 group-title="🐉广播剧场🎙",Classic FM
-http://ice-sov.musicradio.com/ClassicFM
-#EXTINF:-1 group-title="🐉广播剧场🎙",Capital FM
-https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
-#EXTINF:-1 group-title="🐉广播剧场🎙",NPR News
-https://nprdmcoitunes.akamaized.net/hls/live/2034276/itls/playlist.m3u8
-#EXTINF:-1 group-title="🐉广播剧场🎙",VOA环球英语
-http://voa-ingest.akamaized.net/hls/live/2035200/161_352R/playlist.m3u8
-#EXTINF:-1 group-title="🐉广播剧场🎙",Power FM
-https://crystalout.surfernetwork.com:8001/KVSP_MP3
-#EXTINF:-1 group-title="🐉广播剧场🎙",RTI中央广播
-https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
-#EXTINF:-1 group-title="🐉广播剧场🎙",半岛新闻
-http://tunein.ord.streamguys1.com/secure-aljazeera-english
-#EXTINF:-1 group-title="🐉广播剧场🎙",CNN News
-http://tunein.ord.streamguys1.com/secure-CNNi
-#EXTINF:-1 group-title="🐉广播剧场🎙",大兴电台
-https://fanmingming.com/fm?id=1255
-#EXTINF:-1 group-title="🐉广播剧场🎙",顺义电台
-https://fanmingming.com/fm?id=2432
-#EXTINF:-1 group-title="🐉广播剧场🎙",上海第一财经广播
-https://fanmingming.com/fm?id=370
-#EXTINF:-1 group-title="🐉广播剧场🎙",中国交通广播
-https://fanmingming.com/fm?id=744
-#EXTINF:-1 group-title="🐉广播剧场🎙",长三角之声
-https://fanmingming.com/fm?id=843
-#EXTINF:-1 group-title="🐉广播剧场🎙",上海故事广播
-https://fanmingming.com/fm?id=844
-#EXTINF:-1 group-title="🐉广播剧场🎙",五星体育广播
-https://fanmingming.com/fm?id=845
-#EXTINF:-1 group-title="🐉广播剧场🎙",闵行电台
-https://fanmingming.com/fm?id=846
-#EXTINF:-1 group-title="🐉广播剧场🎙",金山电台
-https://fanmingming.com/fm?id=847
-#EXTINF:-1 group-title="🐉广播剧场🎙",东上海之声
-https://fanmingming.com/fm?id=848
-#EXTINF:-1 group-title="🐉广播剧场🎙",上海新闻广播
-https://fanmingming.com/fm?id=849
-#EXTINF:-1 group-title="🐉广播剧场🎙",嘉定电台
-https://fanmingming.com/fm?id=1309
-#EXTINF:-1 group-title="🐉广播剧场🎙",KFM981
-https://fanmingming.com/fm?id=1310
-#EXTINF:-1 group-title="🐉广播剧场🎙",动感101
-https://fanmingming.com/fm?id=1311
-#EXTINF:-1 group-title="🐉广播剧场🎙",上海交通广播
-https://fanmingming.com/fm?id=1312
-#EXTINF:-1 group-title="🐉广播剧场🎙",Love Radio
-https://fanmingming.com/fm?id=1313
-#EXTINF:-1 group-title="🐉广播剧场🎙",上海戏曲广播
-https://fanmingming.com/fm?id=1314
-#EXTINF:-1 group-title="🐉广播剧场🎙",经典947
-https://fanmingming.com/fm?id=1316
-#EXTINF:-1 group-title="🐉广播剧场🎙",浦江之声广播
-https://fanmingming.com/fm?id=1317
-#EXTINF:-1 group-title="🐉广播剧场🎙",沸点100-MIX
-https://fanmingming.com/fm?id=1318
-#EXTINF:-1 group-title="🐉广播剧场🎙",崇明电台
-https://fanmingming.com/fm?id=1319
-#EXTINF:-1 group-title="🐉广播剧场🎙",松江电台
-https://fanmingming.com/fm?id=1320
-#EXTINF:-1 group-title="🐉广播剧场🎙",奉贤电台阳光959
-https://fanmingming.com/fm?id=2515
