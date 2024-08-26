@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 group-title="港·澳·台",凤凰中文
+http://124.230.56.165:55555/udp/239.76.246.7:1234$LR•IPV4『线路7』
+#EXTINF:-1 group-title="港·澳·台",凤凰中文
+http://124.230.56.165:55555/udp/239.76.246.134:1234$LR•IPV4『线路8』
+#EXTINF:-1 group-title="港·澳·台",凤凰中文
+http://124.230.56.165:55555/udp/239.76.253.135:9000$LR•IPV4『线路9』
+#EXTINF:-1 group-title="港·澳·台",凤凰中文
+http://125.69.138.228:8880/udp/239.93.0.162:2192$LR•IPV4『线路17』
+#EXTINF:-1 group-title="港·澳·台",凤凰中文
+http://125.69.138.228:8880/udp/239.93.1.9:2192$LR•IPV4『线路18』
+#EXTINF:-1 group-title="港·澳·台",凤凰中文
+http://171.217.35.98:8000/udp/239.93.0.162:2192$LR•IPV4『线路21』
+#EXTINF:-1 group-title="港·澳·台",凤凰中文
+http://171.217.35.98:8000/udp/239.93.1.9:2192$LR•IPV4『线路22』
+#EXTINF:-1 group-title="港·澳·台",凤凰中文
+http://171.213.133.86:4022/udp/239.93.0.162:2192$LR•IPV4『线路23』
+#EXTINF:-1 group-title="港·澳·台",凤凰中文
+http://171.213.133.86:4022/udp/239.93.1.9:2192$LR•IPV4『线路24』
+#EXTINF:-1 group-title="港·澳·台",凤凰资讯
+http://124.230.56.165:55555/udp/239.76.246.8:1234$LR•IPV4『线路7』
+#EXTINF:-1 group-title="港·澳·台",凤凰资讯
+http://124.230.56.165:55555/udp/239.76.253.134:9000$LR•IPV4『线路8』
+#EXTINF:-1 group-title="港·澳·台",凤凰资讯
+http://124.230.56.165:55555/udp/239.76.246.135:1234$LR•IPV4『线路9』
+#EXTINF:-1 group-title="港·澳·台",凤凰资讯
+http://125.69.138.228:8880/udp/239.93.0.118:2191$LR•IPV4『线路17』
+#EXTINF:-1 group-title="港·澳·台",凤凰资讯
+http://125.69.138.228:8880/udp/239.93.1.4:2191$LR•IPV4『线路18』
+#EXTINF:-1 group-title="港·澳·台",凤凰资讯
+http://171.217.35.98:8000/udp/239.93.0.118:2191$LR•IPV4『线路21』
+#EXTINF:-1 group-title="港·澳·台",凤凰资讯
+http://171.217.35.98:8000/udp/239.93.1.4:2191$LR•IPV4『线路22』
+#EXTINF:-1 group-title="港·澳·台",凤凰资讯
+http://171.213.133.86:4022/udp/239.93.0.118:2191$LR•IPV4『线路23』
+#EXTINF:-1 group-title="港·澳·台",凤凰资讯
+http://171.213.133.86:4022/udp/239.93.1.4:2191$LR•IPV4『线路24』
+#EXTINF:-1 group-title="港·澳·台",凤凰香港
+http://php.jdshipin.com:8880/jydx.php?id=38$LR•IPV4『线路19』
+#EXTINF:-1 group-title="港·澳·台",凤凰香港
+http://171.108.239.124:8181/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路21』
+#EXTINF:-1 group-title="港·澳·台",凤凰卫视
+http://122.224.232.218:8888/rtp/233.50.200.191:5140$LR•IPV4『线路4』
+#EXTINF:-1 group-title="港·澳·台",凤凰卫视
+http://103.116.245.163/sxg/sxg.php?id=/test1_4000.m3u8$LR•IPV4『线路8』
+#EXTINF:-1 group-title="港·澳·台",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0$LR•IPV4『线路6』
+#EXTINF:-1 group-title="港·澳·台",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0$LR•IPV4『线路11』
