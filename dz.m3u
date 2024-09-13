@@ -1,155 +1,53 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="🐉高码率线路-③💥",CCTV1
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="🐉高码率线路-③💥",CCTV2
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="🐉高码率线路-③💥",CCTV3
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="🐉高码率线路-③💥",CCTV4
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="🐉高码率线路-③💥",CCTV5
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="🐉高码率线路-③💥",CCTV5+
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="🐉高码率线路-③💥",CCTV6
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226010/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="🐉高码率线路-③💥",CCTV7
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225733/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="🐉高码率线路-③💥",CCTV8
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226008/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="🐉高码率线路-③💥",CCTV9
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225734/index.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="🐉高码率线路-③💥",CCTV10
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225730/index.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="🐉高码率线路-③💥",CCTV11
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225597/index.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="🐉高码率线路-③💥",CCTV12
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225731/index.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="🐉高码率线路-③💥",CCTV13
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226011/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="🐉高码率线路-③💥",CCTV14
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225732/index.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="🐉高码率线路-③💥",CCTV15
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225601/index.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="🐉高码率线路-③💥",CCTV16
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="🐉高码率线路-③💥",CCTV17
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="🐉高码率线路-③💥",北京卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226450/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="🐉高码率线路-③💥",湖南卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226430/index.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="🐉高码率线路-③💥",江苏卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226310/index.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="🐉高码率线路-③💥",浙江卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226342/index.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="🐉高码率线路-③💥",东方卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226345/index.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="🐉高码率线路-③💥",天津卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226395/index.m3u8
-#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="🐉高码率线路-③💥",河北卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226406/index.m3u8
-#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="🐉高码率线路-③💥",河南卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226320/index.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="🐉高码率线路-③💥",安徽卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226498/index.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="🐉高码率线路-③💥",黑龙江卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226327/index.m3u8
-#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="🐉高码率线路-③💥",吉林卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226397/index.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="🐉高码率线路-③💥",辽宁卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226254/index.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="🐉高码率线路-③💥",山东卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226456/index.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="🐉高码率线路-③💥",湖北卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226501/index.m3u8
-#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="🐉高码率线路-③💥",江西卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226344/index.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="🐉高码率线路-③💥",深圳卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226510/index.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="🐉高码率线路-③💥",四川卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226338/index.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="🐉高码率线路-③💥",重庆卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226463/index.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="🐉高码率线路-③💥",广东卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226248/index.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="🐉高码率线路-③💥",东南卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226341/index.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="🐉高码率线路-③💥",贵州卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226383/index.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="🐉高码率线路-③💥",海南卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226465/index.m3u8
-#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="🐉高码率线路-③💥",云南卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226444/index.m3u8
-#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="🐉高码率线路-③💥",内蒙卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226389/index.m3u8
-#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="🐉高码率线路-③💥",宁夏卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226454/index.m3u8
-#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="🐉高码率线路-③💥",青海卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226323/index.m3u8
-#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="🐉高码率线路-③💥",山西卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226392/index.m3u8
-#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="🐉高码率线路-③💥",陕西卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226457/index.m3u8
-#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="🐉高码率线路-③💥",西藏卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226433/index.m3u8
-#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="🐉高码率线路-③💥",新疆卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226460/index.m3u8
-#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="🐉高码率线路-③💥",兵团卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226439/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉高码率线路-③💥",大湾区卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226442/index.m3u8
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="🐉高码率线路-③💥",卡酷动画
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225654/index.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="🐉高码率线路-③💥",CGTN科教
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225604/index.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="🐉高码率线路-③💥",CGTN纪录
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225602/index.m3u8
-#EXTINF:-1 group-title="港·澳·台",凤凰中文
-http://124.230.56.165:55555/udp/239.76.246.7:1234$LR•IPV4『线路7』
-#EXTINF:-1 group-title="港·澳·台",凤凰中文
-http://124.230.56.165:55555/udp/239.76.246.134:1234$LR•IPV4『线路8』
-#EXTINF:-1 group-title="港·澳·台",凤凰中文
-http://124.230.56.165:55555/udp/239.76.253.135:9000$LR•IPV4『线路9』
-#EXTINF:-1 group-title="港·澳·台",凤凰中文
-http://125.69.138.228:8880/udp/239.93.0.162:2192$LR•IPV4『线路17』
-#EXTINF:-1 group-title="港·澳·台",凤凰中文
-http://125.69.138.228:8880/udp/239.93.1.9:2192$LR•IPV4『线路18』
-#EXTINF:-1 group-title="港·澳·台",凤凰中文
-http://171.217.35.98:8000/udp/239.93.0.162:2192$LR•IPV4『线路21』
-#EXTINF:-1 group-title="港·澳·台",凤凰中文
-http://171.217.35.98:8000/udp/239.93.1.9:2192$LR•IPV4『线路22』
-#EXTINF:-1 group-title="港·澳·台",凤凰中文
-http://171.213.133.86:4022/udp/239.93.0.162:2192$LR•IPV4『线路23』
-#EXTINF:-1 group-title="港·澳·台",凤凰中文
-http://171.213.133.86:4022/udp/239.93.1.9:2192$LR•IPV4『线路24』
-#EXTINF:-1 group-title="港·澳·台",凤凰资讯
-http://124.230.56.165:55555/udp/239.76.246.8:1234$LR•IPV4『线路7』
-#EXTINF:-1 group-title="港·澳·台",凤凰资讯
-http://124.230.56.165:55555/udp/239.76.253.134:9000$LR•IPV4『线路8』
-#EXTINF:-1 group-title="港·澳·台",凤凰资讯
-http://124.230.56.165:55555/udp/239.76.246.135:1234$LR•IPV4『线路9』
-#EXTINF:-1 group-title="港·澳·台",凤凰资讯
-http://125.69.138.228:8880/udp/239.93.0.118:2191$LR•IPV4『线路17』
-#EXTINF:-1 group-title="港·澳·台",凤凰资讯
-http://125.69.138.228:8880/udp/239.93.1.4:2191$LR•IPV4『线路18』
-#EXTINF:-1 group-title="港·澳·台",凤凰资讯
-http://171.217.35.98:8000/udp/239.93.0.118:2191$LR•IPV4『线路21』
-#EXTINF:-1 group-title="港·澳·台",凤凰资讯
-http://171.217.35.98:8000/udp/239.93.1.4:2191$LR•IPV4『线路22』
-#EXTINF:-1 group-title="港·澳·台",凤凰资讯
-http://171.213.133.86:4022/udp/239.93.0.118:2191$LR•IPV4『线路23』
-#EXTINF:-1 group-title="港·澳·台",凤凰资讯
-http://171.213.133.86:4022/udp/239.93.1.4:2191$LR•IPV4『线路24』
-#EXTINF:-1 group-title="港·澳·台",凤凰香港
-http://php.jdshipin.com:8880/jydx.php?id=38$LR•IPV4『线路19』
-#EXTINF:-1 group-title="港·澳·台",凤凰香港
-http://171.108.239.124:8181/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路21』
-#EXTINF:-1 group-title="港·澳·台",凤凰卫视
-http://122.224.232.218:8888/rtp/233.50.200.191:5140$LR•IPV4『线路4』
-#EXTINF:-1 group-title="港·澳·台",凤凰卫视
-http://103.116.245.163/sxg/sxg.php?id=/test1_4000.m3u8$LR•IPV4『线路8』
-#EXTINF:-1 group-title="港·澳·台",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0$LR•IPV4『线路6』
-#EXTINF:-1 group-title="港·澳·台",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0$LR•IPV4『线路11』
+#EXTINF:-1 group-title="广东频道",广东体育
+http://125.89.163.44:8888/udp/239.77.0.112:5146$LR•IPV4『线路3』
+#EXTINF:-1 group-title="广东频道",广东体育
+http://113.74.172.147:4000/udp/239.77.1.97:5146$LR•IPV4『线路9』
+#EXTINF:-1 group-title="广东频道",广东体育
+http://116.23.97.247:50000/rtp/239.77.0.112:5146$LR•IPV4『线路11』
+#EXTINF:-1 group-title="广东频道",广东体育
+http://202.103.213.173:8888/rtp/239.81.0.104:4056$LR•IPV4『线路13』
+#EXTINF:-1 group-title="广东频道",广东体育
+http://120.237.241.82:4000/udp/239.77.0.112:5146$LR•IPV4『线路15』
+#EXTINF:-1 group-title="广东频道",广东体育
+http://www.zzlag.top:9087/tsfile/live/1036_1.m3u8?key=txiptv$LR•IPV4『线路18』
+#EXTINF:-1 group-title="广东频道",广东体育
+http://113.100.72.213:8899/udp/239.77.0.168:5146$LR•IPV4『线路25』
+#EXTINF:-1 group-title="广东频道",广东体育
+http://tenfarr.com:4000/rtp/239.77.0.168:5146$LR•IPV4『线路26』
+#EXTINF:-1 group-title="广东频道",广东体育
+http://120.237.241.82:4000/udp/239.77.0.168:5146$LR•IPV4『线路27』
+#EXTINF:-1 group-title="广东频道",广东体育
+http://mryx.fun:1025/udp/239.10.0.113:1025$LR•IPV4『线路29』
+#EXTINF:-1 group-title="广东频道",广东体育
+http://tenfarr.com:4000/rtp/239.77.0.6:5146$LR•IPV4『线路30』
+#EXTINF:-1 group-title="广东频道",广东体育
+http://120.234.49.38:7000/udp/239.20.0.103:2004$LR•IPV4『线路31』
+#EXTINF:-1 group-title="广东频道",广东体育
+http://113.74.172.147:4000/rtp/239.77.0.6:5146$LR•IPV4『线路32』
+#EXTINF:-1 group-title="广东频道",广东体育
+http://ddns.cyruslee.top:8888/udp/239.77.0.6:5146$LR•IPV4『线路33』
+#EXTINF:-1 group-title="广东频道",广东体育
+http://lzjzyh.xyz:8888/udp/239.20.0.103:2004$LR•IPV4『线路34』
+#EXTINF:-1 group-title="广东频道",广东体育
+http://14.145.234.231:8888/rtp/239.77.0.112:5146$LR•IPV4『线路37』
+#EXTINF:-1 group-title="广东频道",广东体育
+http://120.238.84.44:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路38』
+#EXTINF:-1 group-title="广东频道",广东体育
+http://113.100.72.213:8899/udp/239.77.0.112:5146$LR•IPV4『线路39』
+#EXTINF:-1 group-title="广东频道",广东体育
+http://58.252.12.164:8000/udp/239.77.0.112:5146$LR•IPV4『线路45』
+#EXTINF:-1 group-title="广东频道",广东体育
+http://api2.52tb.xyz/info?id=414&token=20230326xflvzc$LR•IPV4『线路53』
+#EXTINF:-1 group-title="广东频道",广东体育
+http://113.93.54.144:5555/rtp/239.77.0.112:5146$LR•IPV4『线路57』
+#EXTINF:-1 group-title="广东频道",广东体育
+http://120.234.49.38:7000/udp/239.20.0.97:3012$LR•IPV4『线路66』
+#EXTINF:-1 group-title="广东频道",广东体育
+http://120.238.99.51:8888/rtp/239.77.0.112:5146$LR•IPV4『线路68』
+#EXTINF:-1 group-title="广东频道",广东体育
+http://ddns.cyruslee.top:8888/udp/239.77.1.97:5146$LR•IPV4『线路70』
+#EXTINF:-1 group-title="广东频道",广东体育
+http://125.89.163.44:8888/udp/239.77.0.168:5146$LR•IPV4『线路74』
+#EXTINF:-1 group-title="广东频道",广州新闻
+http://111.229.155.66:7722/timetv.php?type=gztv&channel=gzxw
