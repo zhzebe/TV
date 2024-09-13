@@ -1,0 +1,278 @@
+#EXTM3U
+#EXTINF:-1 group-title="秒播线路①",CCTV1
+http://222.134.245.16:9901/tsfile/live/0001_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",CCTV2
+http://222.134.245.16:9901/tsfile/live/0002_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",CCTV3
+http://222.134.245.16:9901/tsfile/live/0003_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",CCTV4
+http://222.134.245.16:9901/tsfile/live/0004_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",CCTV5
+http://222.134.245.16:9901/tsfile/live/0005_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",CCTV5+
+http://222.134.245.16:9901/tsfile/live/0016_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",CCTV6
+http://222.134.245.16:9901/tsfile/live/0006_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",CCTV7
+http://222.134.245.16:9901/tsfile/live/0007_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",CCTV8
+http://222.134.245.16:9901/tsfile/live/0008_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",CCTV9
+http://222.134.245.16:9901/tsfile/live/0009_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",CCTV10
+http://222.134.245.16:9901/tsfile/live/0010_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",CCTV11
+http://222.134.245.16:9901/tsfile/live/0011_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",CCTV12
+http://222.134.245.16:9901/tsfile/live/0012_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",CCTV13
+http://222.134.245.16:9901/tsfile/live/0013_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",CCTV14
+http://222.134.245.16:9901/tsfile/live/0014_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",CCTV15
+http://222.134.245.16:9901/tsfile/live/0015_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",CCTV17
+http://222.134.245.16:9901/tsfile/live/0019_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",山东卫视
+http://222.134.245.16:9901/tsfile/live/0131_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",重庆卫视
+http://222.134.245.16:9901/tsfile/live/0142_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",陕西卫视
+http://222.134.245.16:9901/tsfile/live/0136_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",四川卫视
+http://222.134.245.16:9901/tsfile/live/0123_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",河南卫视
+http://222.134.245.16:9901/tsfile/live/0139_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",云南卫视
+http://222.134.245.16:9901/tsfile/live/0119_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",吉林卫视
+http://222.134.245.16:9901/tsfile/live/0116_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",北京卫视
+http://222.134.245.16:9901/tsfile/live/0122_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",江苏卫视
+http://222.134.245.16:9901/tsfile/live/0127_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",浙江卫视
+http://222.134.245.16:9901/tsfile/live/0124_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",湖南卫视
+http://222.134.245.16:9901/tsfile/live/0128_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",新疆卫视
+http://222.134.245.16:9901/tsfile/live/0110_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",内蒙古卫视
+http://222.134.245.16:9901/tsfile/live/0109_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",安徽卫视
+http://222.134.245.16:9901/tsfile/live/0130_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",湖北卫视
+http://222.134.245.16:9901/tsfile/live/0132_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",辽宁卫视
+http://222.134.245.16:9901/tsfile/live/0121_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",天津卫视
+http://222.134.245.16:9901/tsfile/live/0135_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",河北卫视
+http://222.134.245.16:9901/tsfile/live/0117_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",东方卫视
+http://222.134.245.16:9901/tsfile/live/0107_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",东南卫视
+http://222.134.245.16:9901/tsfile/live/0137_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",广西卫视
+http://222.134.245.16:9901/tsfile/live/0113_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",山西卫视
+http://222.134.245.16:9901/tsfile/live/0118_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",广东卫视
+http://222.134.245.16:9901/tsfile/live/0125_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",黑龙江卫视
+http://222.134.245.16:9901/tsfile/live/0143_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",江西卫视
+http://222.134.245.16:9901/tsfile/live/0138_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",贵州卫视
+http://222.134.245.16:9901/tsfile/live/0120_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",青海卫视
+http://222.134.245.16:9901/tsfile/live/0140_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",宁夏卫视
+http://222.134.245.16:9901/tsfile/live/0112_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",甘肃卫视
+http://222.134.245.16:9901/tsfile/live/0141_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",山东齐鲁
+http://222.134.245.16:9901/tsfile/live/1001_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路①",山东体育
+http://222.134.245.16:9901/tsfile/live/1006_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="秒播线路②",CCTV1
+http://110.189.102.15:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",CCTV2
+http://110.189.102.15:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",CCTV3
+http://110.189.102.15:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",CCTV4
+http://110.189.102.15:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",CCTV5
+http://110.189.102.15:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",CCTV5+
+http://110.189.102.15:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",CCTV6
+http://110.189.102.15:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",CCTV7
+http://110.189.102.15:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",CCTV8
+http://110.189.102.15:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",CCTV9
+http://110.189.102.15:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",CCTV10
+http://110.189.102.15:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",CCTV11
+http://110.189.102.15:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",CCTV12
+http://110.189.102.15:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",CCTV13
+http://110.189.102.15:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",CCTV14
+http://110.189.102.15:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",CCTV15
+http://110.189.102.15:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",北京卫视
+http://110.189.102.15:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",江苏卫视
+http://110.189.102.15:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",东方卫视
+http://110.189.102.15:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",深圳卫视
+http://110.189.102.15:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",湖南卫视
+http://110.189.102.15:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",浙江卫视
+http://110.189.102.15:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",山东卫视
+http://110.189.102.15:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",东南卫视
+http://110.189.102.15:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",安徽卫视
+http://110.189.102.15:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",贵州卫视
+http://110.189.102.15:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",天津卫视
+http://110.189.102.15:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",湖北卫视
+http://110.189.102.15:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",重庆卫视
+http://110.189.102.15:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",云南卫视
+http://110.189.102.15:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",江西卫视
+http://110.189.102.15:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",广西卫视
+http://110.189.102.15:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",广东卫视
+http://110.189.102.15:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",河南卫视
+http://110.189.102.15:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",黑龙江卫视
+http://110.189.102.15:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",吉林卫视
+http://110.189.102.15:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",陕西卫视
+http://110.189.102.15:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",宁夏卫视
+http://110.189.102.15:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",内蒙古卫视
+http://110.189.102.15:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",山西卫视
+http://110.189.102.15:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",甘肃卫视
+http://110.189.102.15:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路②",四川卫视
+http://110.189.102.15:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="秒播线路⑤",CCTV1
+http://1.180.2.93:9901/tsfile/live/1020_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",CCTV2
+http://1.180.2.93:9901/tsfile/live/1035_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",CCTV3
+http://1.180.2.93:9901/tsfile/live/1054_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",CCTV4
+http://1.180.2.93:9901/tsfile/live/1063_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",CCTV5+
+http://1.180.2.93:9901/tsfile/live/1027_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",CCTV6
+http://1.180.2.93:9901/tsfile/live/1064_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",CCTV7
+http://1.180.2.93:9901/tsfile/live/0007_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",CCTV8
+http://1.180.2.93:9901/tsfile/live/1065_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",CCTV9
+http://1.180.2.93:9901/tsfile/live/1066_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",CCTV10
+http://1.180.2.93:9901/tsfile/live/0010_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",CCTV11
+http://1.180.2.93:9901/tsfile/live/0011_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",浙江卫视
+http://1.180.2.93:9901/tsfile/live/0124_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",北京卫视
+http://1.180.2.93:9901/tsfile/live/0122_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",吉林卫视
+http://1.180.2.93:9901/tsfile/live/0116_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",辽宁卫视
+http://1.180.2.93:9901/tsfile/live/0121_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",江西卫视
+http://1.180.2.93:9901/tsfile/live/0138_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",山东卫视
+http://1.180.2.93:9901/tsfile/live/0131_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",山西卫视
+http://1.180.2.93:9901/tsfile/live/0118_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",河南卫视
+http://1.180.2.93:9901/tsfile/live/0139_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",河北卫视
+http://1.180.2.93:9901/tsfile/live/0117_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",湖北卫视
+http://1.180.2.93:9901/tsfile/live/0132_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",广西卫视
+http://1.180.2.93:9901/tsfile/live/0113_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",海南卫视
+http://1.180.2.93:9901/tsfile/live/1033_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",贵州卫视
+http://1.180.2.93:9901/tsfile/live/0120_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",云南卫视
+http://1.180.2.93:9901/tsfile/live/0119_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",西藏卫视
+http://1.180.2.93:9901/tsfile/live/0111_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",陕西卫视
+http://1.180.2.93:9901/tsfile/live/0136_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",青海卫视
+http://1.180.2.93:9901/tsfile/live/0140_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",兵团卫视
+http://1.180.2.93:9901/tsfile/live/0115_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",甘肃卫视
+http://1.180.2.93:9901/tsfile/live/0141_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",新疆卫视
+http://1.180.2.93:9901/tsfile/live/0110_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",宁夏卫视
+http://1.180.2.93:9901/tsfile/live/0112_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",黑龙江卫视
+http://1.180.2.93:9901/tsfile/live/0143_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",内蒙古卫视
+http://1.180.2.93:9901/tsfile/live/1068_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",内蒙古农牧
+http://1.180.2.93:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",内蒙古少儿
+http://1.180.2.93:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",内蒙古娱乐
+http://1.180.2.93:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",内蒙古新闻
+http://1.180.2.93:9901/tsfile/live/1000_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",内蒙古经济
+http://1.180.2.93:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1 group-title="秒播线路⑤",内蒙古蒙语
+http://1.180.2.93:9901/tsfile/live/1008_1.m3u8
+#EXTINF:-1 group-title="数字高清",CHC影迷电影
+http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
+#EXTINF:-1 group-title="数字高清",CHC家庭影院
+http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
+#EXTINF:-1 group-title="数字高清",CHC动作电影
+http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
+#EXTINF:-1 group-title="数字高清",CHC动作电影
+http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
+#EXTINF:-1 group-title="数字高清",CHC家庭影院
+http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
+#EXTINF:-1 group-title="数字高清",CHC影迷电影
+http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
+#EXTINF:-1 group-title="国内体育",JJ斗地主
+http://openhls-tct.douyucdn2.cn:80/dyliveflv1a/488743rAHScWyyII_2000.m3u8
+#EXTINF:-1 group-title="国内体育",JJ斗地主
+http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+#EXTINF:-1 group-title="国内体育",王者荣耀
