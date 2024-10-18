@@ -377,7 +377,54 @@ http://live.hyxrmt.com:85/live/xwpd.m3u8
 https://jwliveqxzb.hebyun.com.cn/cdsggshtv/cdsggshtv.m3u8
 #EXTINF:-1 group-title="各地方频道",承德新闻综合
 https://jwliveqxzb.hebyun.com.cn/cdsxwzhtv/cdsxwzhtv.m3u8
-
+#EXTINF:-1 group-title="🐉NewTV频道",NewTV东北热剧 4M1080
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+#EXTINF:-1 group-title="🐉NewTV频道",NewTV中国功夫 2.5M1080
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+#EXTINF:-1 group-title="🐉NewTV频道",NewTV军事评论 2.5M1080
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+#EXTINF:-1 group-title="🐉NewTV频道",NewTV军旅剧场 2.5M1080
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 group-title="🐉NewTV频道",NewTV农业致富 4M1080
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+#EXTINF:-1 group-title="🐉NewTV频道",NewTV动作电影 2.5M1080
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1 group-title="🐉NewTV频道",NewTV家庭剧场 2.5M1080
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 group-title="🐉NewTV频道",NewTV怡伴健康 2.5M1080
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
+#EXTINF:-1 group-title="🐉NewTV频道",NewTV惊悚悬疑 2.5M1080
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 group-title="🐉NewTV频道",NewTV明星大片 2.5M1080
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+#EXTINF:-1 group-title="🐉NewTV频道",NewTV欢乐剧场 4M1080
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+#EXTINF:-1 group-title="🐉NewTV频道",NewTV武搏世界 2.5M1080
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+#EXTINF:-1 group-title="🐉NewTV频道",NewTV海外剧场 2.5M1080
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 group-title="🐉NewTV频道",NewTV潮妈辣婆 4M1080
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+#EXTINF:-1 group-title="🐉NewTV频道",NewTV爱情喜剧 2.5M1080
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 group-title="🐉NewTV频道",NewTV精品大剧 2.5M1080
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1 group-title="🐉NewTV频道",NewTV精品纪录 2.5M1080
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 group-title="🐉NewTV频道",NewTV精品体育 4M1080
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 group-title="🐉NewTV频道",NewTV超级体育 4M1080
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 group-title="🐉NewTV频道",NewTV超级电影 4M1080
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1 group-title="🐉NewTV频道",NewTV超级电视剧 4M1080
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 group-title="🐉NewTV频道",NewTV超级综艺 4M1080
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+#EXTINF:-1 group-title="🐉NewTV频道",NewTV金牌综艺 2.5M1080
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1 group-title="🐉NewTV频道",NewTV精品萌宠 4M1080
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
 #EXTINF:-1 group-title="🐉纪录片频道",人与自然
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
 #EXTINF:-1 group-title="🐉纪录片频道",自然传奇
