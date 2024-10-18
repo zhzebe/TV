@@ -767,3 +767,21 @@ https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5e01c3ff2a5844ab806
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/cad939a2eb714f4b9d37c4185674d50b/1200.m3u8
 #EXTINF:-1 group-title="🐉纪录片频道",狮群的荣耀
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/84b850056589475f80528cf28b9b840a/1200.m3u8
+#EXTINF:-1 group-title="戏曲频道",曲剧《桑林收子》
+http://gcw.bdcdn.shoujiduoduo.com/v/190617/2282c7e70fc99fe1e7e065e32b1ab2b9.mp4
+#EXTINF:-1 group-title="戏曲频道",曲剧《四郎探母》
+http://gcw.bdcdn.shoujiduoduo.com/v/191208/1aef74e8889ab9199f60927ac66b0885.mp4
+#EXTINF:-1 group-title="戏曲频道",曲剧《四郎探母》
+http://gcw.bdcdn.shoujiduoduo.com/v/190218/c981286b5772c5c5351b202973680264.mp4
+#EXTINF:-1 group-title="戏曲频道",曲剧《背靴访帅》
+http://gcw.bdcdn.shoujiduoduo.com/v/200831/2d7d5874b132f83b8f6d7c2e24ee3cdf.mp4
+#EXTINF:-1 group-title="戏曲频道",曲剧《李豁子做梦》
+http://gcw.bdcdn.shoujiduoduo.com/v/191208/d1a3c9f90719f7eebdafd964b7bcb8f8.mp4
+#EXTINF:-1 group-title="戏曲频道",曲剧《刘公案》
+http://gcw.bdcdn.shoujiduoduo.com/v/190429/2ef6445a1215cf06049cac61d72f201e.mp4
+#EXTINF:-1 group-title="戏曲频道",曲剧《风雪配》
+http://gcw.bdcdn.shoujiduoduo.com/v/190702/3e371e8c94d2e1070319298ce2f9c2b7.mp4
+#EXTINF:-1 group-title="戏曲频道",曲剧《十八哭》
+http://gcw.bdcdn.shoujiduoduo.com/v/190304/7dc7811188639217fb8299804021325f.mp4
+#EXTINF:-1 group-title="戏曲频道",曲剧《王华买爹》
+http://gcw.bdcdn.shoujiduoduo.com/v/190902/19ce2ae8133857ae7ffc2dbe0c674a3b.mp4
