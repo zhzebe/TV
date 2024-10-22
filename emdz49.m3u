@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U
+
 #EXTINF:-1 group-title="独家线路",CCTV1
 http://111.229.138.238:45123/live/hndx.m3u8?token=SE1018GOOD6690161549&channel=cctv1&usertoken=gerthd523
 #EXTINF:-1 group-title="独家线路",CCTV2
