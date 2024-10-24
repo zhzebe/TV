@@ -258,531 +258,332 @@ http://openhls-tct.douyucdn2.cn:80/dyliveflv1a/488743rAHScWyyII_2000.m3u8
 #EXTINF:-1 group-title="国内体育",JJ斗地主
 http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 #EXTINF:-1 group-title="国内体育",王者荣耀
-
-#EXTINF:-1 tvg-name="湖北经视" tvg-logo="https://live.fanmingming.com/tv/湖北经视.png" group-title="各地方频道",湖北经视
-http://58.51.111.46:1111/tsfile/live/1019_1.m3u8
-#EXTINF:-1 tvg-name="湖北经视" tvg-logo="https://live.fanmingming.com/tv/湖北经视.png" group-title="各地方频道",湖北经视
-http://59.173.243.210:9901/tsfile/live/1019_1.m3u8
-#EXTINF:-1 group-title="各地方频道",浙江国际
-https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 group-title="各地方频道",浙江钱江
-https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 group-title="各地方频道",浙江民生休闲
-http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
-#EXTINF:-1 group-title="各地方频道",浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 group-title="各地方频道",浙江教科
-https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 group-title="各地方频道",浙江民生
-https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 group-title="各地方频道",浙江新闻
-https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 group-title="各地方频道",南宁新闻综合
-http://hls.nntv.cn/nnlive/XWZH_24.m3u8
-#EXTINF:-1 group-title="各地方频道",南宁都市生活
-https://hls.nntv.cn/nnlive/WLSH_24.m3u8
-#EXTINF:-1 group-title="各地方频道",南宁影视娱乐
-https://hls.nntv.cn/nnlive/YSYL_24.m3u8
-#EXTINF:-1 group-title="各地方频道",南宁公共
-https://hls.nntv.cn/nnlive/GGPD_24.m3u8
-#EXTINF:-1 group-title="各地方频道",贺州综合
-http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
-#EXTINF:-1 group-title="各地方频道",桂林新闻
-https://pull.gltvs.com/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
-#EXTINF:-1 group-title="各地方频道",广西贺州
-http://zhz.gxhzxw.com:2935/live/HZXW-HD/chunklist.m3u8
-#EXTINF:-1 group-title="各地方频道",贺州综合
-http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
-#EXTINF:-1 group-title="各地方频道",罗城综合
-http://111.12.75.177:9100/lctvlive/lch.m3u8?zguangxd
-#EXTINF:-1 group-title="各地方频道",桂林新闻综合
-https://pull.gltvs.com:443/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
-
-#EXTINF:-1 group-title="各地方频道",罗城综合
-http://www.3jlc.cn:80/lctvlive/lcm.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="各地方频道",黑龙江卫视
-https://idclive.hljtv.com:4430/live/hljws_own.m3u8
-#EXTINF:-1 group-title="各地方频道",文体频道
-https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
-#EXTINF:-1 group-title="各地方频道",影视频道
-https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
-#EXTINF:-1 group-title="各地方频道",新闻法治
-https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8
-#EXTINF:-1 group-title="各地方频道",都市频道
-https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
-#EXTINF:-1 group-title="各地方频道",农业科教
-https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
-#EXTINF:-1 group-title="各地方频道",少儿频道
-https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
-#EXTINF:-1 tvg-id="6001" tvg-name="辽宁都市" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV2.png" group-title="各地方频道",辽宁都市
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000610
-#EXTINF:-1 tvg-id="6006" tvg-name="辽宁北方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV8.png" group-title="各地方频道",辽宁北方
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000071
-#EXTINF:-1 tvg-id="6004" tvg-name="辽宁生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV6.png" group-title="各地方频道",辽宁生活
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000073
-#EXTINF:-1 tvg-id="6007" tvg-name="辽宁体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV-SPORT.png" group-title="各地方频道",辽宁体育
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000611
-#EXTINF:-1 tvg-id="6002" tvg-name="辽宁影视剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV3.png" group-title="各地方频道",辽宁影视剧
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000070
-#EXTINF:-1 group-title="各地方频道",辽宁教育青少
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000075
-#EXTINF:-1 tvg-id="6008" tvg-name="辽宁经济" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV-FINANCE.png" group-title="各地方频道",辽宁经济
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000076
-#EXTINF:-1 tvg-id="6005" tvg-name="辽宁公共" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV7.png" group-title="各地方频道",辽宁公共
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000077
-#EXTINF:-1 group-title="各地方频道",北方导视
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000187
-#EXTINF:-1 tvg-id="1307" tvg-name="新动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xindongman.png" group-title="各地方频道",辽宁新动漫
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000140
-#EXTINF:-1 group-title="各地方频道",大连新闻综合
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000273
-#EXTINF:-1 group-title="各地方频道",丹东新闻综合
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000276
-#EXTINF:-1 group-title="各地方频道",锦州新闻综合
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000277
-#EXTINF:-1 group-title="各地方频道",阜新新闻综合
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000279
-#EXTINF:-1 group-title="各地方频道",辽阳新闻综合
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000280
-#EXTINF:-1 group-title="各地方频道",营口新闻综合
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000278
-#EXTINF:-1 group-title="各地方频道",盘锦新闻综合
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000283
-#EXTINF:-1 group-title="各地方频道",铁岭新闻综合
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000281
-#EXTINF:-1 group-title="各地方频道",朝阳新闻综合
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000282
-#EXTINF:-1 group-title="各地方频道",内蒙新闻
-https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
-#EXTINF:-1 group-title="各地方频道",内蒙经济
-https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
-#EXTINF:-1 group-title="各地方频道",内蒙少儿
-https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
-#EXTINF:-1 group-title="各地方频道",内蒙文体
-https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
-#EXTINF:-1 group-title="各地方频道",内蒙农牧
-https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
-#EXTINF:-1 group-title="各地方频道",蒙语卫视
-https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
-#EXTINF:-1 group-title="各地方频道",蒙语文化
-https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="各地方频道",天津卫视
-http://111.160.17.2:59901/tsfile/live/1004_1.m3u8
-#EXTINF:-1 group-title="各地方频道",天津影视
-http://111.160.17.2:59901/tsfile/live/1006_1.m3u8
-#EXTINF:-1 group-title="各地方频道",天津体育
-http://111.160.17.2:59901/tsfile/live/0141_1.m3u8
-#EXTINF:-1 group-title="各地方频道",河北经济
-http://live.hyxrmt.com:85/live/xwpd.m3u8
-#EXTINF:-1 group-title="各地方频道",承德公共生活
-https://jwliveqxzb.hebyun.com.cn/cdsggshtv/cdsggshtv.m3u8
-#EXTINF:-1 group-title="各地方频道",承德新闻综合
-https://jwliveqxzb.hebyun.com.cn/cdsxwzhtv/cdsxwzhtv.m3u8
-#EXTINF:-1 group-title="🐉NewTV频道",NewTV东北热剧 4M1080
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 group-title="🐉NewTV频道",NewTV中国功夫 2.5M1080
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-#EXTINF:-1 group-title="🐉NewTV频道",NewTV军事评论 2.5M1080
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 group-title="🐉NewTV频道",NewTV军旅剧场 2.5M1080
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 group-title="🐉NewTV频道",NewTV农业致富 4M1080
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-#EXTINF:-1 group-title="🐉NewTV频道",NewTV动作电影 2.5M1080
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 group-title="🐉NewTV频道",NewTV家庭剧场 2.5M1080
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 group-title="🐉NewTV频道",NewTV怡伴健康 2.5M1080
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 group-title="🐉NewTV频道",NewTV惊悚悬疑 2.5M1080
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 group-title="🐉NewTV频道",NewTV明星大片 2.5M1080
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 group-title="🐉NewTV频道",NewTV欢乐剧场 4M1080
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 group-title="🐉NewTV频道",NewTV武搏世界 2.5M1080
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:-1 group-title="🐉NewTV频道",NewTV海外剧场 2.5M1080
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 group-title="🐉NewTV频道",NewTV潮妈辣婆 4M1080
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-#EXTINF:-1 group-title="🐉NewTV频道",NewTV爱情喜剧 2.5M1080
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 group-title="🐉NewTV频道",NewTV精品大剧 2.5M1080
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 group-title="🐉NewTV频道",NewTV精品纪录 2.5M1080
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 group-title="🐉NewTV频道",NewTV精品体育 4M1080
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 group-title="🐉NewTV频道",NewTV超级体育 4M1080
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 group-title="🐉NewTV频道",NewTV超级电影 4M1080
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 group-title="🐉NewTV频道",NewTV超级电视剧 4M1080
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 group-title="🐉NewTV频道",NewTV超级综艺 4M1080
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 group-title="🐉NewTV频道",NewTV金牌综艺 2.5M1080
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 group-title="🐉NewTV频道",NewTV精品萌宠 4M1080
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",人与自然
-http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",自然传奇
-http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",探索发现
-http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",地理中国
-http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6baf6f74bb944aeacee1065ea72c798/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",大太平洋
-http://hls.cntv.kcdnvip.com/asp/hls/4000/0303000a/3/default/2d7f4eeaed2e4ad080bcf324eb21bc0d/4000.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",生命脉动
-http://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/c481b5826ffc4e99a92e01704c862dbc/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",飞碟之谜01
-https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d36a04fd7d262/2000.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",飞碟之谜02
-https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9db478dab2addfd/2000.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",远方的家
-http://hls.cntv.kcdnvip.com/asp/hls/4000/0303000a/3/default/162d7e29c3da4aab82ad47b6e2d9e7b4/4000.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",美丽中国说
-http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",美丽中国自然
-http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/51d937a0201f4c78a5878b4b37089f3b/4000.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",航拍中国第一季
-http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7dc0b5a9d99fdb/4000.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",航拍中国第二季
-http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",航拍中国第三季
-http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/18a8a559464448dbaf60d33913e09aea/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",中国村庄
-http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/93fc12dbf14241c18c23da104fbade23/4000.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",梵净山
-http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/b9571df1181c4422a83901e827519fe6/4000.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",地球脉动第一季
-http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7a3423af02284c3db48b854ab646993f/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",乘着火车看中国
-http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/2b0f397ed9d948eb9fac38d73cde241b/4000.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",中国环球电视
-http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",中国气象
-http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",地雷战
-http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458e40508615d711b8aae1af/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",地道战
-http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/312e39c68cc441feb79d1c2d7e16cbbd/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",跟踪追击
-http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/059096230b4e46c0b5d4929ff98435d0/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",红牡丹
-http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/921b8081b58b4c2f81fb233b6c8e89ac/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",侦察兵
-http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3e4727a0fca34aa8b9774472a4908eaf/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",三毛流浪记
-http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b9ce94c233b043bebe30340f09868ed1/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",红色娘子军
-http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2ea3b03b3a414303b830f92579243001/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",五朵金花
-http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ae639196cf3949368c1b05776bb1d4fa/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",洪湖赤卫队
-http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2a58afdece3342eaac927648a2cccabd/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",狼牙山五壮士
-http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/71c649af833c43a9b61e4f5c913bbd6b/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",战上海
-http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/e84b188d1bf7484fb4907d99827cbd45/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",铁道游击队
-http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/46d8664dacad4dbb9c790256688048dc/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",红孩子
-http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/bf55b84744d64eeaaedc5ea603855597/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",宝葫芦的秘密
-http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/866474add7224067877bed430d9380ab/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",董存瑞
-http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b657281ba44a4b279f55ec860c12543b/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",地下尖兵
-http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/188d5706e5774f06850e06e4f181c4bd/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",三毛从军记
-http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/919a08437d44499b87b7b4903f2b2ae6/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",小兵张嘎
-http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d8c05f3ca36d48e6b1997b523e885c5c/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",闪闪的红星
-http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b90fcf1a5425479baf3a045282a1f263/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",祖国的花朵
-http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ef10a9a9b1534fe38fd4fdfdac1ed493/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",花儿朵朵
-http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/53a44d8649024b58b69f4468b922b8f0/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",上甘岭
-http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c91f7aae9b8b4c578a7d9ecdf94b9dca/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",平原游击队
-http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/180ef18dec9a4edeb9d2b520d57cfc7f/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",神秘的旅伴
-http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ef95b9f13e2c47b882b67ef52139786a/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",前哨
-http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/1e9c4ffe4002492484c0f50235299759/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",刘三姐
-http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/680e102dc8614632862cf49a236def6e/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",赛虎
-http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/34505162ca0848af9e23d33ed4018088/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",犬王
-http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/08d97be6d296434098297a505e2f05b5/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",特别攻击队
-http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c69eed95a2cd4752850bcac109151e37/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",举起手来-追击阿多丸
-http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/a1093561ad0a4071b68eeae884de01e7/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",孙悟空三打白骨精
-http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/1e34b7a2f93d4efeaf7a583409b270cc/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",巴黎圣母院
-http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/dd86918aafb042c5b51584ffcf5b0e00/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",罗密欧与朱丽叶
-http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/95193e30bd454e77bc59a140f4e32ad2/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",魂断蓝桥
-http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7fc704c5b2e04e65bab92b3986883ab3/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",茜茜公主
-http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ffa8a73877194632b0278898f297d07b/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",出水芙蓉
-http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/28f9967b04984830b3a1f6fb27561000/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",桂河大桥
-http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b125a3edccb34637b336cb867e8a5d5d/850.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",JAY歌曲轮播
-http://maomao.kandiantv.cn/douyu1.php?id=7537296
-#EXTINF:-1 group-title="🐉纪录片频道",Soda东南亚之旅
-https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.mp4
-#EXTINF:-1 group-title="🐉纪录片频道",意大利V2
-http://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",法国时尚
-http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",法国时尚
-http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",动物世界
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/71d7dce230b74c1b9e35b41e837ffc5f/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",小动物大猎手(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c46a26d74f5b4da98f5c9d69f8218de0/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",小动物大猎手(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ef8ad1d36d9c4515a9e04443687a7f33/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",小动物大英雄
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/27818c0197e94415946b825b2b163e22/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",小动物的森林童话
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/321727074edc4cf69b5b205111569205/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",小勇士闯天下
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8737418de24a461f9785193bcbda0026/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",小熊的故事1
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d3c750e3481a4ca696898875f6e6dbf1/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",小熊的故事2
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3499a172820f47da988e5aaeb187ec29/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",小熊的故事3
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3564b5460bea444b8712fb1cb0a59c00/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",小熊的梦幻森林1
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b0f2b241c39c42beb732a5e73b5a9782/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",小熊的梦幻森林2
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b2e817cee1a7417ba34f062aa919ca02/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",小熊的梦幻森林3
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8bbcff92f2ce423bb2d822e0fb67657f/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",小角马历险记
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b7594a5bc3d241e3a8b95eac39ebd7e9/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",小象和绵羊朋友(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c69ca1ce229648ce86e97c0b86e67c58/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",小象和绵羊朋友(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/138e7ea321c94a86b4f939ccb00a75a9/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",小鼠奇遇记
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9417f7c1d9f2484c901d886245892130/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",巨兽来了
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1224d3b3e1ba410d8dc316f2f2ab1872/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",巨藻林的守卫者
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/432e7e692dc841bfaefb5e662de89bdc/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",彩蛇之舞
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/002334474c7c4b8b98bad237a7bdeb7b/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",情满大草原1
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/222ec6157bf34d8c9abd0e62ddae6ee1/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",情满大草原2
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8200031edc9f434583d9b3f738ac4448/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",情满大草原3
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0ab9b80f79884e22b6390b2deefdc571/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",打造一只超级猫
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ba966901198844d09399a354e203e6cb/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",抢滩勇士(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0d4351715b27425d87a926b964b6cdaf/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",捕猎刹那间1
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6b222a92e2b9484f86121a558915ddb5/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",捕猎刹那间2
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/eb2cf087eae64ff9a40258bbbc1a92ba/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",捕猎刹那间3
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/799ea1ddb3db403484fe2421d4831287/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",捕食一瞬间(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/426cfdd1924a452b863c0cd52af6436b/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",捕食一瞬间(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b66704d4d4aa4ea7bab6e6ef673568b3/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",捕食奇谋(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/543fa61893394cc48d2802207c8a51e8/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",捕食奇谋(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/05ba8dcc7a224442a58f6d6f86885d25/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",捕食者大观
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d19e46abe2754e2985715a147e653626/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",捕食者身体构造
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/83901acd0fed408f904a9b554c8e16ef/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",捕食者追猎现场(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/853b68324c2e4718ad08298aaed459b7/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",捕食者追猎现场(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6016b09920a7447eb798f3f891f52bad/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",探秘冰上的北极熊(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6a74d01391d849849c7391b2466f3752/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",探秘冰上的北极熊(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/509e924ad47e422984af226b26236bf6/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",探秘雨林利爪族(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/dc83b3fe7f874e33959bdbf034e6451c/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",探秘雨林利爪族(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5a8fd3e4e8ba4ca5b62f1b90ae9c3640/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",新狮王诞生记
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5e156f1734234e17ab0f6f87f2e7491b/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",旱季冒险故事
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ac505ca5d2d5469eb21448c300a8c16c/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",旱季极限生存战
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1b750e952abb452c9f77d44f8d8bae17/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",旱季生存攻略
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3f34548881664dd6afb01ccdcb677a5d/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",有一只美丽的大水獭
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f1ddaab95ca9475da4cd97907cef8e96/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",来到这个美丽的世界(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/003d910853de498299eb47d7d8a2eedf/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",来到这个美丽的世界(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9323ea96cf6a47afaf798fca6d9411e6/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",林间潜伏
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/922b142fef9443218be5eaf44df0b397/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",棋逢对手
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3d515f3011c64797ae15bf36c639cb49/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",棕熊把守的水上要塞(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/50590d053a2245428391323902e07d0e/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",棕熊把守的水上要塞(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bb2341e42865439eaed4502fcc736ea5/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",棕熊捕鱼季(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1ef91cb6079d46ccb9a62f046739d5c8/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",棕熊的捕鱼生活(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/388d46918ea34570a3fed5f5ceb393ee/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",棕熊的捕鱼生活(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/09def25492254217aba438e7403741e2/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",森林是我家1
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c105c056c3f744baa49ce0b8b39c1f3b/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",森林是我家2
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/63bb582977074c57a127eaca9d954154/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",森林是我家3
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/14b683f0668f404a9bb8ea74d14c5c8e/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",植物王国漫游记
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/508b9a0c8be74d89a431b24114c91faa/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",植物王国漫游记
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fa3ad43978014ff4b64b4bff8914116c/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",母爱之路
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/115d481467e04333be047fcebf482b3e/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",母爱的呵护
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a6ec4d0475e1453e8ede023e346c2350/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",水牛与狮子的争战
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d1e0dc98b1374b43b157bf82eebc6d09/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",水牛向前冲(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2f05eb49b3a049c88a848a1104dc856f/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",水牛向前冲(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bda4b441c07e40cb8a418381d0506c80/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",水獭奇缘
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/da2d147b25404552b118111dd52d7a25/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",水豚爱湿地
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c7488fc3bed341ad827c054d3ec7e62d/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",沙滩上的盛宴
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/31e38a0232734780842a9031072c2073/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",河里的捕食大师(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bf70f8033ec049f5be4698c3497d3868/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",河里的捕食大师(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/040c050908a340238dacd1ac86694543/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",河龙王出海
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f352ba97a41146279f5d250cc8c670bb/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",海底生存战
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/20225ac33ef7408e8c7040cb39d6a595/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",海洋宫殿的守护者
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/86c73156b8ad405180ed252940b2155c/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",海洋猎手
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f98ebc30517647839c09fb17e0dbea04/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",海洋里的神奇家族(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ef8e561920694e4a81cd1933314610cb/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",海洋里的神奇家族(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5775e1919dca48169eb22986804455b3/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",海洋里的神奇家族(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a68ae907dc7e4783af8d9547a1926435/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",海的呼唤
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ee6a46541b624388a01ba2fc14c34079/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",海豚的奇妙生活(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/30385b1caa214c9a8c6c53ef69ce7e18/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",海豚的奇妙生活(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b61b0646586142aca08c2e8d333c385b/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",海鬣蜥的幸福生活
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a66f6344f9cc4ed3b42b06e678124d0f/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",海鬣蜥的故事
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d19635c3f57f4e538e078569ac796fd6/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",深海潜伏的猎手
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f1a00ae54f3b428bac1ed388ced1ce70/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",湿地之争豹与鳄鱼
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1fe1e5df7c9d4b38a0a855e092a7b6c1/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",湿地小萌兽
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/00892961ec6546ae8c78e96d1dd0874a/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",湿地有萌兽
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e3c31d84ec7e4035a8501db9df1d140b/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",潜水大师的岛上生活(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/cd88344f084b47c593388fdf6a8c443f/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",潜水大师的岛上生活(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/76332b54d8074b0fada76d081570d621/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",熊在旅途(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b0b95c35bce84072b10ad0b82cf83951/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",熊在旅途(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9dc810bc8a3b426f88ac8c998f9e5332/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",熊的王国
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ade1b31d23694fba82c9c4f07dba3267/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",爱与狗相伴
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/530a12d274184293802f51c38603f75a/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",爱你我的宝宝(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/08f97ee21d884d0486c37ae6fb7c5683/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",爱你我的宝宝(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f16dbba3ddf84af2a0ff1521448ee4da/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",爱吃鱼的棕熊
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/79c7bb4495f74ca698f3111a6f7ba567/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",爱的奉献1
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5b062ba2cd854ba993166d277af8a40d/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",爱的奉献2
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/80cf935aef484e15aa31b8fbd565be39/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",爱的奉献3
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/aee1f28cf3e94a5fa7468206d4f417ed/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",狮口余生的小角马(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/7cfc0fe7981b4022b69c3e1cb7317b77/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",狮子和鬣狗(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6ca061c3b9184e7aa46cef1ead911099/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",狮子和鬣狗(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e5ea8f4b0cbd4d7aa779b9dfed5a9448/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",狮子捕猎计划
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6f2b58a05add4e2a9907ba370473332a/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",狮子的荣耀回归之路1
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bec9f485672345339c49bc345edf9fd5/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",狮子的荣耀回归之路2
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bdb438a81a20403db85b6e9d12707f2d/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",狮子的荣耀回归之路3
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/50ef8c8037da4735a9cb9288f45878b0/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",狮子的荣耀回归之路4
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2fea6699d56f4274b5ab5260b016fda2/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",狮族迷踪1
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/801151749824437aaa0afa87bfcf7abf/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",狮族迷踪2
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b4ff6041c00246af815b679a7ee6c4a6/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",狮族迷踪3
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5e01c3ff2a5844ab80643ce67ba29026/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",狮群的家园生活
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/cad939a2eb714f4b9d37c4185674d50b/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",狮群的荣耀
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/84b850056589475f80528cf28b9b840a/1200.m3u8
-#EXTINF:-1 group-title="戏曲频道",曲剧《桑林收子》
-http://gcw.bdcdn.shoujiduoduo.com/v/190617/2282c7e70fc99fe1e7e065e32b1ab2b9.mp4
-#EXTINF:-1 group-title="戏曲频道",曲剧《四郎探母》
-http://gcw.bdcdn.shoujiduoduo.com/v/191208/1aef74e8889ab9199f60927ac66b0885.mp4
-#EXTINF:-1 group-title="戏曲频道",曲剧《四郎探母》
-http://gcw.bdcdn.shoujiduoduo.com/v/190218/c981286b5772c5c5351b202973680264.mp4
-#EXTINF:-1 group-title="戏曲频道",曲剧《背靴访帅》
-http://gcw.bdcdn.shoujiduoduo.com/v/200831/2d7d5874b132f83b8f6d7c2e24ee3cdf.mp4
-#EXTINF:-1 group-title="戏曲频道",曲剧《李豁子做梦》
-http://gcw.bdcdn.shoujiduoduo.com/v/191208/d1a3c9f90719f7eebdafd964b7bcb8f8.mp4
-#EXTINF:-1 group-title="戏曲频道",曲剧《刘公案》
-http://gcw.bdcdn.shoujiduoduo.com/v/190429/2ef6445a1215cf06049cac61d72f201e.mp4
-#EXTINF:-1 group-title="戏曲频道",曲剧《风雪配》
-http://gcw.bdcdn.shoujiduoduo.com/v/190702/3e371e8c94d2e1070319298ce2f9c2b7.mp4
-#EXTINF:-1 group-title="戏曲频道",曲剧《十八哭》
-http://gcw.bdcdn.shoujiduoduo.com/v/190304/7dc7811188639217fb8299804021325f.mp4
-#EXTINF:-1 group-title="戏曲频道",曲剧《王华买爹》
-http://gcw.bdcdn.shoujiduoduo.com/v/190902/19ce2ae8133857ae7ffc2dbe0c674a3b.mp4
+#EXTM3U
+#EXTINF:-1 group-title="央视卫视",CCTV-1
+http://tttt.findvps.top/api.php?id=8718&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",CCTV-2
+http://tttt.findvps.top/api.php?id=8953&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",CCTV-3
+http://tttt.findvps.top/api.php?id=3494&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",CCTV-4
+http://tttt.findvps.top/api.php?id=5512&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",CCTV-5
+http://tttt.findvps.top/api.php?id=4698&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",CCTV-5+
+http://tttt.findvps.top/api.php?id=3318&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",CCTV-6
+http://tttt.findvps.top/api.php?id=3595&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",CCTV-7
+http://tttt.findvps.top/api.php?id=1771&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",CCTV-8
+http://tttt.findvps.top/api.php?id=7616&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",CCTV-9
+http://tttt.findvps.top/api.php?id=0527&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",CCTV-10
+http://tttt.findvps.top/api.php?id=7951&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",CCTV-11
+http://tttt.findvps.top/api.php?id=8754&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",CCTV-12
+http://tttt.findvps.top/api.php?id=8313&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",CCTV-13
+http://tttt.findvps.top/api.php?id=2961&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",CCTV-14
+http://tttt.findvps.top/api.php?id=4578&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",CCTV-15
+http://tttt.findvps.top/api.php?id=1942&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",CCTV-17
+http://tttt.findvps.top/api.php?id=9628&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",CCTV发现之旅
+http://tttt.findvps.top/api.php?id=7564&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",CCTV老故事
+http://tttt.findvps.top/api.php?id=5509&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",CCTV中学生
+http://tttt.findvps.top/api.php?id=8977&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",CGTN
+http://tttt.findvps.top/api.php?id=4553&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",CGTN纪录
+http://tttt.findvps.top/api.php?id=2145&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",CCTV西班牙语
+http://tttt.findvps.top/api.php?id=1768&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",CCTV法语
+http://tttt.findvps.top/api.php?id=5949&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",CCTV阿拉伯语
+http://tttt.findvps.top/api.php?id=4760&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",CCTV俄语
+http://tttt.findvps.top/api.php?id=9482&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",东方卫视
+http://tttt.findvps.top/api.php?id=5606&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",湖南卫视
+http://tttt.findvps.top/api.php?id=6888&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",湖南卫视
+http://tttt.findvps.top/api.php?id=0893&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",吉林卫视
+http://tttt.findvps.top/api.php?id=4155&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",青海卫视
+http://tttt.findvps.top/api.php?id=7596&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",湖北卫视
+http://tttt.findvps.top/api.php?id=6230&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",江西卫视
+http://tttt.findvps.top/api.php?id=6691&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",江苏卫视
+http://tttt.findvps.top/api.php?id=8971&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",广东卫视
+http://tttt.findvps.top/api.php?id=8035&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",大湾区卫视
+http://tttt.findvps.top/api.php?id=8622&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",CHC动作电影
+http://tttt.findvps.top/api.php?id=9685&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",CHC家庭影院
+http://tttt.findvps.top/api.php?id=1862&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",东方影视
+http://tttt.findvps.top/api.php?id=0863&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",上海新闻综合
+http://tttt.findvps.top/api.php?id=9433&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",上海第一财经
+http://tttt.findvps.top/api.php?id=1853&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",上视纪实人文
+http://tttt.findvps.top/api.php?id=7034&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",上海外语
+http://tttt.findvps.top/api.php?id=5929&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",法治天地
+http://tttt.findvps.top/api.php?id=5689&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",劲爆体育
+http://tttt.findvps.top/api.php?id=7820&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",魅力足球
+http://tttt.findvps.top/api.php?id=5110&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",乐游
+http://tttt.findvps.top/api.php?id=0696&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",欢笑剧场
+http://tttt.findvps.top/api.php?id=7269&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",七彩戏剧
+http://tttt.findvps.top/api.php?id=3821&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",游戏风云
+http://tttt.findvps.top/api.php?id=1813&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",临洮电视台
+http://tttt.findvps.top/api.php?id=3674&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",江苏城市
+http://tttt.findvps.top/api.php?id=1679&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",江苏综艺
+http://tttt.findvps.top/api.php?id=4824&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",江苏影视
+http://tttt.findvps.top/api.php?id=9083&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",江苏公共新闻
+http://tttt.findvps.top/api.php?id=8551&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",江苏国际
+http://tttt.findvps.top/api.php?id=8124&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",江苏教育
+http://tttt.findvps.top/api.php?id=5015&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",江苏体育休闲
+http://tttt.findvps.top/api.php?id=3378&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",优漫卡通
+http://tttt.findvps.top/api.php?id=1592&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",南京新闻综合
+http://tttt.findvps.top/api.php?id=2449&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",南京教科
+http://tttt.findvps.top/api.php?id=3783&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",南京十八
+http://tttt.findvps.top/api.php?id=9664&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",淮安新闻综合
+http://tttt.findvps.top/api.php?id=6146&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",连云港新闻综合
+http://tttt.findvps.top/api.php?id=2405&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",苏州新闻综合
+http://tttt.findvps.top/api.php?id=9375&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",泰州新闻综合
+http://tttt.findvps.top/api.php?id=8221&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",宿迁新闻综合
+http://tttt.findvps.top/api.php?id=9996&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",徐州新闻综合
+http://tttt.findvps.top/api.php?id=4900&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",广东影视
+http://tttt.findvps.top/api.php?id=6539&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",嘉佳卡通
+http://tttt.findvps.top/api.php?id=2727&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",24小时亚洲杯频道
+http://tttt.findvps.top/api.php?id=6556&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",CBA经典
+http://tttt.findvps.top/api.php?id=5786&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",掼蛋精英赛
+http://tttt.findvps.top/api.php?id=4562&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",高清大片
+http://tttt.findvps.top/api.php?id=5568&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",和平精英赛事
+http://tttt.findvps.top/api.php?id=7445&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",红色轮播台
+http://tttt.findvps.top/api.php?id=5517&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",经典动画大集合
+http://tttt.findvps.top/api.php?id=3786&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",经典深圳旁边电影
+http://tttt.findvps.top/api.php?id=9037&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",军事迷必看大片
+http://tttt.findvps.top/api.php?id=0074&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",历届春晚回顾
+http://tttt.findvps.top/api.php?id=3408&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",咪咕24小时体育台
+http://tttt.findvps.top/api.php?id=6569&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",玫瑰轮播台
+http://tttt.findvps.top/api.php?id=8769&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",NBA经典
+http://tttt.findvps.top/api.php?id=9392&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",欧洲足球风云
+http://tttt.findvps.top/api.php?id=8081&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",全民乒乓
+http://tttt.findvps.top/api.php?id=6294&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",热剧联播
+http://tttt.findvps.top/api.php?id=8258&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",赛事最经典
+http://tttt.findvps.top/api.php?id=6882&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",体坛名栏汇
+http://tttt.findvps.top/api.php?id=1179&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",UFC格斗精选
+http://tttt.findvps.top/api.php?id=2168&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",五大联赛经典
+http://tttt.findvps.top/api.php?id=6976&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",乡村振兴
+http://tttt.findvps.top/api.php?id=5305&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",幸福中国年
+http://tttt.findvps.top/api.php?id=4826&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",新片放映厅
+http://tttt.findvps.top/api.php?id=8345&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",英雄联盟赛事
+http://tttt.findvps.top/api.php?id=5008&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",周杰伦现场
+http://tttt.findvps.top/api.php?id=0052&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",最强综艺趴
+http://tttt.findvps.top/api.php?id=9522&tk=fb189137591df85b
+#EXTINF:-1 group-title="央视卫视",凤凰资讯
+http://tttt.findvps.top/api.php?id=8084&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",凤凰资讯
+http://tttt.findvps.top/api.php?id=0596&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",动漫秀场
+http://tttt.findvps.top/api.php?id=7734&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",哈尔滨新闻综合
+http://tttt.findvps.top/api.php?id=4537&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",嘉佳卡通
+http://tttt.findvps.top/api.php?id=1773&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",嘉佳卡通
+http://tttt.findvps.top/api.php?id=7620&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",四海钓鱼
+http://tttt.findvps.top/api.php?id=6563&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",国学频道
+http://tttt.findvps.top/api.php?id=3986&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",天元围棋
+http://tttt.findvps.top/api.php?id=9065&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",家庭剧场
+http://tttt.findvps.top/api.php?id=3860&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",家庭理财
+http://tttt.findvps.top/api.php?id=5897&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",广东体育
+http://tttt.findvps.top/api.php?id=7152&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",广东影视
+http://tttt.findvps.top/api.php?id=0261&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",广东新闻
+http://tttt.findvps.top/api.php?id=4830&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",广东珠江
+http://tttt.findvps.top/api.php?id=9283&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",广东珠江
+http://tttt.findvps.top/api.php?id=7234&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",快乐垂的
+http://tttt.findvps.top/api.php?id=7622&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",怡伴健康
+http://tttt.findvps.top/api.php?id=6635&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",文物宝库
+http://tttt.findvps.top/api.php?id=3333&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",新动漫
+http://tttt.findvps.top/api.php?id=4526&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",新闻综合
+http://tttt.findvps.top/api.php?id=4739&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",新闻综合1
+http://tttt.findvps.top/api.php?id=1756&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",新闻综合2
+http://tttt.findvps.top/api.php?id=0116&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",新闻综合3
+http://tttt.findvps.top/api.php?id=7190&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",普宁台
+http://tttt.findvps.top/api.php?id=0297&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",欢笑剧场4K
+http://tttt.findvps.top/api.php?id=2863&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",汕头一台
+http://tttt.findvps.top/api.php?id=0285&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",汕头三台
+http://tttt.findvps.top/api.php?id=3332&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",汕头二台
+http://tttt.findvps.top/api.php?id=2128&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",法制天地
+http://tttt.findvps.top/api.php?id=5088&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",深圳都市
+http://tttt.findvps.top/api.php?id=2265&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",炫动卡通
+http://tttt.findvps.top/api.php?id=2536&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",爱情喜剧
+http://tttt.findvps.top/api.php?id=3294&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",环球旅游
+http://tttt.findvps.top/api.php?id=1021&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",生活时尚
+http://tttt.findvps.top/api.php?id=5386&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",精品动作电影
+http://tttt.findvps.top/api.php?id=1970&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",精品大剧
+http://tttt.findvps.top/api.php?id=0599&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",精品纪录
+http://tttt.findvps.top/api.php?id=3961&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",精品超级电影
+http://tttt.findvps.top/api.php?id=1394&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",经济法制
+http://tttt.findvps.top/api.php?id=3012&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",老故事
+http://tttt.findvps.top/api.php?id=7795&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",茶频道
+http://tttt.findvps.top/api.php?id=0276&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",萧山综合
+http://tttt.findvps.top/api.php?id=7737&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",衢州开化国家公园HD
+http://tttt.findvps.top/api.php?id=4844&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",衢州开化综合HD
+http://tttt.findvps.top/api.php?id=3044&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",衢州衢江综合FHD
+http://tttt.findvps.top/api.php?id=1539&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",衢江新闻综合
+http://tttt.findvps.top/api.php?id=6896&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",诸暨新闻综合
+http://tttt.findvps.top/api.php?id=7507&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",象山新闻综合
+http://tttt.findvps.top/api.php?id=5711&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",财富天下
+http://tttt.findvps.top/api.php?id=9592&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",金华兰溪综合
+http://tttt.findvps.top/api.php?id=8159&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",金牌综艺
+http://tttt.findvps.top/api.php?id=3077&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",金色学堂
+http://tttt.findvps.top/api.php?id=8101&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",金鹰卡通
+http://tttt.findvps.top/api.php?id=2792&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",金鹰卡通
+http://tttt.findvps.top/api.php?id=2694&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",金鹰卡通
+http://tttt.findvps.top/api.php?id=0035&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",风云足球
+http://tttt.findvps.top/api.php?id=5674&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",风云音乐
+http://tttt.findvps.top/api.php?id=3445&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",黑龙江公共农业
+http://tttt.findvps.top/api.php?id=6264&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",黑龙江少儿
+http://tttt.findvps.top/api.php?id=4702&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",黑龙江影视
+http://tttt.findvps.top/api.php?id=4215&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",黑龙江文体
+http://tttt.findvps.top/api.php?id=7695&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",黑龙江新闻
+http://tttt.findvps.top/api.php?id=4658&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",黑龙江都市
+http://tttt.findvps.top/api.php?id=7658&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",齐齐哈尔新闻综合
+http://tttt.findvps.top/api.php?id=6874&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",齐齐哈尔经济法治
+http://tttt.findvps.top/api.php?id=3303&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",龙泉新闻综
+http://tttt.findvps.top/api.php?id=9488&tk=fb189137591df85b43
+#EXTINF:-1 group-title="央视卫视",龙游生活娱乐
+http://tttt.findvps.top/api.php?id=5318&tk=fb189137591df85b43
