@@ -137,453 +137,2473 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/中国教育4台.png" group-title="线路①",中国教育4台
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="线路②",CCTV1
-http://148.135.93.213:81/live.php?id=CCTV1
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="线路②",CCTV2
-http://148.135.93.213:81/live.php?id=CCTV2
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="线路②",CCTV3
-http://148.135.93.213:81/live.php?id=CCTV3
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="线路②",CCTV4
-http://148.135.93.213:81/live.php?id=CCTV4
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="线路②",CCTV5
-http://148.135.93.213:81/live.php?id=CCTV5
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="线路②",CCTV5+
-http://148.135.93.213:81/live.php?id=CCTV5p
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="线路②",CCTV6
-http://148.135.93.213:81/live.php?id=CCTV6
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="线路②",CCTV7
-http://148.135.93.213:81/live.php?id=CCTV7
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="线路②",CCTV8
-http://148.135.93.213:81/live.php?id=CCTV8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="线路②",CCTV9
-http://148.135.93.213:81/live.php?id=CCTV9
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="线路②",CCTV10
-http://148.135.93.213:81/live.php?id=CCTV10
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="线路②",CCTV11
-http://148.135.93.213:81/live.php?id=CCTV11
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="线路②",CCTV12
-http://148.135.93.213:81/live.php?id=CCTV12
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="线路②",CCTV13
-http://148.135.93.213:81/live.php?id=CCTV13
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="线路②",CCTV14
-http://148.135.93.213:81/live.php?id=CCTV14
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="线路②",CCTV15
-http://148.135.93.213:81/live.php?id=CCTV15
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="线路②",CCTV16
-http://148.135.93.213:81/live.php?id=CCTV16
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="线路②",CCTV17
-http://148.135.93.213:81/live.php?id=CCTV17
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="线路②",凤凰资讯
-http://148.135.93.213:81/phenix.php?id=fhzx
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="线路②",凤凰中文
-http://148.135.93.213:81/phenix.php?id=fhzw
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="线路②",凤凰香港
-http://148.135.93.213:81/phenix.php?id=fhhk
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="线路②",湖南卫视
-http://148.135.93.213:81/live.php?id=湖南卫视
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="线路②",浙江卫视
-http://148.135.93.213:81/live.php?id=浙江卫视
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="线路②",江苏卫视
-http://148.135.93.213:81/live.php?id=江苏卫视
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="线路②",陕西卫视
-http://148.135.93.213:81/live.php?id=陕西卫视
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="线路②",湖北卫视
-http://148.135.93.213:81/live.php?id=湖北卫视
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="线路②",江西卫视
-http://148.135.93.213:81/live.php?id=江西卫视
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="线路②",广东卫视
-http://148.135.93.213:81/live.php?id=广东卫视
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="线路②",东南卫视
-http://148.135.93.213:81/live.php?id=东南卫视
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="线路②",北京卫视
-http://148.135.93.213:81/live.php?id=北京卫视
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="线路②",吉林卫视
-http://148.135.93.213:81/live.php?id=吉林卫视
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="线路②",四川卫视
-http://148.135.93.213:81/live.php?id=四川卫视
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="线路②",天津卫视
-http://148.135.93.213:81/live.php?id=天津卫视
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="线路②",安徽卫视
-http://148.135.93.213:81/live.php?id=安徽卫视
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="线路②",山东卫视
-http://148.135.93.213:81/live.php?id=山东卫视
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="线路②",山西卫视
-http://148.135.93.213:81/live.php?id=山西卫视
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="线路②",广西卫视
-http://148.135.93.213:81/live.php?id=广西卫视
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="线路②",河北卫视
-http://148.135.93.213:81/live.php?id=河北卫视
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="线路②",河南卫视
-http://148.135.93.213:81/live.php?id=河南卫视
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="线路②",深圳卫视
-http://148.135.93.213:81/live.php?id=深圳卫视
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="线路②",甘肃卫视
-http://148.135.93.213:81/live.php?id=甘肃卫视
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="线路②",贵州卫视
-http://148.135.93.213:81/live.php?id=贵州卫视
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="线路②",辽宁卫视
-http://148.135.93.213:81/live.php?id=辽宁卫视
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="线路②",重庆卫视
-http://148.135.93.213:81/live.php?id=重庆卫视
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="线路②",黑龙江卫视
-http://148.135.93.213:81/live.php?id=黑龙江卫视
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="线路②",海南卫视
-http://148.135.93.213:81/live.php?id=海南卫视
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="线路②",大湾区卫视
-http://148.135.93.213:81/live.php?id=大湾区卫视
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="线路②",西藏卫视
-http://148.135.93.213:81/live.php?id=西藏卫视
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="线路②",五星体育
-http://148.135.93.213:81/live.php?id=五星体育
-#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="线路②",重温经典
-http://148.135.93.213:81/live.php?id=重温经典
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/C
-
-
-#EXTINF:-1 group-title="数字高清",CHC影迷电影
-http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
-#EXTINF:-1 group-title="数字高清",CHC家庭影院
-http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
-#EXTINF:-1 group-title="数字高清",CHC动作电影
-http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
-#EXTINF:-1 group-title="数字高清",CHC动作电影
-http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
-#EXTINF:-1 group-title="数字高清",CHC家庭影院
-http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
-#EXTINF:-1 group-title="数字高清",CHC影迷电影
-http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
-#EXTINF:-1 group-title="国内体育",JJ斗地主
-http://openhls-tct.douyucdn2.cn:80/dyliveflv1a/488743rAHScWyyII_2000.m3u8
-#EXTINF:-1 group-title="国内体育",JJ斗地主
-http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-#EXTINF:-1 group-title="国内体育",王者荣耀
 #EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE local
+
 #EXTINF:-1 group-title="央视卫视",CCTV-1
-http://tttt.findvps.top/api.php?id=8718&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=53091&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",CCTV-2
-http://tttt.findvps.top/api.php?id=8953&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=38776&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",CCTV-3
-http://tttt.findvps.top/api.php?id=3494&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=37223&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",CCTV-4
-http://tttt.findvps.top/api.php?id=5512&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=64306&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",CCTV-5
-http://tttt.findvps.top/api.php?id=4698&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=82003&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",CCTV-5+
-http://tttt.findvps.top/api.php?id=3318&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=83857&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",CCTV-6
-http://tttt.findvps.top/api.php?id=3595&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=60484&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",CCTV-7
-http://tttt.findvps.top/api.php?id=1771&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=31508&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",CCTV-8
-http://tttt.findvps.top/api.php?id=7616&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=99169&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",CCTV-9
-http://tttt.findvps.top/api.php?id=0527&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=98519&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",CCTV-10
-http://tttt.findvps.top/api.php?id=7951&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=76949&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",CCTV-11
-http://tttt.findvps.top/api.php?id=8754&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=87717&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",CCTV-12
-http://tttt.findvps.top/api.php?id=8313&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=81430&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",CCTV-13
-http://tttt.findvps.top/api.php?id=2961&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=24967&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",CCTV-14
-http://tttt.findvps.top/api.php?id=4578&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=63175&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",CCTV-15
-http://tttt.findvps.top/api.php?id=1942&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=43741&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",CCTV-17
-http://tttt.findvps.top/api.php?id=9628&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=36456&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",CCTV发现之旅
-http://tttt.findvps.top/api.php?id=7564&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=18020&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",CCTV老故事
-http://tttt.findvps.top/api.php?id=5509&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=14489&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",CCTV中学生
-http://tttt.findvps.top/api.php?id=8977&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=77484&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",CGTN
-http://tttt.findvps.top/api.php?id=4553&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=97307&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",CGTN纪录
-http://tttt.findvps.top/api.php?id=2145&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=77394&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",CCTV西班牙语
-http://tttt.findvps.top/api.php?id=1768&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=57237&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",CCTV法语
-http://tttt.findvps.top/api.php?id=5949&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=68765&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",CCTV阿拉伯语
-http://tttt.findvps.top/api.php?id=4760&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=18107&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",CCTV俄语
-http://tttt.findvps.top/api.php?id=9482&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=38688&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",东方卫视
-http://tttt.findvps.top/api.php?id=5606&tk=fb189137591df85b43
-#EXTINF:-1 group-title="央视卫视",湖南卫视
-http://tttt.findvps.top/api.php?id=6888&tk=fb189137591df85b43
-#EXTINF:-1 group-title="央视卫视",湖南卫视
-http://tttt.findvps.top/api.php?id=0893&tk=fb189137591df85b43
-#EXTINF:-1 group-title="央视卫视",吉林卫视
-http://tttt.findvps.top/api.php?id=4155&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=73830&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",青海卫视
-http://tttt.findvps.top/api.php?id=7596&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=53602&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="央视卫视",河南卫视
+http://27.25.159.105:18000/url/api.php?id=41556&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",湖北卫视
-http://tttt.findvps.top/api.php?id=6230&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=99816&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="央视卫视",湖南卫视
+http://27.25.159.105:18000/url/api.php?id=50247&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="央视卫视",湖南卫视
+http://27.25.159.105:18000/url/api.php?id=67522&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",江西卫视
-http://tttt.findvps.top/api.php?id=6691&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=84089&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",江苏卫视
-http://tttt.findvps.top/api.php?id=8971&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=41479&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",广东卫视
-http://tttt.findvps.top/api.php?id=8035&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=16208&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",大湾区卫视
-http://tttt.findvps.top/api.php?id=8622&tk=fb189137591df85b43
-#EXTINF:-1 group-title="央视卫视",CHC动作电影
-http://tttt.findvps.top/api.php?id=9685&tk=fb189137591df85b43
-#EXTINF:-1 group-title="央视卫视",CHC家庭影院
-http://tttt.findvps.top/api.php?id=1862&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=24373&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="央视卫视",海南卫视
+http://27.25.159.105:18000/url/api.php?id=43365&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",东方影视
-http://tttt.findvps.top/api.php?id=0863&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=55521&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",上海新闻综合
-http://tttt.findvps.top/api.php?id=9433&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=20213&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",上海第一财经
-http://tttt.findvps.top/api.php?id=1853&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=26219&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",上视纪实人文
-http://tttt.findvps.top/api.php?id=7034&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=16724&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",上海外语
-http://tttt.findvps.top/api.php?id=5929&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=20452&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",法治天地
-http://tttt.findvps.top/api.php?id=5689&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=99391&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",劲爆体育
-http://tttt.findvps.top/api.php?id=7820&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=71831&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",魅力足球
-http://tttt.findvps.top/api.php?id=5110&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=36285&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",乐游
-http://tttt.findvps.top/api.php?id=0696&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=41018&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",欢笑剧场
-http://tttt.findvps.top/api.php?id=7269&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=28739&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",七彩戏剧
-http://tttt.findvps.top/api.php?id=3821&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=18796&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",游戏风云
-http://tttt.findvps.top/api.php?id=1813&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=63375&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",临洮电视台
-http://tttt.findvps.top/api.php?id=3674&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=30241&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",江苏城市
-http://tttt.findvps.top/api.php?id=1679&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=69137&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",江苏综艺
-http://tttt.findvps.top/api.php?id=4824&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=59181&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",江苏影视
-http://tttt.findvps.top/api.php?id=9083&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=69755&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",江苏公共新闻
-http://tttt.findvps.top/api.php?id=8551&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=23528&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",江苏国际
-http://tttt.findvps.top/api.php?id=8124&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=36792&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",江苏教育
-http://tttt.findvps.top/api.php?id=5015&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=37309&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",江苏体育休闲
-http://tttt.findvps.top/api.php?id=3378&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=97197&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",优漫卡通
-http://tttt.findvps.top/api.php?id=1592&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=52716&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",南京新闻综合
-http://tttt.findvps.top/api.php?id=2449&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=13726&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",南京教科
-http://tttt.findvps.top/api.php?id=3783&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=96847&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",南京十八
-http://tttt.findvps.top/api.php?id=9664&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=81296&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",淮安新闻综合
-http://tttt.findvps.top/api.php?id=6146&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=57609&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",连云港新闻综合
-http://tttt.findvps.top/api.php?id=2405&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=72482&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",苏州新闻综合
-http://tttt.findvps.top/api.php?id=9375&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=48606&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",泰州新闻综合
-http://tttt.findvps.top/api.php?id=8221&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=86711&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",宿迁新闻综合
-http://tttt.findvps.top/api.php?id=9996&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=90595&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",徐州新闻综合
-http://tttt.findvps.top/api.php?id=4900&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=86774&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",广东影视
-http://tttt.findvps.top/api.php?id=6539&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=60638&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",嘉佳卡通
-http://tttt.findvps.top/api.php?id=2727&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=55407&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",24小时亚洲杯频道
-http://tttt.findvps.top/api.php?id=6556&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=77531&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",CBA经典
-http://tttt.findvps.top/api.php?id=5786&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=29397&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",掼蛋精英赛
-http://tttt.findvps.top/api.php?id=4562&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=96312&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",高清大片
-http://tttt.findvps.top/api.php?id=5568&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=24365&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",和平精英赛事
-http://tttt.findvps.top/api.php?id=7445&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=20155&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",红色轮播台
-http://tttt.findvps.top/api.php?id=5517&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=62193&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",经典动画大集合
-http://tttt.findvps.top/api.php?id=3786&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=22882&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",经典深圳旁边电影
-http://tttt.findvps.top/api.php?id=9037&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=20006&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",军事迷必看大片
-http://tttt.findvps.top/api.php?id=0074&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=97632&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",历届春晚回顾
-http://tttt.findvps.top/api.php?id=3408&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=84048&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",咪咕24小时体育台
-http://tttt.findvps.top/api.php?id=6569&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=15476&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",玫瑰轮播台
-http://tttt.findvps.top/api.php?id=8769&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=12700&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",NBA经典
-http://tttt.findvps.top/api.php?id=9392&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=14290&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",欧洲足球风云
-http://tttt.findvps.top/api.php?id=8081&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=90500&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",全民乒乓
-http://tttt.findvps.top/api.php?id=6294&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=37815&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",热剧联播
-http://tttt.findvps.top/api.php?id=8258&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=36364&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",赛事最经典
-http://tttt.findvps.top/api.php?id=6882&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=34473&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",体坛名栏汇
-http://tttt.findvps.top/api.php?id=1179&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=89321&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",UFC格斗精选
-http://tttt.findvps.top/api.php?id=2168&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=64311&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",五大联赛经典
-http://tttt.findvps.top/api.php?id=6976&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=36024&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",乡村振兴
-http://tttt.findvps.top/api.php?id=5305&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=20448&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",幸福中国年
-http://tttt.findvps.top/api.php?id=4826&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=97157&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",新片放映厅
-http://tttt.findvps.top/api.php?id=8345&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=36052&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",英雄联盟赛事
-http://tttt.findvps.top/api.php?id=5008&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=77858&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",周杰伦现场
-http://tttt.findvps.top/api.php?id=0052&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=75620&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",最强综艺趴
-http://tttt.findvps.top/api.php?id=9522&tk=fb189137591df85b
+http://27.25.159.105:18000/url/api.php?id=58602&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="央视卫视",BesTV动画
+http://27.25.159.105:18000/url/api.php?id=23248&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="央视卫视",CGTN1
+http://27.25.159.105:18000/url/api.php?id=68381&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="央视卫视",CGTN2
+http://27.25.159.105:18000/url/api.php?id=99101&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="央视卫视",CGTN3
+http://27.25.159.105:18000/url/api.php?id=13594&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="央视卫视",CGTN4
+http://27.25.159.105:18000/url/api.php?id=39625&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="央视卫视",CGTN5
+http://27.25.159.105:18000/url/api.php?id=28237&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="央视卫视",CGTN6
+http://27.25.159.105:18000/url/api.php?id=47608&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="央视卫视",GTV网络棋牌
+http://27.25.159.105:18000/url/api.php?id=30694&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="央视卫视",TVS1
+http://27.25.159.105:18000/url/api.php?id=85037&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="央视卫视",东方财经
+http://27.25.159.105:18000/url/api.php?id=30119&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="央视卫视",中华特产
+http://27.25.159.105:18000/url/api.php?id=57935&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="央视卫视",中国功夫
+http://27.25.159.105:18000/url/api.php?id=13312&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="央视卫视",中央教育1
+http://27.25.159.105:18000/url/api.php?id=62822&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="央视卫视",中央教育2
+http://27.25.159.105:18000/url/api.php?id=24910&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="央视卫视",中央教育4
+http://27.25.159.105:18000/url/api.php?id=19844&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="央视卫视",中学生
+http://27.25.159.105:18000/url/api.php?id=67186&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="央视卫视",乐游频道
+http://27.25.159.105:18000/url/api.php?id=86476&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="央视卫视",优优宝贝
+http://27.25.159.105:18000/url/api.php?id=42459&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="央视卫视",优漫卡通
+http://27.25.159.105:18000/url/api.php?id=80026&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="央视卫视",优漫卡通
+http://27.25.159.105:18000/url/api.php?id=63954&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="央视卫视",先锋乒羽
+http://27.25.159.105:18000/url/api.php?id=71006&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="央视卫视",全纪实
+http://27.25.159.105:18000/url/api.php?id=70270&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="央视卫视",军旅剧场
+http://27.25.159.105:18000/url/api.php?id=45316&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",凤凰资讯
-http://tttt.findvps.top/api.php?id=8084&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=76302&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",凤凰资讯
-http://tttt.findvps.top/api.php?id=0596&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=99485&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",动漫秀场
-http://tttt.findvps.top/api.php?id=7734&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=48064&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",哈尔滨新闻综合
-http://tttt.findvps.top/api.php?id=4537&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=64251&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",嘉佳卡通
-http://tttt.findvps.top/api.php?id=1773&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=51691&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",嘉佳卡通
-http://tttt.findvps.top/api.php?id=7620&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=63556&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",四海钓鱼
-http://tttt.findvps.top/api.php?id=6563&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=53095&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",国学频道
-http://tttt.findvps.top/api.php?id=3986&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=21957&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",天元围棋
-http://tttt.findvps.top/api.php?id=9065&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=72431&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",家庭剧场
-http://tttt.findvps.top/api.php?id=3860&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=81640&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",家庭理财
-http://tttt.findvps.top/api.php?id=5897&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=30896&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",广东体育
-http://tttt.findvps.top/api.php?id=7152&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=50820&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",广东影视
-http://tttt.findvps.top/api.php?id=0261&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=73474&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",广东新闻
-http://tttt.findvps.top/api.php?id=4830&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=82091&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",广东珠江
-http://tttt.findvps.top/api.php?id=9283&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=65767&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",广东珠江
-http://tttt.findvps.top/api.php?id=7234&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=96641&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",快乐垂的
-http://tttt.findvps.top/api.php?id=7622&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=27797&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",怡伴健康
-http://tttt.findvps.top/api.php?id=6635&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=55368&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",文物宝库
-http://tttt.findvps.top/api.php?id=3333&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=15957&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",新动漫
-http://tttt.findvps.top/api.php?id=4526&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=89816&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",新闻综合
-http://tttt.findvps.top/api.php?id=4739&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=82145&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",新闻综合1
-http://tttt.findvps.top/api.php?id=1756&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=98920&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",新闻综合2
-http://tttt.findvps.top/api.php?id=0116&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=32613&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",新闻综合3
-http://tttt.findvps.top/api.php?id=7190&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=62381&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",普宁台
-http://tttt.findvps.top/api.php?id=0297&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=47943&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",欢笑剧场4K
-http://tttt.findvps.top/api.php?id=2863&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=12091&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",汕头一台
-http://tttt.findvps.top/api.php?id=0285&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=20414&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",汕头三台
-http://tttt.findvps.top/api.php?id=3332&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=92957&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",汕头二台
-http://tttt.findvps.top/api.php?id=2128&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=86666&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",法制天地
-http://tttt.findvps.top/api.php?id=5088&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=15516&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",深圳都市
-http://tttt.findvps.top/api.php?id=2265&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=10945&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",炫动卡通
-http://tttt.findvps.top/api.php?id=2536&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=93439&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",爱情喜剧
-http://tttt.findvps.top/api.php?id=3294&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=55055&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",环球旅游
-http://tttt.findvps.top/api.php?id=1021&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=80538&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",生活时尚
-http://tttt.findvps.top/api.php?id=5386&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=17887&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",精品动作电影
-http://tttt.findvps.top/api.php?id=1970&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=39383&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",精品大剧
-http://tttt.findvps.top/api.php?id=0599&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=20996&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",精品纪录
-http://tttt.findvps.top/api.php?id=3961&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=45435&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",精品超级电影
-http://tttt.findvps.top/api.php?id=1394&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=27803&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",经济法制
-http://tttt.findvps.top/api.php?id=3012&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=53251&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",老故事
-http://tttt.findvps.top/api.php?id=7795&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=55359&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",茶频道
-http://tttt.findvps.top/api.php?id=0276&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=56234&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",萧山综合
-http://tttt.findvps.top/api.php?id=7737&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=30669&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",衢州开化国家公园HD
-http://tttt.findvps.top/api.php?id=4844&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=45950&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",衢州开化综合HD
-http://tttt.findvps.top/api.php?id=3044&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=52973&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",衢州衢江综合FHD
-http://tttt.findvps.top/api.php?id=1539&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=66826&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",衢江新闻综合
-http://tttt.findvps.top/api.php?id=6896&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=16431&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",诸暨新闻综合
-http://tttt.findvps.top/api.php?id=7507&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=71993&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",象山新闻综合
-http://tttt.findvps.top/api.php?id=5711&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=91352&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",财富天下
-http://tttt.findvps.top/api.php?id=9592&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=28972&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",金华兰溪综合
-http://tttt.findvps.top/api.php?id=8159&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=66671&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",金牌综艺
-http://tttt.findvps.top/api.php?id=3077&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=47716&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",金色学堂
-http://tttt.findvps.top/api.php?id=8101&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=93169&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",金鹰卡通
-http://tttt.findvps.top/api.php?id=2792&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=63031&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",金鹰卡通
-http://tttt.findvps.top/api.php?id=2694&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=98178&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",金鹰卡通
-http://tttt.findvps.top/api.php?id=0035&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=40077&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",风云足球
-http://tttt.findvps.top/api.php?id=5674&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=66231&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",风云音乐
-http://tttt.findvps.top/api.php?id=3445&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=64428&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",黑龙江公共农业
-http://tttt.findvps.top/api.php?id=6264&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=36697&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",黑龙江少儿
-http://tttt.findvps.top/api.php?id=4702&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=12781&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",黑龙江影视
-http://tttt.findvps.top/api.php?id=4215&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=13331&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",黑龙江文体
-http://tttt.findvps.top/api.php?id=7695&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=63776&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",黑龙江新闻
-http://tttt.findvps.top/api.php?id=4658&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=64868&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",黑龙江都市
-http://tttt.findvps.top/api.php?id=7658&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=14767&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",齐齐哈尔新闻综合
-http://tttt.findvps.top/api.php?id=6874&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=16883&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",齐齐哈尔经济法治
-http://tttt.findvps.top/api.php?id=3303&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=16423&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",龙泉新闻综
-http://tttt.findvps.top/api.php?id=9488&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=75141&tk=e6cd2ca4f273870db7
 #EXTINF:-1 group-title="央视卫视",龙游生活娱乐
-http://tttt.findvps.top/api.php?id=5318&tk=fb189137591df85b43
+http://27.25.159.105:18000/url/api.php?id=50706&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="央视卫视",龙游生活娱乐
+http://27.25.159.105:18000/url/api.php?id=85719&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="4K频道",Love Nature 4K
+http://27.25.159.105:18000/url/api.php?id=62456&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="4K频道",Loupe 4K
+http://27.25.159.105:18000/url/api.php?id=14840&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="4K频道",Fashion 4K
+http://27.25.159.105:18000/url/api.php?id=73701&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="少儿频道",黑龙江少儿
+http://27.25.159.105:18000/url/api.php?id=45039&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="少儿频道",黑莓动画
+http://27.25.159.105:18000/url/api.php?id=46980&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="少儿频道",哈哈炫动
+http://27.25.159.105:18000/url/api.php?id=11537&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="少儿频道",卡酷少儿
+http://27.25.159.105:18000/url/api.php?id=36999&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="少儿频道",内蒙古少儿
+http://27.25.159.105:18000/url/api.php?id=25350&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="凤凰系列",凤凰中文
+http://27.25.159.105:18000/url/api.php?id=81601&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="凤凰系列",凤凰资讯
+http://27.25.159.105:18000/url/api.php?id=13834&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="凤凰系列",凤凰香港
+http://27.25.159.105:18000/url/api.php?id=89141&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="凤凰系列",凤凰资讯
+http://27.25.159.105:18000/url/api.php?id=91328&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="凤凰系列",凤凰香港
+http://27.25.159.105:18000/url/api.php?id=17668&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="凤凰系列",凤凰中文
+http://27.25.159.105:18000/url/api.php?id=64953&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="凤凰系列",凤凰资讯
+http://27.25.159.105:18000/url/api.php?id=93483&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="凤凰系列",凤凰资讯
+http://27.25.159.105:18000/url/api.php?id=92464&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",咪咕电视1
+http://27.25.159.105:18000/url/api.php?id=75751&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",咪咕电视2
+http://27.25.159.105:18000/url/api.php?id=17659&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",咪咕电视3
+http://27.25.159.105:18000/url/api.php?id=32524&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",咪咕电视4
+http://27.25.159.105:18000/url/api.php?id=13507&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",咪咕电视5
+http://27.25.159.105:18000/url/api.php?id=37361&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",咪咕电视6
+http://27.25.159.105:18000/url/api.php?id=31339&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",咪咕电视7
+http://27.25.159.105:18000/url/api.php?id=80940&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",咪咕电视8
+http://27.25.159.105:18000/url/api.php?id=89639&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",咪咕电视9
+http://27.25.159.105:18000/url/api.php?id=34681&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",咪咕电视10
+http://27.25.159.105:18000/url/api.php?id=16717&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",咪咕电视11
+http://27.25.159.105:18000/url/api.php?id=87906&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",咪咕电视12
+http://27.25.159.105:18000/url/api.php?id=28576&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",咪咕电视13
+http://27.25.159.105:18000/url/api.php?id=96044&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",咪咕电视14
+http://27.25.159.105:18000/url/api.php?id=89965&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",咪咕电视15
+http://27.25.159.105:18000/url/api.php?id=61338&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",咪咕电视16
+http://27.25.159.105:18000/url/api.php?id=56339&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",咪咕电视17
+http://27.25.159.105:18000/url/api.php?id=80194&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",咪咕电视18
+http://27.25.159.105:18000/url/api.php?id=16623&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",咪咕电视19
+http://27.25.159.105:18000/url/api.php?id=54258&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",咪咕电视20
+http://27.25.159.105:18000/url/api.php?id=47751&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",咪咕电视21
+http://27.25.159.105:18000/url/api.php?id=73591&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",咪咕电视22
+http://27.25.159.105:18000/url/api.php?id=72111&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",咪咕电视23
+http://27.25.159.105:18000/url/api.php?id=76460&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",咪咕电视24
+http://27.25.159.105:18000/url/api.php?id=92600&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",咪咕电视25
+http://27.25.159.105:18000/url/api.php?id=58367&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",咪咕电视4k
+http://27.25.159.105:18000/url/api.php?id=59748&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",hy-体育-RainyRabbits
+http://27.25.159.105:18000/url/api.php?id=21817&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",hy-体育-大头猴足球
+http://27.25.159.105:18000/url/api.php?id=56126&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",hy-体育-繁星点点的夜晚猫
+http://27.25.159.105:18000/url/api.php?id=62148&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",hy-体育-芳草细雨烟
+http://27.25.159.105:18000/url/api.php?id=63170&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",hy-体育-高山流水梦
+http://27.25.159.105:18000/url/api.php?id=40997&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",hy-体育-国乒小分队
+http://27.25.159.105:18000/url/api.php?id=99170&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",hy-体育-黄金妖狐猫
+http://27.25.159.105:18000/url/api.php?id=90531&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",hy-体育-击剑的爱好者
+http://27.25.159.105:18000/url/api.php?id=82836&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",hy-体育-击剑永不息
+http://27.25.159.105:18000/url/api.php?id=18666&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",hy-体育-精彩小雨幕
+http://27.25.159.105:18000/url/api.php?id=10314&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",hy-体育-篮球巅峰
+http://27.25.159.105:18000/url/api.php?id=75137&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",hy-体育-李径看奥运
+http://27.25.159.105:18000/url/api.php?id=29004&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",hy-体育-南柯寒梦
+http://27.25.159.105:18000/url/api.php?id=58088&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",hy-体育-暖阳雪兔
+http://27.25.159.105:18000/url/api.php?id=37267&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",hy-体育-排球少年砰砰砰
+http://27.25.159.105:18000/url/api.php?id=19764&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",hy-体育-排球太燃了
+http://27.25.159.105:18000/url/api.php?id=59858&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",hy-体育-匹马泪沾襟
+http://27.25.159.105:18000/url/api.php?id=55760&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",hy-体育-奇思妙想8
+http://27.25.159.105:18000/url/api.php?id=88286&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",hy-体育-奇遇公主
+http://27.25.159.105:18000/url/api.php?id=28603&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",hy-体育-蛇猴豹
+http://27.25.159.105:18000/url/api.php?id=11552&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",hy-体育-体坛精彩速递
+http://27.25.159.105:18000/url/api.php?id=36544&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",hy-体育-田径精英在奔跑
+http://27.25.159.105:18000/url/api.php?id=51616&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",hy-体育-跳水这件事
+http://27.25.159.105:18000/url/api.php?id=90766&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",hy-体育-溪水潺潺公子
+http://27.25.159.105:18000/url/api.php?id=76142&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",hy-体育-薰衣草雀
+http://27.25.159.105:18000/url/api.php?id=12342&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",hy-体育-阳光下飞鸽
+http://27.25.159.105:18000/url/api.php?id=27364&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",hy-体育-摇滚足球本
+http://27.25.159.105:18000/url/api.php?id=27919&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",hy-体育-治霖足球故事
+http://27.25.159.105:18000/url/api.php?id=18474&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",hy-体育-终年防肠断
+http://27.25.159.105:18000/url/api.php?id=91434&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",hy-体育-竹叶青说球
+http://27.25.159.105:18000/url/api.php?id=55260&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",hy-体育-足球TOP
+http://27.25.159.105:18000/url/api.php?id=32775&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="体育频道",hy-体育-足球那些事贰
+http://27.25.159.105:18000/url/api.php?id=43008&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="广东频道",番禺电视台
+http://27.25.159.105:18000/url/api.php?id=57722&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="广东频道",佛山公共
+http://27.25.159.105:18000/url/api.php?id=32117&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="广东频道",佛山南海
+http://27.25.159.105:18000/url/api.php?id=98769&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="广东频道",佛山三水
+http://27.25.159.105:18000/url/api.php?id=16865&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="广东频道",云浮综合
+http://27.25.159.105:18000/url/api.php?id=30192&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="广东频道",广东卫视
+http://27.25.159.105:18000/url/api.php?id=64024&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="广东频道",广州新闻
+http://27.25.159.105:18000/url/api.php?id=87015&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="广东频道",广州竞赛
+http://27.25.159.105:18000/url/api.php?id=70050&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="广东频道",广州南国都市
+http://27.25.159.105:18000/url/api.php?id=23855&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="广东频道",东莞生活资讯
+http://27.25.159.105:18000/url/api.php?id=86878&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="广东频道",佛山影视
+http://27.25.159.105:18000/url/api.php?id=54512&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="广东频道",佛山顺德
+http://27.25.159.105:18000/url/api.php?id=23015&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="广东频道",云浮文旅
+http://27.25.159.105:18000/url/api.php?id=20969&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="广东频道",河源
+http://27.25.159.105:18000/url/api.php?id=62868&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="广东频道",河源
+http://27.25.159.105:18000/url/api.php?id=88411&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="广东频道",河源
+http://27.25.159.105:18000/url/api.php?id=84388&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="广东频道",河源公共
+http://27.25.159.105:18000/url/api.php?id=31625&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="广东频道",河源公共
+http://27.25.159.105:18000/url/api.php?id=73287&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="广东频道",河源公共
+http://27.25.159.105:18000/url/api.php?id=94384&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="广东频道",韶关
+http://27.25.159.105:18000/url/api.php?id=49195&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="广东频道",韶关
+http://27.25.159.105:18000/url/api.php?id=16053&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="广西频道",南宁综合
+http://27.25.159.105:18000/url/api.php?id=74750&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="广西频道",南宁公共
+http://27.25.159.105:18000/url/api.php?id=33206&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="广西频道",南宁文旅
+http://27.25.159.105:18000/url/api.php?id=66677&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="广西频道",贺州综合
+http://27.25.159.105:18000/url/api.php?id=53890&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="广西频道",罗城频道
+http://27.25.159.105:18000/url/api.php?id=64377&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="广西频道",来宾综合
+http://27.25.159.105:18000/url/api.php?id=17245&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="广西频道",来宾新闻
+http://27.25.159.105:18000/url/api.php?id=28426&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="广西频道",横州综合
+http://27.25.159.105:18000/url/api.php?id=15821&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="广西频道",南宁公共
+http://27.25.159.105:18000/url/api.php?id=56498&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="广西频道",桂林综合
+http://27.25.159.105:18000/url/api.php?id=81892&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="广西频道",罗城综合
+http://27.25.159.105:18000/url/api.php?id=73530&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="广西频道",桂林新闻综合
+http://27.25.159.105:18000/url/api.php?id=22391&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="广西频道",广西贺州
+http://27.25.159.105:18000/url/api.php?id=64151&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="安徽频道",安徽经济生活
+http://27.25.159.105:18000/url/api.php?id=71572&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="安徽频道",安徽综艺体育
+http://27.25.159.105:18000/url/api.php?id=30441&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="安徽频道",固镇新闻
+http://27.25.159.105:18000/url/api.php?id=43200&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="安徽频道",固镇影视
+http://27.25.159.105:18000/url/api.php?id=32306&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="安徽频道",灵璧综合
+http://27.25.159.105:18000/url/api.php?id=15715&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="安徽频道",宿州公共
+http://27.25.159.105:18000/url/api.php?id=65715&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="安徽频道",固镇新闻
+http://27.25.159.105:18000/url/api.php?id=96237&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="安徽频道",安徽经济生活
+http://27.25.159.105:18000/url/api.php?id=12749&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="安徽频道",安徽综艺体育
+http://27.25.159.105:18000/url/api.php?id=58563&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="安徽频道",安徽影视
+http://27.25.159.105:18000/url/api.php?id=53858&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="安徽频道",滁州
+http://27.25.159.105:18000/url/api.php?id=99863&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="安徽频道",滁州科教
+http://27.25.159.105:18000/url/api.php?id=70700&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="安徽频道",滁州公共
+http://27.25.159.105:18000/url/api.php?id=89399&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="安徽频道",池州
+http://27.25.159.105:18000/url/api.php?id=98934&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="安徽频道",池州文教
+http://27.25.159.105:18000/url/api.php?id=52774&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="安徽频道",宿州新闻
+http://27.25.159.105:18000/url/api.php?id=98819&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="安徽频道",宿州公共
+http://27.25.159.105:18000/url/api.php?id=51037&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="安徽频道",宿州科教
+http://27.25.159.105:18000/url/api.php?id=96719&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="安徽频道",阜阳教育
+http://27.25.159.105:18000/url/api.php?id=68956&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="安徽频道",歙县
+http://27.25.159.105:18000/url/api.php?id=10295&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="云南频道",麻栗坡台
+http://27.25.159.105:18000/url/api.php?id=72147&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="云南频道",丘北综合
+http://27.25.159.105:18000/url/api.php?id=67303&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="云南频道",文山电视
+http://27.25.159.105:18000/url/api.php?id=96689&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="云南频道",文山公共
+http://27.25.159.105:18000/url/api.php?id=39988&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="云南频道",文山综合
+http://27.25.159.105:18000/url/api.php?id=93969&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="云南频道",文山综合
+http://27.25.159.105:18000/url/api.php?id=86373&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="云南频道",美丽云南
+http://27.25.159.105:18000/url/api.php?id=45134&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="云南频道",文山综合
+http://27.25.159.105:18000/url/api.php?id=62376&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="云南频道",麻栗坡台
+http://27.25.159.105:18000/url/api.php?id=37671&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="云南频道",宾川一套
+http://27.25.159.105:18000/url/api.php?id=23764&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="云南频道",西畴综合
+http://27.25.159.105:18000/url/api.php?id=97192&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="云南频道",麻栗坡台
+http://27.25.159.105:18000/url/api.php?id=54576&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="云南频道",广南综合
+http://27.25.159.105:18000/url/api.php?id=74833&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="云南频道",富宁综合
+http://27.25.159.105:18000/url/api.php?id=45296&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="云南频道",砚山频道
+http://27.25.159.105:18000/url/api.php?id=60116&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山东频道",青州电视台新闻综合频道
+http://27.25.159.105:18000/url/api.php?id=65348&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山东频道",青州电视台生活频道
+http://27.25.159.105:18000/url/api.php?id=60368&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山东频道",青州电视台文化旅游频道
+http://27.25.159.105:18000/url/api.php?id=44498&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山东频道",济宁新闻综合频道
+http://27.25.159.105:18000/url/api.php?id=43351&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山东频道",济宁公共
+http://27.25.159.105:18000/url/api.php?id=33187&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山东频道",济宁公共
+http://27.25.159.105:18000/url/api.php?id=16063&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山东频道",济宁综合
+http://27.25.159.105:18000/url/api.php?id=14878&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山东频道",临沂公共
+http://27.25.159.105:18000/url/api.php?id=87881&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山东频道",临沂农科
+http://27.25.159.105:18000/url/api.php?id=56362&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山东频道",临沂图文
+http://27.25.159.105:18000/url/api.php?id=25827&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山东频道",临沂新闻
+http://27.25.159.105:18000/url/api.php?id=47671&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山东频道",烟台公共频道
+http://27.25.159.105:18000/url/api.php?id=37990&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山东频道",烟台公共频道
+http://27.25.159.105:18000/url/api.php?id=21162&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山东频道",烟台公共频道
+http://27.25.159.105:18000/url/api.php?id=77981&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山东频道",烟台经济科技
+http://27.25.159.105:18000/url/api.php?id=63868&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山东频道",烟台经济科技
+http://27.25.159.105:18000/url/api.php?id=14344&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山东频道",烟台新闻综合
+http://27.25.159.105:18000/url/api.php?id=21247&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山东频道",烟台新闻综合
+http://27.25.159.105:18000/url/api.php?id=50127&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山东频道",烟台影视频道
+http://27.25.159.105:18000/url/api.php?id=11422&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山东频道",枣庄公共
+http://27.25.159.105:18000/url/api.php?id=25754&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山东频道",枣庄公共
+http://27.25.159.105:18000/url/api.php?id=46183&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山东频道",枣庄教育
+http://27.25.159.105:18000/url/api.php?id=81635&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山东频道",枣庄教育
+http://27.25.159.105:18000/url/api.php?id=17904&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山东频道",枣庄新闻
+http://27.25.159.105:18000/url/api.php?id=29563&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山东频道",枣庄新闻
+http://27.25.159.105:18000/url/api.php?id=60730&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山东频道",菏泽一套新闻综合频道
+http://27.25.159.105:18000/url/api.php?id=58594&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山东频道",菏泽三套影视频道
+http://27.25.159.105:18000/url/api.php?id=51453&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",巴中2
+http://27.25.159.105:18000/url/api.php?id=26214&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",自贡综合
+http://27.25.159.105:18000/url/api.php?id=36539&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",德阳新闻综合
+http://27.25.159.105:18000/url/api.php?id=17903&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",甘孜综合
+http://27.25.159.105:18000/url/api.php?id=39419&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",万源新闻综合
+http://27.25.159.105:18000/url/api.php?id=34597&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",万源新闻综合
+http://27.25.159.105:18000/url/api.php?id=32976&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",松潘新闻综合
+http://27.25.159.105:18000/url/api.php?id=67846&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",汶川新闻综合
+http://27.25.159.105:18000/url/api.php?id=37429&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",利州综合
+http://27.25.159.105:18000/url/api.php?id=31822&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",泸县新闻综合
+http://27.25.159.105:18000/url/api.php?id=30991&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",泸县新闻综合
+http://27.25.159.105:18000/url/api.php?id=96225&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",广安新闻综合
+http://27.25.159.105:18000/url/api.php?id=75913&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",广安公共频道
+http://27.25.159.105:18000/url/api.php?id=57578&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",达州新闻综合
+http://27.25.159.105:18000/url/api.php?id=78516&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",达州公共频道
+http://27.25.159.105:18000/url/api.php?id=73339&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",达州通川频道
+http://27.25.159.105:18000/url/api.php?id=48214&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",自贡公共频道
+http://27.25.159.105:18000/url/api.php?id=78817&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",黑水新闻综合
+http://27.25.159.105:18000/url/api.php?id=99423&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",金川新闻综合
+http://27.25.159.105:18000/url/api.php?id=32668&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",金川乡村频道
+http://27.25.159.105:18000/url/api.php?id=38236&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",利州综合频道
+http://27.25.159.105:18000/url/api.php?id=97044&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",乐至综合频道
+http://27.25.159.105:18000/url/api.php?id=36327&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",会东综合频道
+http://27.25.159.105:18000/url/api.php?id=68942&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",会东综合频道
+http://27.25.159.105:18000/url/api.php?id=73724&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",德格综合频道
+http://27.25.159.105:18000/url/api.php?id=83254&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",叙永综合频道
+http://27.25.159.105:18000/url/api.php?id=42539&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",泸州公共
+http://27.25.159.105:18000/url/api.php?id=92558&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",泸州科教
+http://27.25.159.105:18000/url/api.php?id=73431&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",泸州科教
+http://27.25.159.105:18000/url/api.php?id=36145&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",长宁综合
+http://27.25.159.105:18000/url/api.php?id=67575&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",什邡新闻频道
+http://27.25.159.105:18000/url/api.php?id=32406&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",泸州新闻综合
+http://27.25.159.105:18000/url/api.php?id=58651&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",马尔康综合频道
+http://27.25.159.105:18000/url/api.php?id=88621&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",金堂电视台
+http://27.25.159.105:18000/url/api.php?id=76445&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",龙泉驿新闻综合
+http://27.25.159.105:18000/url/api.php?id=33265&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",宣汉新闻综合
+http://27.25.159.105:18000/url/api.php?id=47135&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",罗江新闻综合
+http://27.25.159.105:18000/url/api.php?id=26913&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",朝天新闻综合
+http://27.25.159.105:18000/url/api.php?id=10343&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",青川新闻综合
+http://27.25.159.105:18000/url/api.php?id=36709&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",旺苍新闻综合
+http://27.25.159.105:18000/url/api.php?id=78283&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",昭化综合频道
+http://27.25.159.105:18000/url/api.php?id=88802&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",彭山综合频道
+http://27.25.159.105:18000/url/api.php?id=34182&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",井研新闻综合
+http://27.25.159.105:18000/url/api.php?id=50058&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",沐川综合频道
+http://27.25.159.105:18000/url/api.php?id=13619&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",沙湾综合频道
+http://27.25.159.105:18000/url/api.php?id=84637&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",五通桥综合频道
+http://27.25.159.105:18000/url/api.php?id=81035&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",达州新闻
+http://27.25.159.105:18000/url/api.php?id=62526&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",铜梁综合
+http://27.25.159.105:18000/url/api.php?id=37132&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",万州综合
+http://27.25.159.105:18000/url/api.php?id=90998&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",万州综合
+http://27.25.159.105:18000/url/api.php?id=13272&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",万州综合
+http://27.25.159.105:18000/url/api.php?id=73346&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",万州三峡移民
+http://27.25.159.105:18000/url/api.php?id=11725&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",万州三峡移民
+http://27.25.159.105:18000/url/api.php?id=51941&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",万州三峡移民
+http://27.25.159.105:18000/url/api.php?id=73526&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",武隆综合频道
+http://27.25.159.105:18000/url/api.php?id=79537&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",璧山综合
+http://27.25.159.105:18000/url/api.php?id=52994&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",叙州新闻综合
+http://27.25.159.105:18000/url/api.php?id=54214&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",万州影视
+http://27.25.159.105:18000/url/api.php?id=19417&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",德阳文旅科教
+http://27.25.159.105:18000/url/api.php?id=62030&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",凉山语
+http://27.25.159.105:18000/url/api.php?id=35707&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",营山
+http://27.25.159.105:18000/url/api.php?id=75390&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",荣昌
+http://27.25.159.105:18000/url/api.php?id=20221&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",万载
+http://27.25.159.105:18000/url/api.php?id=75891&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",德阳公共
+http://27.25.159.105:18000/url/api.php?id=96899&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",叙州新闻
+http://27.25.159.105:18000/url/api.php?id=86317&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",青神
+http://27.25.159.105:18000/url/api.php?id=44704&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",泸县新闻
+http://27.25.159.105:18000/url/api.php?id=46017&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="四川频道",四川科教
+http://27.25.159.105:18000/url/api.php?id=60498&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",浙江新闻
+http://27.25.159.105:18000/url/api.php?id=50184&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",浙江都市
+http://27.25.159.105:18000/url/api.php?id=86585&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",浙江国际
+http://27.25.159.105:18000/url/api.php?id=53349&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",浙江教科
+http://27.25.159.105:18000/url/api.php?id=97275&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",浙江民生
+http://27.25.159.105:18000/url/api.php?id=52640&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",浙江经济
+http://27.25.159.105:18000/url/api.php?id=92577&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",浙江少儿
+http://27.25.159.105:18000/url/api.php?id=83671&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",绍兴公共
+http://27.25.159.105:18000/url/api.php?id=20131&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",绍兴文化
+http://27.25.159.105:18000/url/api.php?id=13487&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",绍兴综合
+http://27.25.159.105:18000/url/api.php?id=62346&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",余杭综合
+http://27.25.159.105:18000/url/api.php?id=76520&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",余杭未来
+http://27.25.159.105:18000/url/api.php?id=47351&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",余姚综合
+http://27.25.159.105:18000/url/api.php?id=15831&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",余姚文化
+http://27.25.159.105:18000/url/api.php?id=33775&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",开化公园
+http://27.25.159.105:18000/url/api.php?id=68943&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",开化综合
+http://27.25.159.105:18000/url/api.php?id=30527&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",嵊州综合
+http://27.25.159.105:18000/url/api.php?id=84195&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",诸暨综合
+http://27.25.159.105:18000/url/api.php?id=39073&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",上虞综合
+http://27.25.159.105:18000/url/api.php?id=62348&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",上虞文化
+http://27.25.159.105:18000/url/api.php?id=98775&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",上虞商都
+http://27.25.159.105:18000/url/api.php?id=77973&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",兰溪综合
+http://27.25.159.105:18000/url/api.php?id=93741&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",缙云综合
+http://27.25.159.105:18000/url/api.php?id=33453&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",龙泉综合
+http://27.25.159.105:18000/url/api.php?id=87226&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",龙游生活
+http://27.25.159.105:18000/url/api.php?id=35159&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",龙游综合
+http://27.25.159.105:18000/url/api.php?id=55242&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",宁波象山
+http://27.25.159.105:18000/url/api.php?id=61041&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",平湖民生
+http://27.25.159.105:18000/url/api.php?id=58134&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",平湖综合
+http://27.25.159.105:18000/url/api.php?id=65926&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",普陀综合
+http://27.25.159.105:18000/url/api.php?id=71617&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",庆元综合
+http://27.25.159.105:18000/url/api.php?id=67733&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",衢江综合
+http://27.25.159.105:18000/url/api.php?id=50683&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",遂昌综合
+http://27.25.159.105:18000/url/api.php?id=93830&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",青田电视
+http://27.25.159.105:18000/url/api.php?id=35885&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",文成综合
+http://27.25.159.105:18000/url/api.php?id=85335&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",文成二套
+http://27.25.159.105:18000/url/api.php?id=72611&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",萧山生活
+http://27.25.159.105:18000/url/api.php?id=80576&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",萧山综合
+http://27.25.159.105:18000/url/api.php?id=10186&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",永嘉综合
+http://27.25.159.105:18000/url/api.php?id=19119&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",云和综合
+http://27.25.159.105:18000/url/api.php?id=32518&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",舟山嵊泗
+http://27.25.159.105:18000/url/api.php?id=36630&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",武义综合
+http://27.25.159.105:18000/url/api.php?id=66176&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",中国蓝新闻
+http://27.25.159.105:18000/url/api.php?id=74668&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",数码时代
+http://27.25.159.105:18000/url/api.php?id=12395&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",萧山新闻
+http://27.25.159.105:18000/url/api.php?id=29936&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",萧山生活
+http://27.25.159.105:18000/url/api.php?id=81104&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",杭州萧山
+http://27.25.159.105:18000/url/api.php?id=77566&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",余杭
+http://27.25.159.105:18000/url/api.php?id=79154&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",余杭未来E
+http://27.25.159.105:18000/url/api.php?id=84604&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",余姚新闻
+http://27.25.159.105:18000/url/api.php?id=59122&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",余姚姚江文化
+http://27.25.159.105:18000/url/api.php?id=21563&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",宁波余姚生活
+http://27.25.159.105:18000/url/api.php?id=99108&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",衢州龙游生活
+http://27.25.159.105:18000/url/api.php?id=20982&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",衢州龙游
+http://27.25.159.105:18000/url/api.php?id=96277&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",上虞新闻
+http://27.25.159.105:18000/url/api.php?id=48369&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",上虞文化影院
+http://27.25.159.105:18000/url/api.php?id=32309&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",上虞新商都
+http://27.25.159.105:18000/url/api.php?id=20349&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",金华东阳
+http://27.25.159.105:18000/url/api.php?id=61532&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",武义新闻
+http://27.25.159.105:18000/url/api.php?id=14893&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",平湖新闻
+http://27.25.159.105:18000/url/api.php?id=62831&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",诸暨新闻
+http://27.25.159.105:18000/url/api.php?id=31538&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",丽水松阳
+http://27.25.159.105:18000/url/api.php?id=72272&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",开化国家公园
+http://27.25.159.105:18000/url/api.php?id=27694&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",洞头
+http://27.25.159.105:18000/url/api.php?id=46466&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",苍南新闻
+http://27.25.159.105:18000/url/api.php?id=89327&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",义乌新闻
+http://27.25.159.105:18000/url/api.php?id=79460&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",绍兴新闻
+http://27.25.159.105:18000/url/api.php?id=68064&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",绍兴新闻
+http://27.25.159.105:18000/url/api.php?id=62477&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",绍兴公共
+http://27.25.159.105:18000/url/api.php?id=97564&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="浙江频道",绍兴文化影院
+http://27.25.159.105:18000/url/api.php?id=43602&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",江苏新闻
+http://27.25.159.105:18000/url/api.php?id=76070&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",江苏城市
+http://27.25.159.105:18000/url/api.php?id=53084&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",江苏综艺
+http://27.25.159.105:18000/url/api.php?id=41866&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",江苏影视
+http://27.25.159.105:18000/url/api.php?id=10463&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",江苏教育
+http://27.25.159.105:18000/url/api.php?id=70481&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",江苏国际
+http://27.25.159.105:18000/url/api.php?id=87575&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",江苏国际
+http://27.25.159.105:18000/url/api.php?id=32540&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",好享购物
+http://27.25.159.105:18000/url/api.php?id=84674&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",优漫卡通
+http://27.25.159.105:18000/url/api.php?id=38541&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",南京十八
+http://27.25.159.105:18000/url/api.php?id=95847&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",无锡移动
+http://27.25.159.105:18000/url/api.php?id=77851&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",江阴新闻综合
+http://27.25.159.105:18000/url/api.php?id=67607&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",宜兴新闻综合
+http://27.25.159.105:18000/url/api.php?id=94932&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",宜兴紫砂
+http://27.25.159.105:18000/url/api.php?id=77148&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",常熟综合
+http://27.25.159.105:18000/url/api.php?id=49598&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",常熟民生经济
+http://27.25.159.105:18000/url/api.php?id=37498&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",扬州1套新闻
+http://27.25.159.105:18000/url/api.php?id=41996&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",扬州2套城市
+http://27.25.159.105:18000/url/api.php?id=77563&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",扬州3套生活
+http://27.25.159.105:18000/url/api.php?id=58493&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",扬州邗江频道
+http://27.25.159.105:18000/url/api.php?id=60436&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",扬州江都频道
+http://27.25.159.105:18000/url/api.php?id=90963&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",连云港新闻综合
+http://27.25.159.105:18000/url/api.php?id=16419&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",连云港公共
+http://27.25.159.105:18000/url/api.php?id=71723&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",镇江新闻综合
+http://27.25.159.105:18000/url/api.php?id=83493&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",镇江民生
+http://27.25.159.105:18000/url/api.php?id=98383&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",靖江新闻综合
+http://27.25.159.105:18000/url/api.php?id=92818&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",如东新闻
+http://27.25.159.105:18000/url/api.php?id=63164&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",句容党建频道
+http://27.25.159.105:18000/url/api.php?id=33447&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",句容生活
+http://27.25.159.105:18000/url/api.php?id=73087&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",句容新闻综合
+http://27.25.159.105:18000/url/api.php?id=71928&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",句容影视
+http://27.25.159.105:18000/url/api.php?id=43775&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",南京江宁区
+http://27.25.159.105:18000/url/api.php?id=27992&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",沛县电视台
+http://27.25.159.105:18000/url/api.php?id=12280&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",睢宁综合频道
+http://27.25.159.105:18000/url/api.php?id=25787&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",睢宁生活教育
+http://27.25.159.105:18000/url/api.php?id=12333&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",睢宁三农
+http://27.25.159.105:18000/url/api.php?id=81022&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",睢宁资讯
+http://27.25.159.105:18000/url/api.php?id=48954&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",新沂新闻
+http://27.25.159.105:18000/url/api.php?id=53600&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",新沂生活
+http://27.25.159.105:18000/url/api.php?id=29781&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",常州金坛
+http://27.25.159.105:18000/url/api.php?id=67427&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",武进新闻
+http://27.25.159.105:18000/url/api.php?id=23437&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",武进生活
+http://27.25.159.105:18000/url/api.php?id=38873&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",赣榆新闻
+http://27.25.159.105:18000/url/api.php?id=76811&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",江宁电视台综合频道
+http://27.25.159.105:18000/url/api.php?id=51333&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",泗洪新闻综合频道
+http://27.25.159.105:18000/url/api.php?id=85186&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",沭阳综合频道
+http://27.25.159.105:18000/url/api.php?id=31963&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",泗阳综合频道
+http://27.25.159.105:18000/url/api.php?id=54527&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",泗阳资讯频道
+http://27.25.159.105:18000/url/api.php?id=73048&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",淮安公共频道
+http://27.25.159.105:18000/url/api.php?id=28811&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",涟水电视台综合频道
+http://27.25.159.105:18000/url/api.php?id=34524&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",姜堰新闻综合频道
+http://27.25.159.105:18000/url/api.php?id=61949&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",高邮一套新闻综合频道
+http://27.25.159.105:18000/url/api.php?id=16917&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",镇江新闻综合频道
+http://27.25.159.105:18000/url/api.php?id=89193&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",扬州1套
+http://27.25.159.105:18000/url/api.php?id=42103&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",扬州2套
+http://27.25.159.105:18000/url/api.php?id=89146&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",扬州3套
+http://27.25.159.105:18000/url/api.php?id=63629&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",镇江1套
+http://27.25.159.105:18000/url/api.php?id=12384&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",镇江2套
+http://27.25.159.105:18000/url/api.php?id=48335&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",南京新闻
+http://27.25.159.105:18000/url/api.php?id=59560&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",镇江综合
+http://27.25.159.105:18000/url/api.php?id=95835&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",镇江民生
+http://27.25.159.105:18000/url/api.php?id=36676&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",淮安无线
+http://27.25.159.105:18000/url/api.php?id=62215&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",海门经济
+http://27.25.159.105:18000/url/api.php?id=91118&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",海门教育
+http://27.25.159.105:18000/url/api.php?id=64996&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",睢宁综合
+http://27.25.159.105:18000/url/api.php?id=46082&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",睢宁教育
+http://27.25.159.105:18000/url/api.php?id=59517&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",睢宁三农
+http://27.25.159.105:18000/url/api.php?id=88456&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",江苏泗阳
+http://27.25.159.105:18000/url/api.php?id=62906&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",江苏泗阳资讯
+http://27.25.159.105:18000/url/api.php?id=77955&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",江苏睢宁三农
+http://27.25.159.105:18000/url/api.php?id=70150&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",江苏金坛新闻
+http://27.25.159.105:18000/url/api.php?id=51127&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",江苏睢宁生活教育
+http://27.25.159.105:18000/url/api.php?id=90009&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",江苏沭阳
+http://27.25.159.105:18000/url/api.php?id=60912&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",江苏涟水
+http://27.25.159.105:18000/url/api.php?id=86308&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",江苏金湖新闻
+http://27.25.159.105:18000/url/api.php?id=51790&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",江苏如东新闻
+http://27.25.159.105:18000/url/api.php?id=69634&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",江苏泗洪新闻
+http://27.25.159.105:18000/url/api.php?id=31265&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",江苏赣榆新闻
+http://27.25.159.105:18000/url/api.php?id=53058&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",江苏淮安公共
+http://27.25.159.105:18000/url/api.php?id=64901&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",江苏淮安影院娱乐
+http://27.25.159.105:18000/url/api.php?id=25973&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",江苏江宁新闻
+http://27.25.159.105:18000/url/api.php?id=83220&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",江苏沛县新闻
+http://27.25.159.105:18000/url/api.php?id=20093&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",江苏高邮
+http://27.25.159.105:18000/url/api.php?id=99404&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",江苏宿豫
+http://27.25.159.105:18000/url/api.php?id=13597&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",江苏武进新闻
+http://27.25.159.105:18000/url/api.php?id=31299&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",江苏武进生活
+http://27.25.159.105:18000/url/api.php?id=10316&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",江苏睢宁
+http://27.25.159.105:18000/url/api.php?id=28815&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",江苏靖江新闻
+http://27.25.159.105:18000/url/api.php?id=88387&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",江苏姜堰新闻
+http://27.25.159.105:18000/url/api.php?id=86231&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",扬州
+http://27.25.159.105:18000/url/api.php?id=89285&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",扬州城市
+http://27.25.159.105:18000/url/api.php?id=92168&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江苏频道",扬州生活
+http://27.25.159.105:18000/url/api.php?id=55310&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="上海频道",嘉定电视台
+http://27.25.159.105:18000/url/api.php?id=20491&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="上海频道",崇明电视台
+http://27.25.159.105:18000/url/api.php?id=33256&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="吉林频道",延边卫视
+http://27.25.159.105:18000/url/api.php?id=90118&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="吉林频道",延边-1
+http://27.25.159.105:18000/url/api.php?id=87333&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="吉林频道",延边-2
+http://27.25.159.105:18000/url/api.php?id=60424&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="吉林频道",延边汉语综合
+http://27.25.159.105:18000/url/api.php?id=26027&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="吉林频道",德惠综合
+http://27.25.159.105:18000/url/api.php?id=70983&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="吉林频道",九台综合
+http://27.25.159.105:18000/url/api.php?id=55293&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="吉林频道",双阳综合
+http://27.25.159.105:18000/url/api.php?id=32629&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="吉林频道",靖宇综合
+http://27.25.159.105:18000/url/api.php?id=14627&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="吉林频道",珲春综合
+http://27.25.159.105:18000/url/api.php?id=92803&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="吉林频道",龙井综合
+http://27.25.159.105:18000/url/api.php?id=33882&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="吉林频道",桦甸综合
+http://27.25.159.105:18000/url/api.php?id=34136&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="吉林频道",磐石综合
+http://27.25.159.105:18000/url/api.php?id=86802&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="吉林频道",舒兰综合
+http://27.25.159.105:18000/url/api.php?id=25336&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="吉林频道",东丰综合
+http://27.25.159.105:18000/url/api.php?id=82991&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="吉林频道",双辽综合
+http://27.25.159.105:18000/url/api.php?id=60481&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="吉林频道",辉南综合
+http://27.25.159.105:18000/url/api.php?id=62075&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="吉林频道",柳河综合
+http://27.25.159.105:18000/url/api.php?id=59074&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="吉林频道",通化综合
+http://27.25.159.105:18000/url/api.php?id=14755&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="吉林频道",延边朝鲜语
+http://27.25.159.105:18000/url/api.php?id=75045&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="吉林频道",延边朝鲜语
+http://27.25.159.105:18000/url/api.php?id=79862&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="吉林频道",延边一套
+http://27.25.159.105:18000/url/api.php?id=77901&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="吉林频道",延边二套
+http://27.25.159.105:18000/url/api.php?id=15654&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="吉林频道",江源综合
+http://27.25.159.105:18000/url/api.php?id=44253&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="吉林频道",永吉综合
+http://27.25.159.105:18000/url/api.php?id=23449&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="吉林频道",延边卫视
+http://27.25.159.105:18000/url/api.php?id=60090&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="吉林频道",延边卫视
+http://27.25.159.105:18000/url/api.php?id=34077&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="吉林频道",延边-1
+http://27.25.159.105:18000/url/api.php?id=25923&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="吉林频道",延边-2
+http://27.25.159.105:18000/url/api.php?id=96093&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="吉林频道",延边朝鲜语
+http://27.25.159.105:18000/url/api.php?id=33799&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="吉林频道",延边朝鲜语
+http://27.25.159.105:18000/url/api.php?id=77480&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="吉林频道",延边汉语
+http://27.25.159.105:18000/url/api.php?id=58565&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="吉林频道",东辽
+http://27.25.159.105:18000/url/api.php?id=22081&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",河南电视剧
+http://27.25.159.105:18000/url/api.php?id=35242&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",河南新闻
+http://27.25.159.105:18000/url/api.php?id=48453&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",河南公共
+http://27.25.159.105:18000/url/api.php?id=78065&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",河南乡村
+http://27.25.159.105:18000/url/api.php?id=84643&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",河南梨园
+http://27.25.159.105:18000/url/api.php?id=46905&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",文物宝库
+http://27.25.159.105:18000/url/api.php?id=89535&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",武术世界
+http://27.25.159.105:18000/url/api.php?id=25575&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",睛彩中原
+http://27.25.159.105:18000/url/api.php?id=20501&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",象视界
+http://27.25.159.105:18000/url/api.php?id=25907&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",洛阳一套
+http://27.25.159.105:18000/url/api.php?id=85046&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",洛阳二套
+http://27.25.159.105:18000/url/api.php?id=36678&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",洛阳三套
+http://27.25.159.105:18000/url/api.php?id=86189&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",焦作综合频道
+http://27.25.159.105:18000/url/api.php?id=57672&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",焦作公共频道
+http://27.25.159.105:18000/url/api.php?id=32568&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",济源电视一套
+http://27.25.159.105:18000/url/api.php?id=65010&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",驻马店新闻综合
+http://27.25.159.105:18000/url/api.php?id=43009&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",驻马店科教频道
+http://27.25.159.105:18000/url/api.php?id=61950&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",永城新闻
+http://27.25.159.105:18000/url/api.php?id=63683&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",登封综合频道
+http://27.25.159.105:18000/url/api.php?id=86804&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",巩义新闻综合
+http://27.25.159.105:18000/url/api.php?id=74712&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",新密新闻频道
+http://27.25.159.105:18000/url/api.php?id=78022&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",新郑综合频道
+http://27.25.159.105:18000/url/api.php?id=49828&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",宝丰综合频道
+http://27.25.159.105:18000/url/api.php?id=97374&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",郏县综合频道
+http://27.25.159.105:18000/url/api.php?id=87333&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",汝州科教频道
+http://27.25.159.105:18000/url/api.php?id=36374&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",舞钢新闻综合
+http://27.25.159.105:18000/url/api.php?id=26683&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",叶县一套
+http://27.25.159.105:18000/url/api.php?id=61139&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",栾川新闻频道
+http://27.25.159.105:18000/url/api.php?id=47305&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",孟津新闻频道
+http://27.25.159.105:18000/url/api.php?id=54244&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",汝阳综合频道
+http://27.25.159.105:18000/url/api.php?id=45103&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",嵩县综合新闻
+http://27.25.159.105:18000/url/api.php?id=58834&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",新安新闻综合
+http://27.25.159.105:18000/url/api.php?id=44967&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",偃师新闻频道
+http://27.25.159.105:18000/url/api.php?id=37509&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",宜阳综合频道
+http://27.25.159.105:18000/url/api.php?id=17185&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",孟州综合
+http://27.25.159.105:18000/url/api.php?id=39530&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",沁阳新闻综合
+http://27.25.159.105:18000/url/api.php?id=32103&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",温县综合
+http://27.25.159.105:18000/url/api.php?id=19351&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",武陟新闻综合
+http://27.25.159.105:18000/url/api.php?id=83437&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",邓州新闻
+http://27.25.159.105:18000/url/api.php?id=82644&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",方城一套
+http://27.25.159.105:18000/url/api.php?id=34977&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",内乡综合
+http://27.25.159.105:18000/url/api.php?id=16957&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",唐河一套
+http://27.25.159.105:18000/url/api.php?id=47201&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",淅川综合
+http://27.25.159.105:18000/url/api.php?id=36012&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",新野综合
+http://27.25.159.105:18000/url/api.php?id=90159&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",镇平新闻综合
+http://27.25.159.105:18000/url/api.php?id=21196&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",郸城新闻综合
+http://27.25.159.105:18000/url/api.php?id=43964&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",扶沟综合频道
+http://27.25.159.105:18000/url/api.php?id=96711&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",鹿邑新闻频道
+http://27.25.159.105:18000/url/api.php?id=73762&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",沈丘新闻综合
+http://27.25.159.105:18000/url/api.php?id=56561&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",太康综合
+http://27.25.159.105:18000/url/api.php?id=92554&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",项城新闻
+http://27.25.159.105:18000/url/api.php?id=14465&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",西华综合频道
+http://27.25.159.105:18000/url/api.php?id=22906&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",兰考新闻频道
+http://27.25.159.105:18000/url/api.php?id=30439&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",杞县新闻综合
+http://27.25.159.105:18000/url/api.php?id=43833&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",通许综合频道
+http://27.25.159.105:18000/url/api.php?id=45773&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",尉氏综合频道
+http://27.25.159.105:18000/url/api.php?id=66388&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",临颍综合频道
+http://27.25.159.105:18000/url/api.php?id=51233&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",舞阳新闻综合
+http://27.25.159.105:18000/url/api.php?id=26155&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",泌阳新闻综合
+http://27.25.159.105:18000/url/api.php?id=89354&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",确山综合
+http://27.25.159.105:18000/url/api.php?id=58278&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",上蔡综合
+http://27.25.159.105:18000/url/api.php?id=98894&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",遂平一套
+http://27.25.159.105:18000/url/api.php?id=24218&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",新蔡综合
+http://27.25.159.105:18000/url/api.php?id=66544&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",西平综合
+http://27.25.159.105:18000/url/api.php?id=62912&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",长垣综合频道
+http://27.25.159.105:18000/url/api.php?id=94979&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",封丘新闻综合
+http://27.25.159.105:18000/url/api.php?id=28882&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",获嘉综合频道
+http://27.25.159.105:18000/url/api.php?id=42264&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",辉县新闻综合
+http://27.25.159.105:18000/url/api.php?id=71966&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",卫辉综合频道
+http://27.25.159.105:18000/url/api.php?id=52328&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",新乡县电视台
+http://27.25.159.105:18000/url/api.php?id=10773&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",延津综合频道
+http://27.25.159.105:18000/url/api.php?id=40805&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",原阳新闻综合
+http://27.25.159.105:18000/url/api.php?id=44164&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",灵宝新闻综合
+http://27.25.159.105:18000/url/api.php?id=41426&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",卢氏综合频道
+http://27.25.159.105:18000/url/api.php?id=28472&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",渑池新闻综合
+http://27.25.159.105:18000/url/api.php?id=98379&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",义马新闻综合
+http://27.25.159.105:18000/url/api.php?id=72092&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",安阳县新闻综合
+http://27.25.159.105:18000/url/api.php?id=58945&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",滑县新闻
+http://27.25.159.105:18000/url/api.php?id=93702&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",林州综合
+http://27.25.159.105:18000/url/api.php?id=54560&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",内黄综合频道
+http://27.25.159.105:18000/url/api.php?id=35156&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",汤阴综合
+http://27.25.159.105:18000/url/api.php?id=36361&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",淇县电视台
+http://27.25.159.105:18000/url/api.php?id=24718&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",浚县一套
+http://27.25.159.105:18000/url/api.php?id=78758&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",南乐综合频道
+http://27.25.159.105:18000/url/api.php?id=69664&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",濮阳县电视台
+http://27.25.159.105:18000/url/api.php?id=27138&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",光山综合频道
+http://27.25.159.105:18000/url/api.php?id=99380&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",固始综合频道
+http://27.25.159.105:18000/url/api.php?id=46893&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",淮滨综合频道
+http://27.25.159.105:18000/url/api.php?id=56599&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",潢川综合频道
+http://27.25.159.105:18000/url/api.php?id=64999&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",罗山综合频道
+http://27.25.159.105:18000/url/api.php?id=78895&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",商城新闻频道
+http://27.25.159.105:18000/url/api.php?id=89270&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",新县综合频道
+http://27.25.159.105:18000/url/api.php?id=37075&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",建安综合频道
+http://27.25.159.105:18000/url/api.php?id=83198&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",襄城综合频道
+http://27.25.159.105:18000/url/api.php?id=56469&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",鄢陵综合频道
+http://27.25.159.105:18000/url/api.php?id=33890&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",禹州综合
+http://27.25.159.105:18000/url/api.php?id=71561&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",安阳新闻综合
+http://27.25.159.105:18000/url/api.php?id=17954&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",安阳科教频道
+http://27.25.159.105:18000/url/api.php?id=44272&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",信阳综合
+http://27.25.159.105:18000/url/api.php?id=52324&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",开封新闻
+http://27.25.159.105:18000/url/api.php?id=66003&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",开封文化旅游
+http://27.25.159.105:18000/url/api.php?id=15650&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",郏县
+http://27.25.159.105:18000/url/api.php?id=72458&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",宝丰
+http://27.25.159.105:18000/url/api.php?id=52946&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",济源一套
+http://27.25.159.105:18000/url/api.php?id=61443&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",灵宝新闻
+http://27.25.159.105:18000/url/api.php?id=99169&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",鹿邑新闻
+http://27.25.159.105:18000/url/api.php?id=20749&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",嵩县新闻
+http://27.25.159.105:18000/url/api.php?id=59707&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",新安新闻
+http://27.25.159.105:18000/url/api.php?id=12372&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",新乡县
+http://27.25.159.105:18000/url/api.php?id=96937&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",上街
+http://27.25.159.105:18000/url/api.php?id=96386&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",平舆
+http://27.25.159.105:18000/url/api.php?id=98211&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",方城一套
+http://27.25.159.105:18000/url/api.php?id=69376&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",扶沟
+http://27.25.159.105:18000/url/api.php?id=36386&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",滑县新闻
+http://27.25.159.105:18000/url/api.php?id=14188&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",温县
+http://27.25.159.105:18000/url/api.php?id=60170&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",新野
+http://27.25.159.105:18000/url/api.php?id=97608&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",荥阳
+http://27.25.159.105:18000/url/api.php?id=58662&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",禹州
+http://27.25.159.105:18000/url/api.php?id=12013&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",荥阳
+http://27.25.159.105:18000/url/api.php?id=99330&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",济源一套
+http://27.25.159.105:18000/url/api.php?id=16133&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",叶县
+http://27.25.159.105:18000/url/api.php?id=26076&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",义马
+http://27.25.159.105:18000/url/api.php?id=80938&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",禹州
+http://27.25.159.105:18000/url/api.php?id=81289&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",兰考新闻
+http://27.25.159.105:18000/url/api.php?id=11734&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",新乡
+http://27.25.159.105:18000/url/api.php?id=95494&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",鹤岗新闻
+http://27.25.159.105:18000/url/api.php?id=74277&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",郑州教育
+http://27.25.159.105:18000/url/api.php?id=97790&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",12-15Washington
+http://27.25.159.105:18000/url/api.php?id=32431&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河南频道",河南唐河一套
+http://27.25.159.105:18000/url/api.php?id=69160&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山西频道",高平综合
+http://27.25.159.105:18000/url/api.php?id=50963&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山西频道",吉县综合
+http://27.25.159.105:18000/url/api.php?id=71608&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山西频道",晋中公共
+http://27.25.159.105:18000/url/api.php?id=70201&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山西频道",晋中新闻
+http://27.25.159.105:18000/url/api.php?id=90139&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山西频道",黎城综合
+http://27.25.159.105:18000/url/api.php?id=12915&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山西频道",潞城综合
+http://27.25.159.105:18000/url/api.php?id=21786&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山西频道",武乡综合
+http://27.25.159.105:18000/url/api.php?id=20503&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山西频道",运城公共
+http://27.25.159.105:18000/url/api.php?id=81532&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山西频道",运城科技
+http://27.25.159.105:18000/url/api.php?id=90330&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山西频道",运城综合
+http://27.25.159.105:18000/url/api.php?id=35954&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山西频道",长子综合
+http://27.25.159.105:18000/url/api.php?id=15816&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山西频道",定襄综合
+http://27.25.159.105:18000/url/api.php?id=32484&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山西频道",汾西综合
+http://27.25.159.105:18000/url/api.php?id=84101&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山西频道",晋城新闻
+http://27.25.159.105:18000/url/api.php?id=68208&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山西频道",晋城公共
+http://27.25.159.105:18000/url/api.php?id=41688&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山西频道",晋中新闻
+http://27.25.159.105:18000/url/api.php?id=40757&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山西频道",晋中公共
+http://27.25.159.105:18000/url/api.php?id=59334&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山西频道",壶关电视
+http://27.25.159.105:18000/url/api.php?id=68181&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山西频道",平鲁综合
+http://27.25.159.105:18000/url/api.php?id=54639&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山西频道",汾西综合
+http://27.25.159.105:18000/url/api.php?id=89985&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山西频道",翼城综合
+http://27.25.159.105:18000/url/api.php?id=31623&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山西频道",定襄综合
+http://27.25.159.105:18000/url/api.php?id=79022&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山西频道",五台综合
+http://27.25.159.105:18000/url/api.php?id=55550&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山西频道",原平综合
+http://27.25.159.105:18000/url/api.php?id=66356&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山西频道",晋城新闻
+http://27.25.159.105:18000/url/api.php?id=66612&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山西频道",晋城公共
+http://27.25.159.105:18000/url/api.php?id=73770&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山西频道",壶关
+http://27.25.159.105:18000/url/api.php?id=20675&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山西频道",武乡新闻1
+http://27.25.159.105:18000/url/api.php?id=42859&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山西频道",阳曲
+http://27.25.159.105:18000/url/api.php?id=98425&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山西频道",平遥新闻
+http://27.25.159.105:18000/url/api.php?id=37991&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山西频道",古县
+http://27.25.159.105:18000/url/api.php?id=78473&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山西频道",翼城
+http://27.25.159.105:18000/url/api.php?id=87774&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山西频道",闻喜
+http://27.25.159.105:18000/url/api.php?id=91159&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山西频道",原平
+http://27.25.159.105:18000/url/api.php?id=50342&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="山西频道",怀仁
+http://27.25.159.105:18000/url/api.php?id=63973&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="福建频道",福州新闻
+http://27.25.159.105:18000/url/api.php?id=78035&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="福建频道",福州生活
+http://27.25.159.105:18000/url/api.php?id=32917&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="福建频道",福州少儿
+http://27.25.159.105:18000/url/api.php?id=25671&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="福建频道",漳州一套
+http://27.25.159.105:18000/url/api.php?id=73660&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="福建频道",武夷山综合
+http://27.25.159.105:18000/url/api.php?id=35513&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="福建频道",武夷山文旅
+http://27.25.159.105:18000/url/api.php?id=27969&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="福建频道",漳浦综合
+http://27.25.159.105:18000/url/api.php?id=52373&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="福建频道",云霄综合
+http://27.25.159.105:18000/url/api.php?id=62430&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="福建频道",漳浦综合
+http://27.25.159.105:18000/url/api.php?id=96890&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="福建频道",云霄综合
+http://27.25.159.105:18000/url/api.php?id=17003&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",黄冈新闻综合
+http://27.25.159.105:18000/url/api.php?id=42073&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",黄冈生活
+http://27.25.159.105:18000/url/api.php?id=56239&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",荆州新闻
+http://27.25.159.105:18000/url/api.php?id=97982&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",荆州垄上
+http://27.25.159.105:18000/url/api.php?id=92766&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",恩施综合
+http://27.25.159.105:18000/url/api.php?id=47375&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",恩施文旅
+http://27.25.159.105:18000/url/api.php?id=27662&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",宜昌综合
+http://27.25.159.105:18000/url/api.php?id=63211&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",宜昌旅游生活
+http://27.25.159.105:18000/url/api.php?id=72373&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",黄石新闻综合
+http://27.25.159.105:18000/url/api.php?id=55391&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",孝感新闻综合
+http://27.25.159.105:18000/url/api.php?id=51688&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",孝感生活频道
+http://27.25.159.105:18000/url/api.php?id=28380&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",黄冈新闻频道
+http://27.25.159.105:18000/url/api.php?id=75325&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",黄冈生活频道
+http://27.25.159.105:18000/url/api.php?id=64151&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",咸宁综合频道
+http://27.25.159.105:18000/url/api.php?id=94765&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",咸宁经济生活
+http://27.25.159.105:18000/url/api.php?id=78188&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",长阳综合频道
+http://27.25.159.105:18000/url/api.php?id=92075&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",当阳综合频道
+http://27.25.159.105:18000/url/api.php?id=53527&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",五峰综合频道
+http://27.25.159.105:18000/url/api.php?id=23002&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",宜都综合频道
+http://27.25.159.105:18000/url/api.php?id=51154&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",枝江综合频道
+http://27.25.159.105:18000/url/api.php?id=58036&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",大悟综合频道
+http://27.25.159.105:18000/url/api.php?id=17914&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",孝昌新闻党建
+http://27.25.159.105:18000/url/api.php?id=81150&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",应城新闻党建
+http://27.25.159.105:18000/url/api.php?id=59567&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",松滋综合
+http://27.25.159.105:18000/url/api.php?id=40476&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",嘉鱼新闻综合
+http://27.25.159.105:18000/url/api.php?id=35199&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",通山综合
+http://27.25.159.105:18000/url/api.php?id=95435&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",鹤峰综合频道
+http://27.25.159.105:18000/url/api.php?id=56514&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",广水新闻频道
+http://27.25.159.105:18000/url/api.php?id=25135&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",谷城综合频道
+http://27.25.159.105:18000/url/api.php?id=24769&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",荆门新闻
+http://27.25.159.105:18000/url/api.php?id=90879&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",荆门公共
+http://27.25.159.105:18000/url/api.php?id=45524&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",荆门教育
+http://27.25.159.105:18000/url/api.php?id=67705&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",江夏新闻综合
+http://27.25.159.105:18000/url/api.php?id=23132&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",十堰新闻
+http://27.25.159.105:18000/url/api.php?id=83163&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",湘潭新闻综合
+http://27.25.159.105:18000/url/api.php?id=45021&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",孝感公共频道
+http://27.25.159.105:18000/url/api.php?id=66929&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",武汉新闻
+http://27.25.159.105:18000/url/api.php?id=20924&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",武汉生活
+http://27.25.159.105:18000/url/api.php?id=90976&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",武汉经济
+http://27.25.159.105:18000/url/api.php?id=87015&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",武汉文体
+http://27.25.159.105:18000/url/api.php?id=28668&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",武汉外语
+http://27.25.159.105:18000/url/api.php?id=20013&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",武汉少儿
+http://27.25.159.105:18000/url/api.php?id=70347&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",武汉教育
+http://27.25.159.105:18000/url/api.php?id=34935&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",荆门新闻
+http://27.25.159.105:18000/url/api.php?id=47008&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",十堰经济
+http://27.25.159.105:18000/url/api.php?id=23038&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",宜昌
+http://27.25.159.105:18000/url/api.php?id=53757&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="湖北频道",三峡旅游
+http://27.25.159.105:18000/url/api.php?id=14513&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",河北都市
+http://27.25.159.105:18000/url/api.php?id=83073&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",河北经济
+http://27.25.159.105:18000/url/api.php?id=23642&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",河北农民
+http://27.25.159.105:18000/url/api.php?id=33579&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",河北影视
+http://27.25.159.105:18000/url/api.php?id=25585&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",河北少儿
+http://27.25.159.105:18000/url/api.php?id=86172&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",河北公共
+http://27.25.159.105:18000/url/api.php?id=59559&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",河北都市
+http://27.25.159.105:18000/url/api.php?id=22675&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",河北影视
+http://27.25.159.105:18000/url/api.php?id=57671&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",河北少儿
+http://27.25.159.105:18000/url/api.php?id=12825&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",河北公共
+http://27.25.159.105:18000/url/api.php?id=39379&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",河北农民
+http://27.25.159.105:18000/url/api.php?id=13899&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",河北经济
+http://27.25.159.105:18000/url/api.php?id=53675&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",涞水新闻
+http://27.25.159.105:18000/url/api.php?id=88357&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",承德公共
+http://27.25.159.105:18000/url/api.php?id=26029&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",承德新闻
+http://27.25.159.105:18000/url/api.php?id=16511&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",鹿泉一套
+http://27.25.159.105:18000/url/api.php?id=21498&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",平泉影视
+http://27.25.159.105:18000/url/api.php?id=63268&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",邯郸公共
+http://27.25.159.105:18000/url/api.php?id=51846&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",邯郸科技
+http://27.25.159.105:18000/url/api.php?id=14171&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",鹿泉一套
+http://27.25.159.105:18000/url/api.php?id=17309&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",昌黎综合
+http://27.25.159.105:18000/url/api.php?id=85104&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",定州生活
+http://27.25.159.105:18000/url/api.php?id=36231&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",定州新闻
+http://27.25.159.105:18000/url/api.php?id=20621&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",丰宁综合
+http://27.25.159.105:18000/url/api.php?id=97531&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",邯郸新闻
+http://27.25.159.105:18000/url/api.php?id=71796&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",邯郸科教
+http://27.25.159.105:18000/url/api.php?id=80937&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",平泉综合
+http://27.25.159.105:18000/url/api.php?id=28319&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",望都综合
+http://27.25.159.105:18000/url/api.php?id=71712&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",鹿泉二套
+http://27.25.159.105:18000/url/api.php?id=84386&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",深州综合
+http://27.25.159.105:18000/url/api.php?id=94565&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",深州综合
+http://27.25.159.105:18000/url/api.php?id=57883&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",昌黎综合
+http://27.25.159.105:18000/url/api.php?id=94766&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",迁安新闻
+http://27.25.159.105:18000/url/api.php?id=77732&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",迁西综合
+http://27.25.159.105:18000/url/api.php?id=57115&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",迁西农业
+http://27.25.159.105:18000/url/api.php?id=21227&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",霸州文化
+http://27.25.159.105:18000/url/api.php?id=80749&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",永清综合
+http://27.25.159.105:18000/url/api.php?id=55552&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",永清影视
+http://27.25.159.105:18000/url/api.php?id=95241&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",清河新闻
+http://27.25.159.105:18000/url/api.php?id=98708&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",清河经济
+http://27.25.159.105:18000/url/api.php?id=50275&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",青县新闻
+http://27.25.159.105:18000/url/api.php?id=33201&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",河北农民
+http://27.25.159.105:18000/url/api.php?id=43050&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="河北频道",定州国学影视
+http://27.25.159.105:18000/url/api.php?id=79026&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",黑龙江影视
+http://27.25.159.105:18000/url/api.php?id=25691&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",黑龙江新闻
+http://27.25.159.105:18000/url/api.php?id=56407&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",黑龙江文体
+http://27.25.159.105:18000/url/api.php?id=83582&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",黑龙江都市
+http://27.25.159.105:18000/url/api.php?id=42331&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",黑龙江农业
+http://27.25.159.105:18000/url/api.php?id=16803&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",黑龙江少儿
+http://27.25.159.105:18000/url/api.php?id=76747&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",黑龙江影视
+http://27.25.159.105:18000/url/api.php?id=40905&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",黑龙江新闻
+http://27.25.159.105:18000/url/api.php?id=71594&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",黑龙江文体
+http://27.25.159.105:18000/url/api.php?id=47945&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",黑龙江都市
+http://27.25.159.105:18000/url/api.php?id=99152&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",黑龙江农业
+http://27.25.159.105:18000/url/api.php?id=46434&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",哈尔滨影视
+http://27.25.159.105:18000/url/api.php?id=21708&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",哈尔滨综合
+http://27.25.159.105:18000/url/api.php?id=41357&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",哈尔滨生活
+http://27.25.159.105:18000/url/api.php?id=10540&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",哈尔滨综合
+http://27.25.159.105:18000/url/api.php?id=24443&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",哈尔滨影视
+http://27.25.159.105:18000/url/api.php?id=48658&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",哈尔滨生活
+http://27.25.159.105:18000/url/api.php?id=63939&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",东北热剧
+http://27.25.159.105:18000/url/api.php?id=97293&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",欢乐剧场
+http://27.25.159.105:18000/url/api.php?id=83764&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",佳木斯新闻
+http://27.25.159.105:18000/url/api.php?id=72754&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",牡丹江新闻
+http://27.25.159.105:18000/url/api.php?id=68280&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",鹤岗新闻
+http://27.25.159.105:18000/url/api.php?id=26890&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",漠河综合
+http://27.25.159.105:18000/url/api.php?id=55415&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",黑龙江公共
+http://27.25.159.105:18000/url/api.php?id=78051&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",黑龙江都市
+http://27.25.159.105:18000/url/api.php?id=65202&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",黑龙江都市
+http://27.25.159.105:18000/url/api.php?id=56547&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",黑龙江影视
+http://27.25.159.105:18000/url/api.php?id=99077&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",黑龙江影视
+http://27.25.159.105:18000/url/api.php?id=61060&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",黑龙江少儿
+http://27.25.159.105:18000/url/api.php?id=51800&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",黑龙江少儿
+http://27.25.159.105:18000/url/api.php?id=67947&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",黑龙江文体
+http://27.25.159.105:18000/url/api.php?id=10773&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",黑龙江文体
+http://27.25.159.105:18000/url/api.php?id=11673&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",哈尔滨新闻
+http://27.25.159.105:18000/url/api.php?id=96155&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",哈尔滨生活
+http://27.25.159.105:18000/url/api.php?id=83715&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",哈尔滨影视
+http://27.25.159.105:18000/url/api.php?id=87923&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",哈尔滨新闻
+http://27.25.159.105:18000/url/api.php?id=79450&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",哈尔滨影视
+http://27.25.159.105:18000/url/api.php?id=32232&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",哈尔滨娱乐
+http://27.25.159.105:18000/url/api.php?id=41425&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",哈尔滨生活
+http://27.25.159.105:18000/url/api.php?id=34131&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",哈尔滨都市
+http://27.25.159.105:18000/url/api.php?id=17949&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",林甸综合
+http://27.25.159.105:18000/url/api.php?id=46538&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",鸡西新闻
+http://27.25.159.105:18000/url/api.php?id=30898&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",齐齐哈尔经济
+http://27.25.159.105:18000/url/api.php?id=11957&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",齐齐哈尔新闻
+http://27.25.159.105:18000/url/api.php?id=20684&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",双鸭山公共
+http://27.25.159.105:18000/url/api.php?id=62029&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",双鸭山综合
+http://27.25.159.105:18000/url/api.php?id=29595&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",哈尔滨新闻
+http://27.25.159.105:18000/url/api.php?id=88450&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",大庆新闻
+http://27.25.159.105:18000/url/api.php?id=78392&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",大庆公共
+http://27.25.159.105:18000/url/api.php?id=39954&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",绥化综合
+http://27.25.159.105:18000/url/api.php?id=38416&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",肇源综合
+http://27.25.159.105:18000/url/api.php?id=24019&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",富锦电视台
+http://27.25.159.105:18000/url/api.php?id=10848&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",抚远电视台
+http://27.25.159.105:18000/url/api.php?id=89623&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",桦川新闻
+http://27.25.159.105:18000/url/api.php?id=46083&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",同江电视台
+http://27.25.159.105:18000/url/api.php?id=68762&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",海伦综合
+http://27.25.159.105:18000/url/api.php?id=36878&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",兰西综合
+http://27.25.159.105:18000/url/api.php?id=99453&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",伊春综合
+http://27.25.159.105:18000/url/api.php?id=91434&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",鹤岗新闻
+http://27.25.159.105:18000/url/api.php?id=35601&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",七台河新闻
+http://27.25.159.105:18000/url/api.php?id=13291&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",佳木斯新闻
+http://27.25.159.105:18000/url/api.php?id=28274&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",鸡西新闻
+http://27.25.159.105:18000/url/api.php?id=39355&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",黑河新闻
+http://27.25.159.105:18000/url/api.php?id=90254&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",庆安综合
+http://27.25.159.105:18000/url/api.php?id=16171&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",青冈综合
+http://27.25.159.105:18000/url/api.php?id=59805&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",绥棱综合
+http://27.25.159.105:18000/url/api.php?id=50109&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",望奎综合
+http://27.25.159.105:18000/url/api.php?id=28636&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",肇东综合
+http://27.25.159.105:18000/url/api.php?id=67971&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",宾县综合频道
+http://27.25.159.105:18000/url/api.php?id=97523&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",巴彦电视台
+http://27.25.159.105:18000/url/api.php?id=34135&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",方正综合
+http://27.25.159.105:18000/url/api.php?id=69266&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",尚志新闻综合
+http://27.25.159.105:18000/url/api.php?id=81345&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",通河新闻
+http://27.25.159.105:18000/url/api.php?id=55932&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",五常综合
+http://27.25.159.105:18000/url/api.php?id=88025&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",延寿综合
+http://27.25.159.105:18000/url/api.php?id=65809&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",孙吴综合
+http://27.25.159.105:18000/url/api.php?id=65095&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",东宁综合
+http://27.25.159.105:18000/url/api.php?id=81166&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",林口综合
+http://27.25.159.105:18000/url/api.php?id=36037&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",宁安综合
+http://27.25.159.105:18000/url/api.php?id=58328&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",绥芬河综合
+http://27.25.159.105:18000/url/api.php?id=59395&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",铁力综合频道
+http://27.25.159.105:18000/url/api.php?id=77014&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",拜泉综合
+http://27.25.159.105:18000/url/api.php?id=19891&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",富裕综合
+http://27.25.159.105:18000/url/api.php?id=69765&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",甘南县综合
+http://27.25.159.105:18000/url/api.php?id=92040&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",克东综合
+http://27.25.159.105:18000/url/api.php?id=72602&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",克山综合
+http://27.25.159.105:18000/url/api.php?id=94887&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",讷河综合
+http://27.25.159.105:18000/url/api.php?id=36191&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",泰来综合
+http://27.25.159.105:18000/url/api.php?id=85239&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",依安综合
+http://27.25.159.105:18000/url/api.php?id=99478&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",呼玛综合
+http://27.25.159.105:18000/url/api.php?id=65802&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",漠河综合
+http://27.25.159.105:18000/url/api.php?id=69765&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",塔河综合
+http://27.25.159.105:18000/url/api.php?id=53840&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",虎林综合
+http://27.25.159.105:18000/url/api.php?id=64621&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",密山综合
+http://27.25.159.105:18000/url/api.php?id=74198&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",饶河综合
+http://27.25.159.105:18000/url/api.php?id=36803&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",友谊综合
+http://27.25.159.105:18000/url/api.php?id=89727&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",勃利综合频道
+http://27.25.159.105:18000/url/api.php?id=46993&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",巴彦综合
+http://27.25.159.105:18000/url/api.php?id=47787&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",依兰综合
+http://27.25.159.105:18000/url/api.php?id=81250&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",五常综合
+http://27.25.159.105:18000/url/api.php?id=59408&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",通河综合
+http://27.25.159.105:18000/url/api.php?id=74635&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",尚志综合
+http://27.25.159.105:18000/url/api.php?id=37637&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",延寿综合
+http://27.25.159.105:18000/url/api.php?id=61047&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",方正综合
+http://27.25.159.105:18000/url/api.php?id=47388&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",龙江综合
+http://27.25.159.105:18000/url/api.php?id=90921&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",依安综合
+http://27.25.159.105:18000/url/api.php?id=95608&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",泰来综合
+http://27.25.159.105:18000/url/api.php?id=21560&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",富裕综合
+http://27.25.159.105:18000/url/api.php?id=57127&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",克山综合
+http://27.25.159.105:18000/url/api.php?id=25702&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",克东综合
+http://27.25.159.105:18000/url/api.php?id=82897&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",讷河综合
+http://27.25.159.105:18000/url/api.php?id=88232&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",甘南综合
+http://27.25.159.105:18000/url/api.php?id=23748&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",拜泉综合
+http://27.25.159.105:18000/url/api.php?id=97198&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",绥芬河综合
+http://27.25.159.105:18000/url/api.php?id=27677&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",宁安综合
+http://27.25.159.105:18000/url/api.php?id=75578&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",穆棱新闻综合
+http://27.25.159.105:18000/url/api.php?id=95039&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",林口综合
+http://27.25.159.105:18000/url/api.php?id=71906&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",东宁综合
+http://27.25.159.105:18000/url/api.php?id=75575&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",佳木斯新闻综合
+http://27.25.159.105:18000/url/api.php?id=81681&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",同江综合
+http://27.25.159.105:18000/url/api.php?id=85762&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",富锦综合
+http://27.25.159.105:18000/url/api.php?id=15612&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",桦川综合
+http://27.25.159.105:18000/url/api.php?id=27312&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",桦南综合
+http://27.25.159.105:18000/url/api.php?id=90735&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",汤原综合
+http://27.25.159.105:18000/url/api.php?id=95780&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",抚远综合
+http://27.25.159.105:18000/url/api.php?id=51679&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",大庆新闻
+http://27.25.159.105:18000/url/api.php?id=18507&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",肇州综合
+http://27.25.159.105:18000/url/api.php?id=74486&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",肇源综合
+http://27.25.159.105:18000/url/api.php?id=14244&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",鸡东综合
+http://27.25.159.105:18000/url/api.php?id=39206&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",虎林综合
+http://27.25.159.105:18000/url/api.php?id=72997&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",密山综合
+http://27.25.159.105:18000/url/api.php?id=50166&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",集贤综合
+http://27.25.159.105:18000/url/api.php?id=58046&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",友谊综合
+http://27.25.159.105:18000/url/api.php?id=18162&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",宝清综合
+http://27.25.159.105:18000/url/api.php?id=78981&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",饶河综合
+http://27.25.159.105:18000/url/api.php?id=48486&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",伊春综合
+http://27.25.159.105:18000/url/api.php?id=80134&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",嘉荫综合
+http://27.25.159.105:18000/url/api.php?id=46720&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",铁力综合
+http://27.25.159.105:18000/url/api.php?id=91316&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",七台河新闻综合
+http://27.25.159.105:18000/url/api.php?id=94827&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",勃利综合
+http://27.25.159.105:18000/url/api.php?id=18505&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",鹤岗新闻综合
+http://27.25.159.105:18000/url/api.php?id=71835&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",绥滨综合
+http://27.25.159.105:18000/url/api.php?id=68446&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",绥化新闻综合
+http://27.25.159.105:18000/url/api.php?id=16198&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",望奎综合
+http://27.25.159.105:18000/url/api.php?id=51251&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",兰西综合
+http://27.25.159.105:18000/url/api.php?id=22813&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",青冈综合
+http://27.25.159.105:18000/url/api.php?id=16287&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",庆安综合
+http://27.25.159.105:18000/url/api.php?id=39878&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",明水综合
+http://27.25.159.105:18000/url/api.php?id=91152&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",绥棱综合
+http://27.25.159.105:18000/url/api.php?id=14777&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",安达综合
+http://27.25.159.105:18000/url/api.php?id=53231&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",肇东综合
+http://27.25.159.105:18000/url/api.php?id=50970&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",海伦综合
+http://27.25.159.105:18000/url/api.php?id=36948&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",黑河新闻综合
+http://27.25.159.105:18000/url/api.php?id=79768&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",嫩江综合
+http://27.25.159.105:18000/url/api.php?id=73140&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",孙吴综合
+http://27.25.159.105:18000/url/api.php?id=13413&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",北安综合
+http://27.25.159.105:18000/url/api.php?id=28630&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",五大连池综合
+http://27.25.159.105:18000/url/api.php?id=85301&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",大兴安岭新闻综合
+http://27.25.159.105:18000/url/api.php?id=37781&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",呼玛综合
+http://27.25.159.105:18000/url/api.php?id=86930&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",塔河综合
+http://27.25.159.105:18000/url/api.php?id=62628&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",漠河综合
+http://27.25.159.105:18000/url/api.php?id=10621&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",哈尔滨娱乐
+http://27.25.159.105:18000/url/api.php?id=51288&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",呼兰综合
+http://27.25.159.105:18000/url/api.php?id=64151&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",依兰新闻综合
+http://27.25.159.105:18000/url/api.php?id=95538&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",大兴安岭新闻综合
+http://27.25.159.105:18000/url/api.php?id=37032&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",嫩江综合
+http://27.25.159.105:18000/url/api.php?id=92542&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",五大连池综合
+http://27.25.159.105:18000/url/api.php?id=24463&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",桦南综合
+http://27.25.159.105:18000/url/api.php?id=51100&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",汤原综合
+http://27.25.159.105:18000/url/api.php?id=20708&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",海林综合
+http://27.25.159.105:18000/url/api.php?id=63594&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",齐齐哈尔综合
+http://27.25.159.105:18000/url/api.php?id=97084&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",安达综合
+http://27.25.159.105:18000/url/api.php?id=42952&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",明水综合
+http://27.25.159.105:18000/url/api.php?id=79647&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",宝清综合
+http://27.25.159.105:18000/url/api.php?id=72782&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",林甸综合
+http://27.25.159.105:18000/url/api.php?id=71732&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",大庆新闻综合
+http://27.25.159.105:18000/url/api.php?id=75397&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",肇源综合
+http://27.25.159.105:18000/url/api.php?id=36095&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",肇州综合
+http://27.25.159.105:18000/url/api.php?id=41313&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",呼玛综合
+http://27.25.159.105:18000/url/api.php?id=43707&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",漠河综合
+http://27.25.159.105:18000/url/api.php?id=40156&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",塔河综合
+http://27.25.159.105:18000/url/api.php?id=41604&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",鹤岗综合
+http://27.25.159.105:18000/url/api.php?id=36577&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",嫩江综合
+http://27.25.159.105:18000/url/api.php?id=88562&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",孙吴综合
+http://27.25.159.105:18000/url/api.php?id=93591&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",黑河新闻综合
+http://27.25.159.105:18000/url/api.php?id=73903&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",五大连池综合
+http://27.25.159.105:18000/url/api.php?id=87264&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",逊克综合
+http://27.25.159.105:18000/url/api.php?id=56387&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",佳木斯新闻综合
+http://27.25.159.105:18000/url/api.php?id=79617&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",富锦电视台
+http://27.25.159.105:18000/url/api.php?id=57685&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",抚远电视台
+http://27.25.159.105:18000/url/api.php?id=44899&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",桦川新闻综合
+http://27.25.159.105:18000/url/api.php?id=79125&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",桦南综合
+http://27.25.159.105:18000/url/api.php?id=44554&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",汤原综合
+http://27.25.159.105:18000/url/api.php?id=68944&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",虎林综合
+http://27.25.159.105:18000/url/api.php?id=15215&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",密山综合
+http://27.25.159.105:18000/url/api.php?id=43250&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",牡丹江综合
+http://27.25.159.105:18000/url/api.php?id=88451&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",东宁综合
+http://27.25.159.105:18000/url/api.php?id=23916&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",海林综合
+http://27.25.159.105:18000/url/api.php?id=95882&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",林口综合
+http://27.25.159.105:18000/url/api.php?id=17163&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",宁安综合
+http://27.25.159.105:18000/url/api.php?id=36333&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",绥芬河综合
+http://27.25.159.105:18000/url/api.php?id=48945&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",拜泉综合
+http://27.25.159.105:18000/url/api.php?id=37101&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",富裕综合
+http://27.25.159.105:18000/url/api.php?id=14352&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",甘南县综合
+http://27.25.159.105:18000/url/api.php?id=94705&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",克东综合
+http://27.25.159.105:18000/url/api.php?id=94761&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",克山综合
+http://27.25.159.105:18000/url/api.php?id=54607&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",龙江综合
+http://27.25.159.105:18000/url/api.php?id=75497&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",讷河综合
+http://27.25.159.105:18000/url/api.php?id=46193&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",依安综合
+http://27.25.159.105:18000/url/api.php?id=41362&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",七台河综合
+http://27.25.159.105:18000/url/api.php?id=57738&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",勃利综合频道
+http://27.25.159.105:18000/url/api.php?id=80610&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",齐齐哈尔新闻综合
+http://27.25.159.105:18000/url/api.php?id=49807&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",安达综合
+http://27.25.159.105:18000/url/api.php?id=34000&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",海伦综合
+http://27.25.159.105:18000/url/api.php?id=60505&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",兰西综合
+http://27.25.159.105:18000/url/api.php?id=98766&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",明水综合
+http://27.25.159.105:18000/url/api.php?id=75334&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",庆安综合
+http://27.25.159.105:18000/url/api.php?id=60470&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",青冈综合
+http://27.25.159.105:18000/url/api.php?id=79166&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",绥棱综合
+http://27.25.159.105:18000/url/api.php?id=68117&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",绥化综合
+http://27.25.159.105:18000/url/api.php?id=54461&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",望奎综合
+http://27.25.159.105:18000/url/api.php?id=19002&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",肇东综合
+http://27.25.159.105:18000/url/api.php?id=91763&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",双鸭山综合
+http://27.25.159.105:18000/url/api.php?id=43786&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",宝清综合
+http://27.25.159.105:18000/url/api.php?id=29181&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",饶河综合
+http://27.25.159.105:18000/url/api.php?id=72345&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",友谊综合
+http://27.25.159.105:18000/url/api.php?id=30075&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",铁力综合
+http://27.25.159.105:18000/url/api.php?id=93556&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="黑龙江频道",伊春综合
+http://27.25.159.105:18000/url/api.php?id=11326&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="辽宁频道",德惠综合
+http://27.25.159.105:18000/url/api.php?id=60632&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="辽宁频道",九台区电视台
+http://27.25.159.105:18000/url/api.php?id=66969&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="辽宁频道",双阳综合
+http://27.25.159.105:18000/url/api.php?id=38142&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="辽宁频道",桦甸综合
+http://27.25.159.105:18000/url/api.php?id=42078&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="辽宁频道",磐石综合
+http://27.25.159.105:18000/url/api.php?id=19508&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="辽宁频道",舒兰综合
+http://27.25.159.105:18000/url/api.php?id=64561&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="辽宁频道",永吉综合
+http://27.25.159.105:18000/url/api.php?id=61138&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="辽宁频道",长白山综合
+http://27.25.159.105:18000/url/api.php?id=17058&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="辽宁频道",敦化一套
+http://27.25.159.105:18000/url/api.php?id=12007&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="辽宁频道",珲春电视台
+http://27.25.159.105:18000/url/api.php?id=58363&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="辽宁频道",龙井综合
+http://27.25.159.105:18000/url/api.php?id=84333&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="辽宁频道",汪清综合
+http://27.25.159.105:18000/url/api.php?id=86141&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="辽宁频道",延吉综合
+http://27.25.159.105:18000/url/api.php?id=95001&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="辽宁频道",大安新闻综合
+http://27.25.159.105:18000/url/api.php?id=76932&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="辽宁频道",洮南综合
+http://27.25.159.105:18000/url/api.php?id=71343&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="辽宁频道",通榆综合
+http://27.25.159.105:18000/url/api.php?id=16016&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="辽宁频道",镇赉综合
+http://27.25.159.105:18000/url/api.php?id=75156&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="辽宁频道",扶余综合
+http://27.25.159.105:18000/url/api.php?id=31034&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="辽宁频道",乾安综合
+http://27.25.159.105:18000/url/api.php?id=96790&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="辽宁频道",公主岭综合
+http://27.25.159.105:18000/url/api.php?id=94609&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="辽宁频道",梨树新闻
+http://27.25.159.105:18000/url/api.php?id=46843&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="辽宁频道",双辽综合
+http://27.25.159.105:18000/url/api.php?id=41899&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="辽宁频道",伊通综合
+http://27.25.159.105:18000/url/api.php?id=26949&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="辽宁频道",东丰综合
+http://27.25.159.105:18000/url/api.php?id=19481&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="辽宁频道",东辽综合
+http://27.25.159.105:18000/url/api.php?id=98383&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="辽宁频道",抚松综合
+http://27.25.159.105:18000/url/api.php?id=14908&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="辽宁频道",江源综合
+http://27.25.159.105:18000/url/api.php?id=20526&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="辽宁频道",靖宇综合
+http://27.25.159.105:18000/url/api.php?id=30611&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="辽宁频道",临江综合
+http://27.25.159.105:18000/url/api.php?id=98393&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="辽宁频道",辉南综合
+http://27.25.159.105:18000/url/api.php?id=67549&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="辽宁频道",柳河综合
+http://27.25.159.105:18000/url/api.php?id=48756&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="辽宁频道",通化县综合
+http://27.25.159.105:18000/url/api.php?id=39555&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="重庆频道",垫江综合
+http://27.25.159.105:18000/url/api.php?id=51275&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="甘肃频道",天祝综合
+http://27.25.159.105:18000/url/api.php?id=56048&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="甘肃频道",永昌综合
+http://27.25.159.105:18000/url/api.php?id=71672&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="甘肃频道",敦煌频道
+http://27.25.159.105:18000/url/api.php?id=98114&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="甘肃频道",白银文教
+http://27.25.159.105:18000/url/api.php?id=51689&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="甘肃频道",嘉峪关综合
+http://27.25.159.105:18000/url/api.php?id=18717&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="甘肃频道",定西综合
+http://27.25.159.105:18000/url/api.php?id=44810&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="甘肃频道",定西文旅
+http://27.25.159.105:18000/url/api.php?id=34343&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="甘肃频道",陇南公共
+http://27.25.159.105:18000/url/api.php?id=11552&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="甘肃频道",陇南综合
+http://27.25.159.105:18000/url/api.php?id=67362&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="甘肃频道",平凉综合
+http://27.25.159.105:18000/url/api.php?id=68920&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="甘肃频道",庆阳综合
+http://27.25.159.105:18000/url/api.php?id=77770&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="甘肃频道",庆阳文旅
+http://27.25.159.105:18000/url/api.php?id=95492&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="甘肃频道",张掖综合
+http://27.25.159.105:18000/url/api.php?id=48478&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="甘肃频道",张掖农旅
+http://27.25.159.105:18000/url/api.php?id=20775&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="甘肃频道",静宁综合
+http://27.25.159.105:18000/url/api.php?id=99951&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="甘肃频道",甘州综合
+http://27.25.159.105:18000/url/api.php?id=99068&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="甘肃频道",秦安综合
+http://27.25.159.105:18000/url/api.php?id=84733&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="甘肃频道",清水综合
+http://27.25.159.105:18000/url/api.php?id=61450&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="甘肃频道",景泰综合
+http://27.25.159.105:18000/url/api.php?id=42320&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="甘肃频道",靖远综合
+http://27.25.159.105:18000/url/api.php?id=37395&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="甘肃频道",陇西综合
+http://27.25.159.105:18000/url/api.php?id=88947&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="甘肃频道",渭源综合
+http://27.25.159.105:18000/url/api.php?id=73047&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="甘肃频道",庄浪综合
+http://27.25.159.105:18000/url/api.php?id=41059&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="甘肃频道",西峰综合
+http://27.25.159.105:18000/url/api.php?id=67446&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="甘肃频道",西和综合
+http://27.25.159.105:18000/url/api.php?id=43312&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="甘肃频道",成县综合
+http://27.25.159.105:18000/url/api.php?id=16155&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="甘肃频道",会宁综合
+http://27.25.159.105:18000/url/api.php?id=64022&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="江西频道",湘潭综合
+http://27.25.159.105:18000/url/api.php?id=51015&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="内蒙频道",内蒙古经济生活
+http://27.25.159.105:18000/url/api.php?id=79892&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="内蒙频道",内蒙古蒙语卫视
+http://27.25.159.105:18000/url/api.php?id=77107&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="内蒙频道",内蒙古农牧频道
+http://27.25.159.105:18000/url/api.php?id=72320&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="内蒙频道",内蒙古农牧频道
+http://27.25.159.105:18000/url/api.php?id=41164&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="内蒙频道",内蒙古少儿频道
+http://27.25.159.105:18000/url/api.php?id=92986&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="内蒙频道",内蒙古文化频道
+http://27.25.159.105:18000/url/api.php?id=71341&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="内蒙频道",内蒙古文体娱乐
+http://27.25.159.105:18000/url/api.php?id=42326&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="内蒙频道",内蒙古新闻综合
+http://27.25.159.105:18000/url/api.php?id=10487&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="内蒙频道",昆玉综合
+http://27.25.159.105:18000/url/api.php?id=28748&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="内蒙频道",奎屯汉语
+http://27.25.159.105:18000/url/api.php?id=53138&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="内蒙频道",奎屯哈萨克语
+http://27.25.159.105:18000/url/api.php?id=75340&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="内蒙频道",玛纳斯综合
+http://27.25.159.105:18000/url/api.php?id=84684&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="内蒙频道",包头新闻
+http://27.25.159.105:18000/url/api.php?id=14655&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="内蒙频道",包头新闻
+http://27.25.159.105:18000/url/api.php?id=43634&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="内蒙频道",鄂托克旗
+http://27.25.159.105:18000/url/api.php?id=70910&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="内蒙频道",鄂托克旗
+http://27.25.159.105:18000/url/api.php?id=96906&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="内蒙频道",可克达拉综合
+http://27.25.159.105:18000/url/api.php?id=33905&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="内蒙频道",松桃新闻
+http://27.25.159.105:18000/url/api.php?id=20239&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="内蒙频道",凤冈
+http://27.25.159.105:18000/url/api.php?id=85511&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="内蒙频道",七星关
+http://27.25.159.105:18000/url/api.php?id=83869&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="宁夏频道",吴忠公共
+http://27.25.159.105:18000/url/api.php?id=10069&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="宁夏频道",吴忠综合
+http://27.25.159.105:18000/url/api.php?id=21292&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="宁夏频道",安多卫视
+http://27.25.159.105:18000/url/api.php?id=34412&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="宁夏频道",门源综合
+http://27.25.159.105:18000/url/api.php?id=61143&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="宁夏频道",化隆综合
+http://27.25.159.105:18000/url/api.php?id=70207&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="宁夏频道",民和综合
+http://27.25.159.105:18000/url/api.php?id=26002&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="宁夏频道",兴海综合
+http://27.25.159.105:18000/url/api.php?id=20557&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="宁夏频道",大通电视
+http://27.25.159.105:18000/url/api.php?id=93292&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="宁夏频道",湟中电视
+http://27.25.159.105:18000/url/api.php?id=11206&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="宁夏频道",西宁综合
+http://27.25.159.105:18000/url/api.php?id=11223&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="宁夏频道",西宁生活
+http://27.25.159.105:18000/url/api.php?id=20450&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="青海频道",青海综合
+http://27.25.159.105:18000/url/api.php?id=85291&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="青海频道",西宁生活
+http://27.25.159.105:18000/url/api.php?id=71797&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="青海频道",西宁综合
+http://27.25.159.105:18000/url/api.php?id=42035&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="青海频道",大通电视
+http://27.25.159.105:18000/url/api.php?id=62080&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="青海频道",贵南电视
+http://27.25.159.105:18000/url/api.php?id=13349&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="青海频道",民和电视
+http://27.25.159.105:18000/url/api.php?id=83560&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="青海频道",门源电视
+http://27.25.159.105:18000/url/api.php?id=82845&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="青海频道",祁连综合
+http://27.25.159.105:18000/url/api.php?id=63229&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="青海频道",青海卫视
+http://27.25.159.105:18000/url/api.php?id=71466&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="青海频道",青海经视
+http://27.25.159.105:18000/url/api.php?id=83371&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="青海频道",青海都市
+http://27.25.159.105:18000/url/api.php?id=53728&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="青海频道",安多卫视
+http://27.25.159.105:18000/url/api.php?id=80705&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="新疆频道",伊犁哈萨克
+http://27.25.159.105:18000/url/api.php?id=95947&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="新疆频道",伊犁汉语综合
+http://27.25.159.105:18000/url/api.php?id=51732&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="新疆频道",伊犁经济法制
+http://27.25.159.105:18000/url/api.php?id=66262&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="新疆频道",伊犁维吾尔
+http://27.25.159.105:18000/url/api.php?id=65522&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="新疆频道",石河子新闻
+http://27.25.159.105:18000/url/api.php?id=36666&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="新疆频道",五师
+http://27.25.159.105:18000/url/api.php?id=92288&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="新疆频道",五师双河
+http://27.25.159.105:18000/url/api.php?id=79621&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="新疆频道",五家渠
+http://27.25.159.105:18000/url/api.php?id=26730&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="新疆频道",胡杨河新闻
+http://27.25.159.105:18000/url/api.php?id=76550&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="新疆频道",新星
+http://27.25.159.105:18000/url/api.php?id=53863&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="新疆频道",克拉玛依影视剧场
+http://27.25.159.105:18000/url/api.php?id=23810&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="西藏频道",西藏卫视
+http://27.25.159.105:18000/url/api.php?id=23050&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="西藏频道",藏语卫视
+http://27.25.159.105:18000/url/api.php?id=10777&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="西藏频道",西藏影视
+http://27.25.159.105:18000/url/api.php?id=98421&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="西藏频道",西藏卫视
+http://27.25.159.105:18000/url/api.php?id=36748&tk=e6cd2ca4f273870db7
+#EXTINF:-1 group-title="西藏频道",西藏影视文化
+http://27.25.159.105:18000/url/api.php?id=55439&tk=e6cd2ca4f273870db7
