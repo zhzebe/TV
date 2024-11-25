@@ -1,9 +1,7 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/第一财经.png",第一财经
-http:/116.226.38.242:4022/rtp/239.45.3.211:5140
+http:/116.231.168.117:4022/rtp/239.45.3.211:5140
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/第一财经.png",第一财经
-http:/116.231.244.25:8888/rtp/239.45.3.211:5140
+http:/222.65.134.102:10000/rtp/239.45.3.211:5140
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/第一财经.png",第一财经
-http:/218.78.182.82:10000/rtp/239.45.3.211:5140
-#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/第一财经.png",第一财经
-http:/116.227.10.196:2048/rtp/239.45.3.211:5140
+http:/139.196.151.191:2051/rtp/239.45.3.211:5140
